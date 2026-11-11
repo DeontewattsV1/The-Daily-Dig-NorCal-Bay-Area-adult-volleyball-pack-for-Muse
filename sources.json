@@ -1,0 +1,580 @@
+{
+  "_about": "Scrape/watch sources for daily_dig.py. Public pages only. No logins. Personal data (attendee names, payment handles, phone numbers) is never stored.",
+  "reclub_clubs": [
+    {
+      "slug": "209-925-volleyball-club",
+      "name": "209/925 Volleyball Club",
+      "url": "https://reclub.co/clubs/@209-925-volleyball-club"
+    },
+    {
+      "slug": "510vb",
+      "name": "510vb",
+      "url": "https://reclub.co/clubs/@510vb"
+    },
+    {
+      "slug": "aces-and-kings-weekend-warriors",
+      "name": "Aces & Kings",
+      "url": "https://reclub.co/clubs/@aces-and-kings-weekend-warriors"
+    },
+    {
+      "slug": "alviso-in-action-volleyball",
+      "name": "Alviso in Action volleyball",
+      "url": "https://reclub.co/clubs/@alviso-in-action-volleyball"
+    },
+    {
+      "slug": "barbz-open-gym",
+      "name": "Barbz Open Gym",
+      "url": "https://reclub.co/clubs/@barbz-open-gym"
+    },
+    {
+      "slug": "bay-area-grass-meetups",
+      "name": "Bay Area Grass Meetups",
+      "url": "https://reclub.co/clubs/@bay-area-grass-meetups"
+    },
+    {
+      "slug": "bayarea.opengyms",
+      "name": "Bay Area Open Gyms",
+      "url": "https://reclub.co/clubs/@bayarea.opengyms"
+    },
+    {
+      "slug": "bsh-eastbay",
+      "name": "BSH East Bay Volleyball 🏐",
+      "url": "https://reclub.co/clubs/@bsh-eastbay"
+    },
+    {
+      "slug": "doubles-vb",
+      "name": "~BB+ Volleyball Doubles",
+      "url": "https://reclub.co/clubs/@doubles-vb"
+    },
+    {
+      "slug": "east-bay-volleyball",
+      "name": "East Bay Volleyball",
+      "url": "https://reclub.co/clubs/@east-bay-volleyball"
+    },
+    {
+      "slug": "fremont-volleyball-open-gym",
+      "name": "Fremont Volleyball Open Gym",
+      "url": "https://reclub.co/clubs/@fremont-volleyball-open-gym"
+    },
+    {
+      "slug": "g1-sports-volleyball",
+      "name": "G1 sports - volleyball",
+      "url": "https://reclub.co/clubs/@g1-sports-volleyball"
+    },
+    {
+      "slug": "good-vibes-volleyball",
+      "name": "Good Vibes Volleyball",
+      "url": "https://reclub.co/clubs/@good-vibes-volleyball"
+    },
+    {
+      "slug": "gya-volleyball",
+      "name": "GYA Volleyball",
+      "url": "https://reclub.co/clubs/@gya-volleyball"
+    },
+    {
+      "slug": "hayward-area-recreation-division-volleyball",
+      "name": "Hayward Area Recreation Division Volleyball",
+      "url": "https://reclub.co/clubs/@hayward-area-recreation-division-volleyball"
+    },
+    {
+      "slug": "hh-volleyball",
+      "name": "HH Volleyball",
+      "url": "https://reclub.co/clubs/@hh-volleyball"
+    },
+    {
+      "slug": "high-tide-adult-volleyball-drop-in",
+      "name": "High Tide Adult Volleyball Drop In",
+      "url": "https://reclub.co/clubs/@high-tide-adult-volleyball-drop-in"
+    },
+    {
+      "slug": "indoor-volleyball-walnut-creek-b-rated-players-fri-10am",
+      "name": "Pleasant Hill Grass Volleyball, Sun 2:00",
+      "url": "https://reclub.co/clubs/@indoor-volleyball-walnut-creek-b-rated-players-fri-10am"
+    },
+    {
+      "slug": "live-oak-volleyball-san-francisco-bay-area-california-usa-47",
+      "name": "Live oak volleyball",
+      "url": "https://reclub.co/clubs/@live-oak-volleyball-san-francisco-bay-area-california-usa-47"
+    },
+    {
+      "slug": "marina-park-volleyball",
+      "name": "Alameda beach & Marina Park Volleyball",
+      "url": "https://reclub.co/clubs/@marina-park-volleyball"
+    },
+    {
+      "slug": "matcha",
+      "name": "Matcha",
+      "url": "https://reclub.co/clubs/@matcha"
+    },
+    {
+      "slug": "monterey-volleyball",
+      "name": "Monterey Volleyball",
+      "url": "https://reclub.co/clubs/@monterey-volleyball"
+    },
+    {
+      "slug": "mvvclub",
+      "name": "Mountain View Volleyball Club",
+      "url": "https://reclub.co/clubs/@mvvclub"
+    },
+    {
+      "slug": "oakland-outdoor-vb",
+      "name": "Oakland/Berkeley outdoor pick up game! (W Meri)",
+      "url": "https://reclub.co/clubs/@oakland-outdoor-vb"
+    },
+    {
+      "slug": "ocean_beach_sf_volleyballclub",
+      "name": "Volleyball Training and Playing. San Francisco",
+      "url": "https://reclub.co/clubs/@ocean_beach_sf_volleyballclub"
+    },
+    {
+      "slug": "pacifica-ignite-volleyball-club",
+      "name": "Pacifica Ignite Volleyball Club",
+      "url": "https://reclub.co/clubs/@pacifica-ignite-volleyball-club"
+    },
+    {
+      "slug": "rancho-cordova-ovb",
+      "name": "Rancho Cordova OVB",
+      "url": "https://reclub.co/clubs/@rancho-cordova-ovb"
+    },
+    {
+      "slug": "red-rock-alameda-open-gyms",
+      "name": "Red Rock Alameda Open Gyms",
+      "url": "https://reclub.co/clubs/@red-rock-alameda-open-gyms"
+    },
+    {
+      "slug": "sac-attack-volleyball",
+      "name": "Sac Attack Volleyball",
+      "url": "https://reclub.co/clubs/@sac-attack-volleyball"
+    },
+    {
+      "slug": "san-francisco-women-s-volleyball",
+      "name": "San Francisco Women's Volleyball",
+      "url": "https://reclub.co/clubs/@san-francisco-women-s-volleyball"
+    },
+    {
+      "slug": "san-joaquin-county-open-volleyball-gyms",
+      "name": "San Joaquin County Open Volleyball Gyms",
+      "url": "https://reclub.co/clubs/@san-joaquin-county-open-volleyball-gyms"
+    },
+    {
+      "slug": "sf.dynasty",
+      "name": "Dynasty Volleyball",
+      "url": "https://reclub.co/clubs/@sf.dynasty"
+    },
+    {
+      "slug": "skillsetvolleyball-bayarea",
+      "name": "SkillSet 🏐 Bay Area",
+      "url": "https://reclub.co/clubs/@skillsetvolleyball-bayarea"
+    },
+    {
+      "slug": "skillsetvolleyball-sacramento",
+      "name": "SkillSet 🏐 Sacramento",
+      "url": "https://reclub.co/clubs/@skillsetvolleyball-sacramento"
+    },
+    {
+      "slug": "smash-bay-athletics",
+      "name": "Hayward - SMASH Bay Athletics",
+      "url": "https://reclub.co/clubs/@smash-bay-athletics"
+    },
+    {
+      "slug": "spikeright-volleyball-open-gyms",
+      "name": "SpikeRight Volleyball Open Gyms",
+      "url": "https://reclub.co/clubs/@spikeright-volleyball-open-gyms"
+    },
+    {
+      "slug": "svvc",
+      "name": "SVVC: Bay Area Volleyball Classes and Clinics",
+      "url": "https://reclub.co/clubs/@svvc"
+    },
+    {
+      "slug": "the-golden-state-volleyball-club",
+      "name": "The Golden State Volleyball Club",
+      "url": "https://reclub.co/clubs/@the-golden-state-volleyball-club"
+    },
+    {
+      "slug": "theblock",
+      "name": "TheBlock",
+      "url": "https://reclub.co/clubs/@theblock"
+    },
+    {
+      "slug": "tri-city-volleyball",
+      "name": "Tri-City Volleyball",
+      "url": "https://reclub.co/clubs/@tri-city-volleyball"
+    },
+    {
+      "slug": "tyrants-volleyball-club",
+      "name": "Tyrants Volleyball Club",
+      "url": "https://reclub.co/clubs/@tyrants-volleyball-club"
+    },
+    {
+      "slug": "vwpg-women-s",
+      "name": "VWPG Women's 🏐✨",
+      "url": "https://reclub.co/clubs/@vwpg-women-s"
+    }
+  ],
+  "reclub_meet_detail_limit": 60,
+  "heylo_groups": [
+    {
+      "name": "SF Pickup Volleyball",
+      "url": "https://www.heylo.com/g/-LsD1YBcDKPOcrsMQ-mT"
+    },
+    {
+      "name": "San Francisco Beach Volleyball - SFBV",
+      "url": "https://www.heylo.com/g/7b9b7d08-d381-4280-bbc7-612795d40302"
+    }
+  ],
+  "meetup_search_pages": [
+    "https://www.meetup.com/find/us--ca--san-francisco/volleyball/",
+    "https://www.meetup.com/find/us--ca--san-francisco/beach-volleyball/",
+    "https://www.meetup.com/find/us--ca--oakland/volleyball/",
+    "https://www.meetup.com/find/us--ca--oakland/beach-volleyball/",
+    "https://www.meetup.com/find/us--ca--san-jose/volleyball/",
+    "https://www.meetup.com/find/us--ca--sacramento/volleyball/",
+    "https://www.meetup.com/find/us--ca--sacramento/beach-volleyball/",
+    "https://www.meetup.com/find/us--ca--palo-alto/volleyball/",
+    "https://www.meetup.com/find/us--ca--walnut-creek/volleyball/",
+    "https://www.meetup.com/find/us--ca--walnut-creek/beach-volleyball/",
+    "https://www.meetup.com/find/us--ca--sunnyvale/volleyball/",
+    "https://www.meetup.com/find/us--ca--mountain-view/volleyball/",
+    "https://www.meetup.com/find/us--ca--emeryville/volleyball/",
+    "https://www.meetup.com/find/?keywords=volleyball&location=us--ca--menlo-park",
+    "https://www.meetup.com/find/?keywords=volleyball&location=us--ca--redwood-city",
+    "https://www.meetup.com/find/?keywords=volleyball&location=us--ca--folsom",
+    "https://www.meetup.com/find/?keywords=volleyball&location=us--ca--napa",
+    "https://www.meetup.com/find/?keywords=volleyball&location=us--ca--santa-cruz"
+  ],
+  "watch_pages": [
+    {
+      "name": "SF Rec & Park – Drop-in Volleyball (Advanced), Eureka Valley Rec Center",
+      "url": "https://www.sfrecpark.org/Facilities/Facility/Details/Eureka-Valley-Rec-Center-86",
+      "record_id": "DD-001"
+    },
+    {
+      "name": "SF Rec & Park – Drop-in Adult Volleyball (Advanced), Richmond Rec Center",
+      "url": "https://www.sfrecpark.org/Facilities/Facility/Details/Richmond-Recreation-Center-105",
+      "record_id": "DD-002"
+    },
+    {
+      "name": "SF Rec & Park – Fall 2026 adult drop-in volleyball (catalog: Sunset, Upper Noe, Potrero Hill women's, Moscone)",
+      "url": "https://sfrecpark.org/DocumentCenter/View/29711/Download-out-2026-Fall-Catalog-PDF",
+      "record_id": "DD-003"
+    },
+    {
+      "name": "SF Rec & Park – Drop-in Volleyball, Betty Ann Ong Chinese Rec Center",
+      "url": "https://sf-parks.com/explore/recreation-facilities/betty-ann-ong-rec-center/",
+      "record_id": "DD-004"
+    },
+    {
+      "name": "SF Rec & Park Adult Sports Leagues (incl. Advanced Volleyball League)",
+      "url": "https://sfrecpark.org/1186/Adult-Sports-Leagues",
+      "record_id": "DD-005"
+    },
+    {
+      "name": "Berkeley – Adult Volleyball, James Kenney Community Center",
+      "url": "https://berkeleyca.gov/community-recreation/parks-recreation/facilities/james-kenney-community-center",
+      "record_id": "DD-006"
+    },
+    {
+      "name": "UC Berkeley RecWell – Volleyball open rec (RSF)",
+      "url": "https://recwell.berkeley.edu/schedules-reservations/volleyball/",
+      "record_id": "DD-007"
+    },
+    {
+      "name": "Emeryville – Open Gym Volleyball, Emeryville Center of Community Life",
+      "url": "https://www.emeryville.org/Recreation/Fitness/Fitness-Center-Open-Gym-Sports/Open-Gym-Volleyball",
+      "record_id": "DD-008"
+    },
+    {
+      "name": "Alameda Rec & Parks – Adult Open Gym (volleyball), Alameda Point Gym",
+      "url": "https://alameda.graphtek.com/recreation/adult-open-gym",
+      "record_id": "DD-009"
+    },
+    {
+      "name": "Crown Memorial State Beach volleyball courts (informal pickup)",
+      "url": "https://www.ebparks.org/parks/crown-beach",
+      "record_id": "DD-010"
+    },
+    {
+      "name": "Milpitas Sports Center – Adult Drop-in Volleyball",
+      "url": "https://www.milpitas.gov/1168/Drop-In-Sports---Open-Gym",
+      "record_id": "DD-012"
+    },
+    {
+      "name": "Sunnyvale – Drop-in Gym Volleyball, Sunnyvale Indoor Sports Center",
+      "url": "https://www.sunnyvale.ca.gov/recreation-and-community/classes-and-activities/sports/drop-in-gym",
+      "record_id": "DD-013"
+    },
+    {
+      "name": "Mountain View – Adult Drop-in Volleyball, Sports Pavilion",
+      "url": "https://www.mountainview.gov/our-city/departments/community-services/recreation/sports-fitness/adult-sports",
+      "record_id": "DD-014"
+    },
+    {
+      "name": "Campbell – Adult Open Gym Volleyball, Campbell Community Center",
+      "url": "https://www.campbellca.gov/recreation/sports",
+      "record_id": "DD-015"
+    },
+    {
+      "name": "Menlo Park – Adult Drop-in Volleyball, Arrillaga Family Gymnasium",
+      "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Recreation-and-sports/Volleyball",
+      "record_id": "DD-016"
+    },
+    {
+      "name": "Redwood City – Drop-in Volleyball, Armory",
+      "url": "https://www.redwoodcity.org/Home/Components/Calendar/Event/93437/",
+      "record_id": "DD-017"
+    },
+    {
+      "name": "San Mateo – Adult Drop-in Volleyball, MLK Community Center",
+      "url": "https://www.cityofsanmateo.org/DocumentCenter/View/106128/2026-Fall-Activity-Guide",
+      "record_id": "DD-018"
+    },
+    {
+      "name": "Daly City – Open Gym (Drop-in) Volleyball, Westlake",
+      "url": "https://www.active.com/daly-city-ca/volleyball/volleyball-classes/open-gym-drop-in-volleyball-westlake-fall-2026",
+      "record_id": "DD-019"
+    },
+    {
+      "name": "Walnut Creek – Drop-in Volleyball, Tice Valley Gym",
+      "url": "https://www.walnutcreekartsrec.org/programs-activities/sports/drop-in-sports",
+      "record_id": "DD-020"
+    },
+    {
+      "name": "Pleasanton – Open Gym Volleyball, Pleasanton Middle School",
+      "url": "https://www.hacienda.org/news-events/hacienda-online/pulse/2023/life/pleasanton-offers-great-adult-sports-premier-venues",
+      "record_id": "DD-021"
+    },
+    {
+      "name": "Concord – Adult Volleyball (league play)",
+      "url": "https://concordrec.myrec.com/info/calendar/mobile.aspx?AreaID=0&FacilityID=14697",
+      "record_id": "DD-023"
+    },
+    {
+      "name": "Benicia – Adult Open Gym Volleyball, City Gym",
+      "url": "https://www.ci.benicia.ca.us/index.asp?DE=92847786-8872-40E3-A61E-C0D39C4AA929&SEC=0586DC33-02F1-4FD5-8328-35753F76EF1B",
+      "record_id": "DD-024"
+    },
+    {
+      "name": "Napa – Adult Drop-in Volleyball, Harvest Recreation Complex",
+      "url": "https://www.cityofnapa.org/385/Adult-Sports",
+      "record_id": "DD-026"
+    },
+    {
+      "name": "Davis – Open Gym Volleyball, Davis Senior High School",
+      "url": "https://teamsideline.com/sites/davisca/content/27071/Open-Gym-Volleyball",
+      "record_id": "DD-027"
+    },
+    {
+      "name": "Roseville – Drop-in Volleyball, Mahany Fitness Center",
+      "url": "https://www.roseville.ca.gov/prl/parks_recreation/programs_classes/fitness.php",
+      "record_id": "DD-028"
+    },
+    {
+      "name": "Folsom – Adult Drop-in Volleyball, Folsom Middle School Gym",
+      "url": "https://www.folsom.ca.us/government/parks-recreation/recreation/programs/adult-programs/sports",
+      "record_id": "DD-029"
+    },
+    {
+      "name": "Cosumnes CSD – Drop-in Volleyball, Wackford Complex",
+      "url": "https://ca-cosumnescsd.civicplus.com/1426/Open-Gym-Drop-In-Programs",
+      "record_id": "DD-030"
+    },
+    {
+      "name": "San Jose – Drop-in Volleyball, Camden Community Center",
+      "url": "https://www.active.com/san-jose-ca/volleyball/volleyball-classes/drop-in-volleyball-thursday-2026-111059141",
+      "record_id": "DD-031"
+    },
+    {
+      "name": "Santa Cruz Main Beach volleyball courts (pickup)",
+      "url": "https://www.santacruzca.gov/Government/City-Departments/Parks-Recreation/Parks-Beaches-Open-Spaces/City-Beaches",
+      "record_id": "DD-034"
+    },
+    {
+      "name": "Stanford sand volleyball courts – postdoc pickup",
+      "url": "https://surpas.stanford.edu/postdoc-committees/sports/",
+      "record_id": "DD-036"
+    },
+    {
+      "name": "Active Sports Club Oakland – volleyball open gym",
+      "url": "https://bayareavolleyball.com/open-gyms/active-sports-club/",
+      "record_id": "DD-038"
+    },
+    {
+      "name": "SportsHouse Redwood City – Adult Volleyball drop-in & coed league",
+      "url": "https://www.sportshouse.us/adultcoedvolleyballleague",
+      "record_id": "DD-039"
+    },
+    {
+      "name": "Basketball Nation – Adult Volleyball Open Gym (Dream Courts)",
+      "url": "https://basketballnationusa.com/home/adult-volleyball-open-gym/",
+      "record_id": "DD-040"
+    },
+    {
+      "name": "IVL Open Gym – Wilcox High School (adult only)",
+      "url": "https://www.ivlvolleyball.com/indoor/open-gyms",
+      "record_id": "DD-047"
+    },
+    {
+      "name": "YMCA of Silicon Valley – court sports (volleyball) schedule",
+      "url": "https://www.ymcasv.org/court-sports-schedule",
+      "record_id": "DD-054"
+    },
+    {
+      "name": "Volo Sports SF – volleyball leagues, drop-ins & pickups",
+      "url": "https://www.volosports.com/san-francisco/volleyball",
+      "record_id": "DD-098"
+    },
+    {
+      "name": "ZogSports SF & East Bay – adult volleyball",
+      "url": "https://www.zogsports.com/sf/volleyball/",
+      "record_id": "DD-099"
+    },
+    {
+      "name": "Stonewall Sports SF – indoor volleyball (LGBTQ+)",
+      "url": "https://stonewallsportssf.leagueapps.com/leagues/volleyball/5145078--division-1--indoor-volleyball-sundays---fall-2026",
+      "record_id": "DD-100"
+    },
+    {
+      "name": "OutLoud Sports SF – volleyball (queer+)",
+      "url": "https://outloudsports.com/sanfrancisco",
+      "record_id": "DD-101"
+    },
+    {
+      "name": "Play in the Bay / SF Spikers",
+      "url": "https://playinthebay.leagueapps.com/leagues/3096575/schedule",
+      "record_id": "DD-102"
+    },
+    {
+      "name": "The League Sports (TLS)",
+      "url": "https://www.tl-sports.com/tournaments",
+      "record_id": "DD-104"
+    },
+    {
+      "name": "VolleyNation (grass tournaments)",
+      "url": "https://www.volleynation.com/",
+      "record_id": "DD-105"
+    },
+    {
+      "name": "CBVA – California Beach Volleyball Association (NorCal events e.g., Santa Cruz Main Beach)",
+      "url": "https://cbva.com/",
+      "record_id": "DD-106"
+    },
+    {
+      "name": "NCVA – Adult league/tournaments",
+      "url": "https://ncva.com/adult-league/",
+      "record_id": "DD-107"
+    },
+    {
+      "name": "VBmatch.com – coed & reverse-coed leagues, grass tournaments",
+      "url": "https://www.vbmatch.com",
+      "record_id": "DD-108"
+    },
+    {
+      "name": "Xoso Sport & Social – volleyball (Sacramento & Rocklin)",
+      "url": "https://www.xososports.com/sport/volleyball",
+      "record_id": "DD-109"
+    },
+    {
+      "name": "GoodRec – open play volleyball (Bay Area)",
+      "url": "https://www.goodrec.com/open-play-volleyball",
+      "record_id": "DD-110"
+    },
+    {
+      "name": "All Out Sports League – adult volleyball",
+      "url": "https://alloutsportsleague.com/programs/adult-volleyball",
+      "record_id": "DD-111"
+    },
+    {
+      "name": "Menlo Park – PerfectMind drop-in volleyball booking calendar",
+      "url": "https://cityofmenlopark.perfectmind.com/26116/Clients/BookMe4BookingPages/Classes?calendarId=561f5965-18ea-48d6-a516-95b4561e660f&embed=False&widgetId=15f6af07-39c5-473e-b053-96653f77a406",
+      "record_id": "DD-016",
+      "city": "Menlo Park"
+    },
+    {
+      "name": "Redwood City – Open Gym (Armory & Red Morton)",
+      "url": "https://www.redwoodcity.org/departments/parks-recreation-and-community-services/sports/open-gym",
+      "record_id": "DD-017",
+      "city": "Redwood City"
+    }
+  ],
+  "blocked_cities": {
+    "_about": "Official city rec pages that return 403/401 to this cloud network. daily_dig.py retries them via https://r.jina.ai/ and also uses the per-city news, Meetup and Reclub sources listed here. See blocked_cities.md.",
+    "mirror_prefix": "https://r.jina.ai/",
+    "names": [
+      "Sunnyvale",
+      "Mountain View",
+      "Menlo Park",
+      "Redwood City",
+      "Walnut Creek",
+      "Folsom",
+      "Emeryville",
+      "Santa Cruz",
+      "Napa"
+    ],
+    "official_pages": [
+      {
+        "city": "Sunnyvale",
+        "name": "Sunnyvale drop-in gym",
+        "url": "https://www.sunnyvale.ca.gov/recreation-and-community/classes-and-activities/sports/drop-in-gym",
+        "record_id": "DD-013",
+        "direct_status": 403
+      },
+      {
+        "city": "Mountain View",
+        "name": "Mountain View adult sports",
+        "url": "https://www.mountainview.gov/our-city/departments/community-services/recreation/sports-fitness/adult-sports",
+        "record_id": "DD-014",
+        "direct_status": 403
+      },
+      {
+        "city": "Menlo Park",
+        "name": "Menlo Park volleyball",
+        "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Recreation-and-sports/Volleyball",
+        "record_id": "DD-016",
+        "direct_status": 403
+      },
+      {
+        "city": "Redwood City",
+        "name": "Redwood City open gym",
+        "url": "https://www.redwoodcity.org/departments/parks-recreation-and-community-services/sports/open-gym",
+        "record_id": "DD-017",
+        "direct_status": 403
+      },
+      {
+        "city": "Walnut Creek",
+        "name": "Walnut Creek drop-in sports",
+        "url": "https://www.walnutcreekartsrec.org/programs-activities/sports/drop-in-sports",
+        "record_id": "DD-020",
+        "direct_status": 403
+      },
+      {
+        "city": "Folsom",
+        "name": "Folsom adult sports",
+        "url": "https://www.folsom.ca.us/government/parks-recreation/recreation/programs/adult-programs/sports",
+        "record_id": "DD-029",
+        "direct_status": 403
+      },
+      {
+        "city": "Emeryville",
+        "name": "Emeryville open gym volleyball",
+        "url": "https://www.emeryville.org/Recreation/Fitness/Fitness-Center-Open-Gym-Sports/Open-Gym-Volleyball",
+        "record_id": "DD-008",
+        "direct_status": 403
+      },
+      {
+        "city": "Santa Cruz",
+        "name": "Santa Cruz city beaches",
+        "url": "https://www.santacruzca.gov/Government/City-Departments/Parks-Recreation/Parks-Beaches-Open-Spaces/City-Beaches",
+        "record_id": "DD-034",
+        "direct_status": 403
+      },
+      {
+        "city": "Napa",
+        "name": "Napa adult sports",
+        "url": "https://www.cityofnapa.org/385/Adult-Sports",
+        "record_id": "DD-026",
+        "direct_status": 200
+      }
+    ]
+  }
+}

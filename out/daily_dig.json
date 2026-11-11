@@ -1,12 +1,12 @@
 {
  "meta": {
-  "generated_at": "2026-11-11T09:44:35.894988+00:00",
-  "generated_at_local": "2026-11-11 01:44 AM PT",
+  "generated_at": "2026-11-11T16:58:12.277088+00:00",
+  "generated_at_local": "2026-11-11 08:58 AM PT",
   "counts": {
-   "raw_items": 1000,
-   "kept": 151,
+   "raw_items": 989,
+   "kept": 148,
    "events": 130,
-   "news_and_updates": 21
+   "news_and_updates": 18
   },
   "sources_ok": 165,
   "sources_failed": 2,
@@ -233,21 +233,15 @@
    },
    "Emeryville": {
     "events": 0,
-    "news_and_updates": 1,
+    "news_and_updates": 0,
     "sample_events": [],
-    "sample_news": [
-     {
-      "title": "Updated: Emeryville – Open Gym Volleyball, Emeryville Center of Community Life",
-      "source": "Page watch",
-      "link": "https://www.emeryville.org/Recreation/Fitness/Fitness-Center-Open-Gym-Sports/Open-Gym-Volleyball"
-     }
-    ],
+    "sample_news": [],
     "sources_ok": 4,
     "sources_failed": 0
    },
    "Santa Cruz": {
     "events": 1,
-    "news_and_updates": 1,
+    "news_and_updates": 0,
     "sample_events": [
      {
       "date_local": "Sun Nov 15 2026, 12:00 PM PT",
@@ -257,13 +251,7 @@
       "verification_state": "DISCOVERED"
      }
     ],
-    "sample_news": [
-     {
-      "title": "Updated: Santa Cruz Main Beach volleyball courts (pickup)",
-      "source": "Page watch",
-      "link": "https://www.santacruzca.gov/Government/City-Departments/Parks-Recreation/Parks-Beaches-Open-Spaces/City-Beaches"
-     }
-    ],
+    "sample_news": [],
     "sources_ok": 2,
     "sources_failed": 0
    },
@@ -296,8 +284,8 @@
     "place:fremont",
     "community source"
    ],
-   "recency": 1.96,
-   "score": 7.76,
+   "recency": 2.0,
+   "score": 7.8,
    "date_local": "Wed Nov 11 2026, 08:45 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -318,8 +306,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.94,
-   "score": 8.54,
+   "recency": 1.98,
+   "score": 8.58,
    "date_local": "Wed Nov 11 2026, 12:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -344,8 +332,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.93,
-   "score": 9.53,
+   "recency": 1.98,
+   "score": 9.58,
    "date_local": "Wed Nov 11 2026, 01:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -365,8 +353,8 @@
     "place:san francisco",
     "community source"
    ],
-   "recency": 1.93,
-   "score": 7.73,
+   "recency": 1.98,
+   "score": 7.78,
    "date_local": "Wed Nov 11 2026, 01:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -387,8 +375,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.93,
-   "score": 8.73,
+   "recency": 1.97,
+   "score": 8.77,
    "date_local": "Wed Nov 11 2026, 02:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -409,8 +397,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.92,
-   "score": 8.52,
+   "recency": 1.96,
+   "score": 8.56,
    "date_local": "Wed Nov 11 2026, 03:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -438,8 +426,8 @@
     "place:pleasant hill",
     "community source"
    ],
-   "recency": 1.91,
-   "score": 7.71,
+   "recency": 1.95,
+   "score": 7.75,
    "date_local": "Wed Nov 11 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -466,8 +454,8 @@
     "place:stockton",
     "community source"
    ],
-   "recency": 1.91,
-   "score": 6.21,
+   "recency": 1.95,
+   "score": 6.25,
    "date_local": "Wed Nov 11 2026, 05:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -495,8 +483,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.9,
-   "score": 8.7,
+   "recency": 1.95,
+   "score": 8.75,
    "date_local": "Wed Nov 11 2026, 06:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -526,8 +514,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.9,
-   "score": 9.5,
+   "recency": 1.94,
+   "score": 9.54,
    "date_local": "Wed Nov 11 2026, 06:45 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -554,8 +542,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.9,
-   "score": 8.7,
+   "recency": 1.94,
+   "score": 8.74,
    "date_local": "Wed Nov 11 2026, 07:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -583,8 +571,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.88,
-   "score": 9.88,
+   "recency": 1.93,
+   "score": 9.93,
    "date_local": "Wed Nov 11 2026, 09:30 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -617,8 +605,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.88,
-   "score": 9.48,
+   "recency": 1.92,
+   "score": 9.52,
    "date_local": "Wed Nov 11 2026, 09:45 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -643,8 +631,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.8,
-   "score": 8.4,
+   "recency": 1.84,
+   "score": 8.44,
    "date_local": "Thu Nov 12 2026, 12:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -667,8 +655,8 @@
     "place:santa clara",
     "community source"
    ],
-   "recency": 1.79,
-   "score": 6.09,
+   "recency": 1.84,
+   "score": 6.14,
    "date_local": "Thu Nov 12 2026, 12:15 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -688,8 +676,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.78,
-   "score": 6.88,
+   "recency": 1.82,
+   "score": 6.92,
    "date_local": "Thu Nov 12 2026, 02:30 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -713,8 +701,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.78,
-   "score": 8.38,
+   "recency": 1.82,
+   "score": 8.42,
    "date_local": "Thu Nov 12 2026, 03:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -738,8 +726,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.77,
-   "score": 8.37,
+   "recency": 1.81,
+   "score": 8.41,
    "date_local": "Thu Nov 12 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -763,8 +751,8 @@
     "place:folsom",
     "community source"
    ],
-   "recency": 1.77,
-   "score": 7.57,
+   "recency": 1.81,
+   "score": 7.61,
    "date_local": "Thu Nov 12 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -794,8 +782,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.75,
-   "score": 9.35,
+   "recency": 1.8,
+   "score": 9.4,
    "date_local": "Thu Nov 12 2026, 07:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -816,8 +804,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.75,
-   "score": 8.55,
+   "recency": 1.79,
+   "score": 8.59,
    "date_local": "Thu Nov 12 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -837,8 +825,8 @@
     "place:tracy",
     "community source"
    ],
-   "recency": 1.75,
-   "score": 6.05,
+   "recency": 1.79,
+   "score": 6.09,
    "date_local": "Thu Nov 12 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -865,8 +853,8 @@
     "place:manteca",
     "community source"
    ],
-   "recency": 1.75,
-   "score": 6.05,
+   "recency": 1.79,
+   "score": 6.09,
    "date_local": "Thu Nov 12 2026, 08:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -892,8 +880,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.74,
-   "score": 9.74,
+   "recency": 1.78,
+   "score": 9.78,
    "date_local": "Thu Nov 12 2026, 09:30 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -925,8 +913,8 @@
     "place:sunnyvale,mountain view",
     "community source"
    ],
-   "recency": 1.74,
-   "score": 8.34,
+   "recency": 1.78,
+   "score": 8.38,
    "date_local": "Thu Nov 12 2026, 09:45 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -950,8 +938,8 @@
     "place:mountain view",
     "community source"
    ],
-   "recency": 1.74,
-   "score": 6.04,
+   "recency": 1.78,
+   "score": 6.08,
    "date_local": "Thu Nov 12 2026, 09:45 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -974,8 +962,8 @@
     "place:sunnyvale",
     "community source"
    ],
-   "recency": 1.65,
-   "score": 5.95,
+   "recency": 1.69,
+   "score": 5.99,
    "date_local": "Fri Nov 13 2026, 12:30 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -999,8 +987,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.64,
-   "score": 8.24,
+   "recency": 1.68,
+   "score": 8.28,
    "date_local": "Fri Nov 13 2026, 02:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1031,8 +1019,8 @@
     "youth?",
     "community source"
    ],
-   "recency": 1.63,
-   "score": 5.73,
+   "recency": 1.68,
+   "score": 5.78,
    "date_local": "Fri Nov 13 2026, 03:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1053,8 +1041,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.63,
-   "score": 8.23,
+   "recency": 1.67,
+   "score": 8.27,
    "date_local": "Fri Nov 13 2026, 04:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1077,8 +1065,8 @@
     "adult/format cue",
     "community source"
    ],
-   "recency": 1.63,
-   "score": 6.63,
+   "recency": 1.67,
+   "score": 6.67,
    "date_local": "Fri Nov 13 2026, 04:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1105,8 +1093,8 @@
     "place:mountain view",
     "community source"
    ],
-   "recency": 1.62,
-   "score": 7.42,
+   "recency": 1.67,
+   "score": 7.47,
    "date_local": "Fri Nov 13 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1131,8 +1119,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.62,
-   "score": 8.42,
+   "recency": 1.66,
+   "score": 8.46,
    "date_local": "Fri Nov 13 2026, 05:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1152,8 +1140,8 @@
     "place:monterey",
     "community source"
    ],
-   "recency": 1.62,
-   "score": 5.92,
+   "recency": 1.66,
+   "score": 5.96,
    "date_local": "Fri Nov 13 2026, 05:45 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1176,8 +1164,8 @@
     "youth?",
     "community source"
    ],
-   "recency": 1.61,
-   "score": 5.91,
+   "recency": 1.66,
+   "score": 5.96,
    "date_local": "Fri Nov 13 2026, 06:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1203,8 +1191,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.61,
-   "score": 9.61,
+   "recency": 1.66,
+   "score": 9.66,
    "date_local": "Fri Nov 13 2026, 06:55 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1224,8 +1212,8 @@
     "place:manteca",
     "community source"
    ],
-   "recency": 1.61,
-   "score": 5.91,
+   "recency": 1.65,
+   "score": 5.95,
    "date_local": "Fri Nov 13 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1245,8 +1233,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.6,
-   "score": 9.6,
+   "recency": 1.64,
+   "score": 9.64,
    "date_local": "Fri Nov 13 2026, 09:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1265,8 +1253,8 @@
     "volleyball",
     "community source"
    ],
-   "recency": 1.6,
-   "score": 5.1,
+   "recency": 1.64,
+   "score": 5.14,
    "date_local": "Fri Nov 13 2026, 09:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1294,8 +1282,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.6,
-   "score": 9.6,
+   "recency": 1.64,
+   "score": 9.64,
    "date_local": "Fri Nov 13 2026, 09:30 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1329,8 +1317,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.6,
-   "score": 9.6,
+   "recency": 1.64,
+   "score": 9.64,
    "date_local": "Fri Nov 13 2026, 09:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1359,8 +1347,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.6,
-   "score": 9.2,
+   "recency": 1.64,
+   "score": 9.24,
    "date_local": "Fri Nov 13 2026, 09:45 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1391,8 +1379,8 @@
     "place:sunnyvale,mountain view",
     "community source"
    ],
-   "recency": 1.6,
-   "score": 6.7,
+   "recency": 1.64,
+   "score": 6.74,
    "date_local": "Fri Nov 13 2026, 09:45 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1416,8 +1404,8 @@
     "place:mountain view",
     "community source"
    ],
-   "recency": 1.6,
-   "score": 5.9,
+   "recency": 1.64,
+   "score": 5.94,
    "date_local": "Fri Nov 13 2026, 09:45 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1440,8 +1428,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.59,
-   "score": 9.59,
+   "recency": 1.64,
+   "score": 9.64,
    "date_local": "Fri Nov 13 2026, 10:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1463,8 +1451,8 @@
     "youth?",
     "community source"
    ],
-   "recency": 1.54,
-   "score": 4.84,
+   "recency": 1.58,
+   "score": 4.88,
    "date_local": "Sat Nov 14 2026, 07:30 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1486,8 +1474,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.53,
-   "score": 9.13,
+   "recency": 1.57,
+   "score": 9.17,
    "date_local": "Sat Nov 14 2026, 09:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1516,8 +1504,8 @@
     "youth?",
     "community source"
    ],
-   "recency": 1.53,
-   "score": 5.83,
+   "recency": 1.57,
+   "score": 5.87,
    "date_local": "Sat Nov 14 2026, 09:30 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1543,8 +1531,8 @@
     "place:bay area,san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.52,
-   "score": 8.52,
+   "recency": 1.57,
+   "score": 8.57,
    "date_local": "Sat Nov 14 2026, 10:00 AM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1568,8 +1556,8 @@
     "place:san francisco",
     "community source"
    ],
-   "recency": 1.52,
-   "score": 7.32,
+   "recency": 1.56,
+   "score": 7.36,
    "date_local": "Sat Nov 14 2026, 10:30 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1591,8 +1579,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.52,
-   "score": 8.32,
+   "recency": 1.56,
+   "score": 8.36,
    "date_local": "Sat Nov 14 2026, 11:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1616,8 +1604,8 @@
     "place:hayward",
     "community source"
    ],
-   "recency": 1.51,
-   "score": 5.81,
+   "recency": 1.55,
+   "score": 5.85,
    "date_local": "Sat Nov 14 2026, 12:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1638,8 +1626,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.5,
-   "score": 8.1,
+   "recency": 1.54,
+   "score": 8.14,
    "date_local": "Sat Nov 14 2026, 02:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1670,8 +1658,8 @@
     "place:oakland,east bay",
     "community source"
    ],
-   "recency": 1.48,
-   "score": 8.08,
+   "recency": 1.52,
+   "score": 8.12,
    "date_local": "Sat Nov 14 2026, 05:45 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1692,8 +1680,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.47,
-   "score": 7.47,
+   "recency": 1.52,
+   "score": 7.52,
    "date_local": "Sat Nov 14 2026, 06:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1712,8 +1700,8 @@
     "volleyball",
     "community source"
    ],
-   "recency": 1.47,
-   "score": 4.97,
+   "recency": 1.52,
+   "score": 5.02,
    "date_local": "Sat Nov 14 2026, 06:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1732,8 +1720,8 @@
     "volleyball",
     "community source"
    ],
-   "recency": 1.46,
-   "score": 4.96,
+   "recency": 1.51,
+   "score": 5.01,
    "date_local": "Sat Nov 14 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1761,8 +1749,8 @@
     "place:sunnyvale,mountain view",
     "community source"
    ],
-   "recency": 1.45,
-   "score": 8.05,
+   "recency": 1.5,
+   "score": 8.1,
    "date_local": "Sat Nov 14 2026, 09:45 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1787,8 +1775,8 @@
     "place:mountain view",
     "community source"
    ],
-   "recency": 1.45,
-   "score": 7.25,
+   "recency": 1.5,
+   "score": 7.3,
    "date_local": "Sat Nov 14 2026, 09:45 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1811,8 +1799,8 @@
     "place:mountain view",
     "community source"
    ],
-   "recency": 1.45,
-   "score": 5.75,
+   "recency": 1.5,
+   "score": 5.8,
    "date_local": "Sat Nov 14 2026, 09:45 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1844,8 +1832,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.45,
-   "score": 9.05,
+   "recency": 1.49,
+   "score": 9.09,
    "date_local": "Sat Nov 14 2026, 10:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1870,8 +1858,8 @@
     "place:roseville",
     "community source"
    ],
-   "recency": 1.39,
-   "score": 7.19,
+   "recency": 1.43,
+   "score": 7.23,
    "date_local": "Sun Nov 15 2026, 09:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1891,8 +1879,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.38,
-   "score": 8.98,
+   "recency": 1.42,
+   "score": 9.02,
    "date_local": "Sun Nov 15 2026, 10:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1913,8 +1901,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.38,
-   "score": 8.18,
+   "recency": 1.42,
+   "score": 8.22,
    "date_local": "Sun Nov 15 2026, 10:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1925,7 +1913,7 @@
    "link": "https://www.heylo.com/event/-P4TlWGG9TluGtKUXx3o",
    "date": "2026-11-15T18:00:00+00:00",
    "is_event": true,
-   "summary": "San Francisco Beach Volleyball - SFBV on Heylo. RSVPs: 166",
+   "summary": "San Francisco Beach Volleyball - SFBV on Heylo. RSVPs: 167",
    "platform": "Heylo",
    "relevance": 5.8,
    "why": [
@@ -1934,8 +1922,8 @@
     "place:san francisco",
     "community source"
    ],
-   "recency": 1.38,
-   "score": 7.18,
+   "recency": 1.42,
+   "score": 7.22,
    "date_local": "Sun Nov 15 2026, 10:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1957,8 +1945,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.37,
-   "score": 8.97,
+   "recency": 1.42,
+   "score": 9.02,
    "date_local": "Sun Nov 15 2026, 11:00 AM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1981,8 +1969,8 @@
     "place:sacramento",
     "community source"
    ],
-   "recency": 1.37,
-   "score": 5.67,
+   "recency": 1.42,
+   "score": 5.72,
    "date_local": "Sun Nov 15 2026, 11:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2003,8 +1991,8 @@
     "place:san jose,sunnyvale,santa cruz",
     "community source"
    ],
-   "recency": 1.37,
-   "score": 8.37,
+   "recency": 1.41,
+   "score": 8.41,
    "date_local": "Sun Nov 15 2026, 12:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2027,8 +2015,8 @@
     "place:sunnyvale",
     "community source"
    ],
-   "recency": 1.37,
-   "score": 7.17,
+   "recency": 1.41,
+   "score": 7.21,
    "date_local": "Sun Nov 15 2026, 12:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2057,8 +2045,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.36,
-   "score": 8.16,
+   "recency": 1.4,
+   "score": 8.2,
    "date_local": "Sun Nov 15 2026, 01:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2079,8 +2067,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.36,
-   "score": 7.96,
+   "recency": 1.4,
+   "score": 8.0,
    "date_local": "Sun Nov 15 2026, 02:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2102,8 +2090,8 @@
     "place:sunnyvale",
     "community source"
    ],
-   "recency": 1.36,
-   "score": 7.16,
+   "recency": 1.4,
+   "score": 7.2,
    "date_local": "Sun Nov 15 2026, 02:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2126,8 +2114,8 @@
     "place:pleasant hill",
     "community source"
    ],
-   "recency": 1.36,
-   "score": 5.66,
+   "recency": 1.4,
+   "score": 5.7,
    "date_local": "Sun Nov 15 2026, 02:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2148,8 +2136,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.34,
-   "score": 7.34,
+   "recency": 1.39,
+   "score": 7.39,
    "date_local": "Sun Nov 15 2026, 04:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2170,8 +2158,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.34,
-   "score": 7.34,
+   "recency": 1.38,
+   "score": 7.38,
    "date_local": "Sun Nov 15 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2192,8 +2180,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.34,
-   "score": 7.34,
+   "recency": 1.38,
+   "score": 7.38,
    "date_local": "Sun Nov 15 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2213,8 +2201,8 @@
     "place:tracy",
     "community source"
    ],
-   "recency": 1.34,
-   "score": 5.64,
+   "recency": 1.38,
+   "score": 5.68,
    "date_local": "Sun Nov 15 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2236,8 +2224,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.33,
-   "score": 8.13,
+   "recency": 1.38,
+   "score": 8.18,
    "date_local": "Sun Nov 15 2026, 05:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2265,8 +2253,8 @@
     "place:antioch",
     "community source"
    ],
-   "recency": 1.33,
-   "score": 5.63,
+   "recency": 1.37,
+   "score": 5.67,
    "date_local": "Sun Nov 15 2026, 07:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2287,8 +2275,8 @@
     "place:mountain view",
     "community source"
    ],
-   "recency": 1.32,
-   "score": 7.12,
+   "recency": 1.36,
+   "score": 7.16,
    "date_local": "Sun Nov 15 2026, 08:30 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2313,8 +2301,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.31,
-   "score": 8.11,
+   "recency": 1.35,
+   "score": 8.15,
    "date_local": "Sun Nov 15 2026, 10:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2338,8 +2326,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.22,
-   "score": 7.82,
+   "recency": 1.27,
+   "score": 7.87,
    "date_local": "Mon Nov 16 2026, 12:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2362,8 +2350,8 @@
     "place:santa clara",
     "community source"
    ],
-   "recency": 1.22,
-   "score": 5.52,
+   "recency": 1.27,
+   "score": 5.57,
    "date_local": "Mon Nov 16 2026, 12:15 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2384,8 +2372,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.21,
-   "score": 7.81,
+   "recency": 1.25,
+   "score": 7.85,
    "date_local": "Mon Nov 16 2026, 03:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2409,8 +2397,8 @@
     "place:folsom",
     "community source"
    ],
-   "recency": 1.19,
-   "score": 6.99,
+   "recency": 1.24,
+   "score": 7.04,
    "date_local": "Mon Nov 16 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2442,8 +2430,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.18,
-   "score": 8.78,
+   "recency": 1.23,
+   "score": 8.83,
    "date_local": "Mon Nov 16 2026, 06:45 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2465,8 +2453,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.18,
-   "score": 7.98,
+   "recency": 1.23,
+   "score": 8.03,
    "date_local": "Mon Nov 16 2026, 07:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2487,8 +2475,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.18,
-   "score": 7.98,
+   "recency": 1.22,
+   "score": 8.02,
    "date_local": "Mon Nov 16 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2510,8 +2498,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.18,
-   "score": 7.98,
+   "recency": 1.22,
+   "score": 8.02,
    "date_local": "Mon Nov 16 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2532,8 +2520,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.08,
-   "score": 7.68,
+   "recency": 1.12,
+   "score": 7.72,
    "date_local": "Tue Nov 17 2026, 12:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2556,8 +2544,8 @@
     "place:santa clara",
     "community source"
    ],
-   "recency": 1.08,
-   "score": 5.38,
+   "recency": 1.12,
+   "score": 5.42,
    "date_local": "Tue Nov 17 2026, 12:15 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2578,8 +2566,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.07,
-   "score": 7.87,
+   "recency": 1.11,
+   "score": 7.91,
    "date_local": "Tue Nov 17 2026, 02:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2600,8 +2588,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.06,
-   "score": 7.66,
+   "recency": 1.11,
+   "score": 7.71,
    "date_local": "Tue Nov 17 2026, 03:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2625,8 +2613,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.05,
-   "score": 7.65,
+   "recency": 1.1,
+   "score": 7.7,
    "date_local": "Tue Nov 17 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2651,8 +2639,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.05,
-   "score": 7.85,
+   "recency": 1.09,
+   "score": 7.89,
    "date_local": "Tue Nov 17 2026, 06:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2681,8 +2669,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.04,
-   "score": 8.64,
+   "recency": 1.08,
+   "score": 8.68,
    "date_local": "Tue Nov 17 2026, 07:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2704,8 +2692,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.04,
-   "score": 7.84,
+   "recency": 1.08,
+   "score": 7.88,
    "date_local": "Tue Nov 17 2026, 07:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2726,8 +2714,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.04,
-   "score": 8.64,
+   "recency": 1.08,
+   "score": 8.68,
    "date_local": "Tue Nov 17 2026, 07:50 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2750,8 +2738,8 @@
     "place:tracy",
     "community source"
    ],
-   "recency": 1.03,
-   "score": 5.33,
+   "recency": 1.08,
+   "score": 5.38,
    "date_local": "Tue Nov 17 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2772,8 +2760,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.93,
-   "score": 7.73,
+   "recency": 0.97,
+   "score": 7.77,
    "date_local": "Wed Nov 18 2026, 02:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2795,8 +2783,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.9,
-   "score": 7.7,
+   "recency": 0.95,
+   "score": 7.75,
    "date_local": "Wed Nov 18 2026, 06:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2817,8 +2805,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.75,
-   "score": 7.55,
+   "recency": 0.79,
+   "score": 7.59,
    "date_local": "Thu Nov 19 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2840,8 +2828,8 @@
     "youth?",
     "community source"
    ],
-   "recency": 0.63,
-   "score": 4.73,
+   "recency": 0.68,
+   "score": 4.78,
    "date_local": "Fri Nov 20 2026, 03:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2863,8 +2851,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.62,
-   "score": 7.42,
+   "recency": 0.66,
+   "score": 7.46,
    "date_local": "Fri Nov 20 2026, 05:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2884,8 +2872,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.62,
-   "score": 7.42,
+   "recency": 0.66,
+   "score": 7.46,
    "date_local": "Fri Nov 20 2026, 06:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2908,8 +2896,8 @@
     "youth?",
     "community source"
    ],
-   "recency": 0.61,
-   "score": 4.91,
+   "recency": 0.66,
+   "score": 4.96,
    "date_local": "Fri Nov 20 2026, 06:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2928,8 +2916,8 @@
     "volleyball",
     "community source"
    ],
-   "recency": 0.61,
-   "score": 4.11,
+   "recency": 0.65,
+   "score": 4.15,
    "date_local": "Fri Nov 20 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2949,8 +2937,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.6,
-   "score": 8.6,
+   "recency": 0.64,
+   "score": 8.64,
    "date_local": "Fri Nov 20 2026, 09:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2972,8 +2960,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.6,
-   "score": 7.4,
+   "recency": 0.64,
+   "score": 7.44,
    "date_local": "Fri Nov 20 2026, 09:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2993,8 +2981,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.59,
-   "score": 8.59,
+   "recency": 0.64,
+   "score": 8.64,
    "date_local": "Fri Nov 20 2026, 10:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3018,8 +3006,8 @@
     "place:san francisco",
     "community source"
    ],
-   "recency": 0.53,
-   "score": 4.83,
+   "recency": 0.57,
+   "score": 4.87,
    "date_local": "Sat Nov 21 2026, 09:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3041,8 +3029,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.52,
-   "score": 7.32,
+   "recency": 0.56,
+   "score": 7.36,
    "date_local": "Sat Nov 21 2026, 11:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3063,8 +3051,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.38,
-   "score": 7.18,
+   "recency": 0.42,
+   "score": 7.22,
    "date_local": "Sun Nov 22 2026, 10:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3084,8 +3072,8 @@
     "place:san francisco",
     "community source"
    ],
-   "recency": 0.38,
-   "score": 6.18,
+   "recency": 0.42,
+   "score": 6.22,
    "date_local": "Sun Nov 22 2026, 10:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3107,8 +3095,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.37,
-   "score": 7.97,
+   "recency": 0.42,
+   "score": 8.02,
    "date_local": "Sun Nov 22 2026, 11:00 AM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -3130,8 +3118,8 @@
     "place:sunnyvale",
     "community source"
    ],
-   "recency": 0.37,
-   "score": 6.17,
+   "recency": 0.41,
+   "score": 6.21,
    "date_local": "Sun Nov 22 2026, 12:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -3153,8 +3141,8 @@
     "volleyball",
     "community source"
    ],
-   "recency": 0.37,
-   "score": 3.87,
+   "recency": 0.41,
+   "score": 3.91,
    "date_local": "Sun Nov 22 2026, 12:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3176,8 +3164,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.36,
-   "score": 7.16,
+   "recency": 0.4,
+   "score": 7.2,
    "date_local": "Sun Nov 22 2026, 01:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3196,8 +3184,8 @@
     "place:sunnyvale",
     "community source"
    ],
-   "recency": 0.36,
-   "score": 6.16,
+   "recency": 0.4,
+   "score": 6.2,
    "date_local": "Sun Nov 22 2026, 02:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -3221,8 +3209,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.34,
-   "score": 6.34,
+   "recency": 0.38,
+   "score": 6.38,
    "date_local": "Sun Nov 22 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3243,8 +3231,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.34,
-   "score": 6.34,
+   "recency": 0.38,
+   "score": 6.38,
    "date_local": "Sun Nov 22 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3451,30 +3439,24 @@
  ],
  "news_and_updates": [
   {
-   "source": "Page watch",
-   "kind": "watch",
-   "title": "Updated: Santa Cruz Main Beach volleyball courts (pickup)",
-   "link": "https://www.santacruzca.gov/Government/City-Departments/Parks-Recreation/Parks-Beaches-Open-Spaces/City-Beaches",
-   "date": "2026-11-11T09:44:35.894988+00:00",
+   "source": "Meetup: Adult Volleyball Program (Sacramento)",
+   "kind": "rss",
+   "title": "Open Gym Adult Volleyball 2 times a week FRI & SUN",
+   "link": "https://www.meetup.com/adult-volleyball-program/events/317336707/",
+   "date": "2026-11-08T06:19:12+00:00",
    "is_event": false,
-   "summary": "Volleyball-related text on this official page changed since the last run. Re-verify days/times/prices before posting. (via r.jina.ai mirror) New text: ity-Beaches Markdown Content: ![Image 1](https://www.santacruzca.gov/files/assets/city/v/1/pr/images/beaches/welcome.jpg) Santa Cruz City beaches are the heart of Santa Cruz coastline. Whether taking a scenic walk along the shore, enjoying a game of volleyball, exploring the [Santa Cruz Wharf](https://www.santacruzca.gov/Government/City-Departments/Parks-Recreation/Santa-Cruz-Wharf), or getting yo",
-   "record_id": "DD-034",
-   "fetch_via": "jina",
-   "http_status": 200,
-   "cities": [
-    "Santa Cruz"
-   ],
-   "relevance": 7.6,
+   "summary": "SG Volleyball hosts open gym play 2 times a week. Visit schedule at [https://forms.office.com/r/ERv1K6Wyuc](https://forms.office.com/r/ERv1K6Wyuc) for more details. **JOIN the FUN** as an individual, in a small group, or as a full team of 6 or more. **Indoor** at Core VBC 11415 Folsom Blvd, Rancho Cordova, CA 95670 Cash $15 / player, Friday 9 PM to 12 AM, Sunday 6 to 9 PM",
+   "relevance": 8.0,
    "why": [
     "volleyball",
     "adult/format cue",
-    "place:santa cruz,main beach",
+    "place:sacramento,rancho cordova,folsom",
     "actionable",
     "community source"
    ],
-   "recency": 2.0,
-   "score": 9.6,
-   "date_local": "Wed Nov 11 2026, 01:44 AM PT",
+   "recency": 1.51,
+   "score": 9.51,
+   "date_local": "Sat Nov 07 2026, 10:19 PM PT",
    "verification_state": "DISCOVERED"
   },
   {
@@ -3493,57 +3475,9 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.55,
-   "score": 9.55,
+   "recency": 1.5,
+   "score": 9.5,
    "date_local": "Sat Nov 07 2026, 09:28 PM PT",
-   "verification_state": "DISCOVERED"
-  },
-  {
-   "source": "Meetup: Adult Volleyball Program (Sacramento)",
-   "kind": "rss",
-   "title": "Open Gym Adult Volleyball 2 times a week FRI & SUN",
-   "link": "https://www.meetup.com/adult-volleyball-program/events/317336707/",
-   "date": "2026-11-08T06:19:12+00:00",
-   "is_event": false,
-   "summary": "SG Volleyball hosts open gym play 2 times a week. Visit schedule at [https://forms.office.com/r/ERv1K6Wyuc](https://forms.office.com/r/ERv1K6Wyuc) for more details. **JOIN the FUN** as an individual, in a small group, or as a full team of 6 or more. **Indoor** at Core VBC 11415 Folsom Blvd, Rancho Cordova, CA 95670 Cash $15 / player, Friday 9 PM to 12 AM, Sunday 6 to 9 PM",
-   "relevance": 8.0,
-   "why": [
-    "volleyball",
-    "adult/format cue",
-    "place:sacramento,rancho cordova,folsom",
-    "actionable",
-    "community source"
-   ],
-   "recency": 1.55,
-   "score": 9.55,
-   "date_local": "Sat Nov 07 2026, 10:19 PM PT",
-   "verification_state": "DISCOVERED"
-  },
-  {
-   "source": "Page watch",
-   "kind": "watch",
-   "title": "Updated: Emeryville – Open Gym Volleyball, Emeryville Center of Community Life",
-   "link": "https://www.emeryville.org/Recreation/Fitness/Fitness-Center-Open-Gym-Sports/Open-Gym-Volleyball",
-   "date": "2026-11-11T09:44:35.894988+00:00",
-   "is_event": false,
-   "summary": "Volleyball-related text on this official page changed since the last run. Re-verify days/times/prices before posting. (via r.jina.ai mirror) New text: Title: Open Gym Volleyball URL Source: https://www.emeryville.org/Recreation/Fitness/Fitness-Center-Open-Gym-Sports/Open-Gym-Volleyball Markdown Content: [Skip to main content](https://www.emeryville.org/Recreation/Fitness/Fitness-Center-Open-Gym-Sports/Open-Gym-Volleyball#main-content) opens in new tab or window Quick Links * [Facebook](https://www.facebook.com/profile.php?id=100087325997219) * [",
-   "record_id": "DD-008",
-   "fetch_via": "jina",
-   "http_status": 200,
-   "cities": [
-    "Emeryville"
-   ],
-   "relevance": 6.8,
-   "why": [
-    "volleyball",
-    "adult/format cue",
-    "place:emeryville",
-    "actionable",
-    "community source"
-   ],
-   "recency": 2.0,
-   "score": 8.8,
-   "date_local": "Wed Nov 11 2026, 01:44 AM PT",
    "verification_state": "DISCOVERED"
   },
   {
@@ -3551,9 +3485,9 @@
    "kind": "watch",
    "title": "Updated: Redwood City – Drop-in Volleyball, Armory",
    "link": "https://www.redwoodcity.org/Home/Components/Calendar/Event/93437/",
-   "date": "2026-11-11T09:44:35.894988+00:00",
+   "date": "2026-11-11T16:58:12.277088+00:00",
    "is_event": false,
-   "summary": "Official page was fetched (via r.jina.ai mirror) but no 'volleyball' text was found. If this city used to list a session, treat the listing as unverified until re-checked. Title: Access Denied URL Source: https://www.redwoodcity.org/Home/Components/Calendar/Event/93437/ Warning: Target URL returned error 403: Forbidden Markdown Content: You don't have permission to access \"http://www.redwoodcity.org/Home/Components/Calendar/Event/93437/\" on this server. Reference #18.",
+   "summary": "Volleyball-related text on this official page changed since the last run. Re-verify days/times/prices before posting. (via r.jina.ai mirror) New text: Title: ARMORY Drop-In Volleyball | Calendar Meeting List | City of Redwood City URL Source: https://www.redwoodcity.org/Home/Components/Calendar/Event/93437/ Markdown Content: [Home](https://www.redwoodcity.org/home) Menu * [Home](https://www.redwoodcity.org/home) * [About the City](https://www.redwoodcity.org/about-the-city) * [Slow Streets Pilot Program](https://www.redwoodcity.org/about-the-cit",
    "record_id": "DD-017",
    "fetch_via": "jina",
    "http_status": 200,
@@ -3570,7 +3504,7 @@
    ],
    "recency": 2.0,
    "score": 8.8,
-   "date_local": "Wed Nov 11 2026, 01:44 AM PT",
+   "date_local": "Wed Nov 11 2026, 08:58 AM PT",
    "verification_state": "DISCOVERED"
   },
   {
@@ -3589,8 +3523,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.55,
-   "score": 8.55,
+   "recency": 0.51,
+   "score": 8.51,
    "date_local": "Sat Oct 31 2026, 11:09 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3610,8 +3544,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.54,
-   "score": 8.54,
+   "recency": 0.5,
+   "score": 8.5,
    "date_local": "Sat Oct 31 2026, 09:15 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3631,8 +3565,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.49,
-   "score": 8.29,
+   "recency": 1.45,
+   "score": 8.25,
    "date_local": "Sat Nov 07 2026, 12:33 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3679,31 +3613,6 @@
    "verification_state": "DISCOVERED"
   },
   {
-   "source": "Page watch",
-   "kind": "watch",
-   "title": "Updated: Stanford sand volleyball courts – postdoc pickup",
-   "link": "https://surpas.stanford.edu/postdoc-committees/sports/",
-   "date": "2026-11-11T09:44:35.894988+00:00",
-   "is_event": false,
-   "summary": "Volleyball-related text on this official page changed since the last run. Re-verify days/times/prices before posting. (via r.jina.ai mirror) New text: more, try out the skills, and just have fun pucking the ball around. Here’s [more info and a no-commitment signup](https://forms.gle/s7afVkkvWW88q1w86). First meetup Thursday the 23rd 5:30pm on fields west of Serra & El Camino. * New! Postdoc beach Volleyball ! Come join your fellow Stanford postdocs for some friendly pick-up beach Volleyball. Players of all experience levels and their family, fr",
-   "record_id": "DD-036",
-   "fetch_via": "jina",
-   "http_status": 200,
-   "relevance": 5.8,
-   "why": [
-    "volleyball",
-    "adult/format cue",
-    "place:stanford",
-    "actionable",
-    "college",
-    "community source"
-   ],
-   "recency": 2.0,
-   "score": 7.8,
-   "date_local": "Wed Nov 11 2026, 01:44 AM PT",
-   "verification_state": "DISCOVERED"
-  },
-  {
    "source": "Meetup: Livermore Pickup Beach Volleyball",
    "kind": "rss",
    "title": "Sunday morning Co-ed Sand Volleyball",
@@ -3740,8 +3649,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.67,
-   "score": 7.47,
+   "recency": 0.62,
+   "score": 7.42,
    "date_local": "Sun Nov 01 2026, 05:36 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3760,8 +3669,8 @@
     "place:sunnyvale",
     "community source"
    ],
-   "recency": 1.61,
-   "score": 7.41,
+   "recency": 1.57,
+   "score": 7.37,
    "date_local": "Sun Nov 08 2026, 08:50 AM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -3783,8 +3692,8 @@
     "place:sunnyvale",
     "community source"
    ],
-   "recency": 0.79,
-   "score": 6.59,
+   "recency": 0.75,
+   "score": 6.55,
    "date_local": "Mon Nov 02 2026, 02:18 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -3806,8 +3715,8 @@
     "place:sunnyvale",
     "community source"
    ],
-   "recency": 0.48,
-   "score": 6.28,
+   "recency": 0.43,
+   "score": 6.23,
    "date_local": "Sat Oct 31 2026, 10:40 AM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -3852,8 +3761,8 @@
     "place:stanford",
     "college"
    ],
-   "recency": 1.7,
-   "score": 5.0,
+   "recency": 1.66,
+   "score": 4.96,
    "date_local": "Sun Nov 08 2026, 11:45 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3870,8 +3779,8 @@
     "volleyball",
     "place:bay area,san francisco"
    ],
-   "recency": 1.35,
-   "score": 4.95,
+   "recency": 1.31,
+   "score": 4.91,
    "date_local": "Fri Nov 06 2026, 12:25 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3890,8 +3799,8 @@
     "place:san jose",
     "college"
    ],
-   "recency": 1.37,
-   "score": 4.67,
+   "recency": 1.33,
+   "score": 4.63,
    "date_local": "Fri Nov 06 2026, 04:11 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3910,23 +3819,17 @@
     "place:stanford",
     "college"
    ],
-   "recency": 0.41,
-   "score": 3.71,
+   "recency": 0.37,
+   "score": 3.67,
    "date_local": "Sat Oct 31 2026, 12:00 AM PT",
    "verification_state": "DISCOVERED"
   }
  ],
  "source_log": [
   {
-   "source": "Google News: NCVA",
+   "source": "Google News: San Francisco volleyball",
    "ok": true,
-   "items": 12,
-   "secs": 0.4
-  },
-  {
-   "source": "Google News: Sacramento volleyball",
-   "ok": true,
-   "items": 27,
+   "items": 9,
    "secs": 0.4
   },
   {
@@ -3936,33 +3839,45 @@
    "secs": 0.4
   },
   {
-   "source": "Google News: Oakland/East Bay volleyball",
+   "source": "Google News: San Jose/South Bay volleyball",
    "ok": true,
-   "items": 30,
-   "secs": 0.5
-  },
-  {
-   "source": "Google News: San Francisco volleyball",
-   "ok": true,
-   "items": 10,
-   "secs": 0.5
-  },
-  {
-   "source": "Google News: Santa Cruz beach volleyball",
-   "ok": true,
-   "items": 36,
-   "secs": 0.5
+   "items": 28,
+   "secs": 0.4
   },
   {
    "source": "Google News: grass volleyball California",
    "ok": true,
    "items": 10,
+   "secs": 0.4
+  },
+  {
+   "source": "Google News: NCVA",
+   "ok": true,
+   "items": 12,
+   "secs": 0.4
+  },
+  {
+   "source": "Google News: Santa Cruz beach volleyball",
+   "ok": true,
+   "items": 33,
+   "secs": 0.4
+  },
+  {
+   "source": "Google News: Sacramento volleyball",
+   "ok": true,
+   "items": 28,
    "secs": 0.5
   },
   {
-   "source": "Google News: San Jose/South Bay volleyball",
+   "source": "Google News: Oakland/East Bay volleyball",
    "ok": true,
-   "items": 28,
+   "items": 32,
+   "secs": 0.5
+  },
+  {
+   "source": "Google News: Bay Area pro volleyball (LOVB/AU/PVF/AVP)",
+   "ok": true,
+   "items": 48,
    "secs": 0.5
   },
   {
@@ -3972,70 +3887,58 @@
    "secs": 0.5
   },
   {
-   "source": "Google News: Bay Area pro volleyball (LOVB/AU/PVF/AVP)",
-   "ok": true,
-   "items": 50,
-   "secs": 0.6
-  },
-  {
-   "source": "Meetup ICS: San Jose Pickup Volleyball",
-   "ok": true,
-   "items": 0,
-   "secs": 0.1
-  },
-  {
-   "source": "Meetup: San Jose Pickup Volleyball",
-   "ok": true,
-   "items": 0,
-   "secs": 0.1
-  },
-  {
-   "source": "Meetup: Oakland Intermediate Outdoor Volleyball",
-   "ok": true,
-   "items": 0,
-   "secs": 0.1
-  },
-  {
-   "source": "Meetup: MP Volleyball",
-   "ok": true,
-   "items": 0,
-   "secs": 0.2
-  },
-  {
-   "source": "Meetup ICS: MP Volleyball",
-   "ok": true,
-   "items": 0,
-   "secs": 0.1
-  },
-  {
    "source": "Meetup: Livermore Pickup Beach Volleyball",
    "ok": true,
    "items": 3,
    "secs": 0.2
   },
   {
-   "source": "Meetup ICS: Livermore Pickup Beach Volleyball",
+   "source": "Meetup ICS: San Jose Pickup Volleyball",
    "ok": true,
-   "items": 3,
+   "items": 0,
    "secs": 0.2
+  },
+  {
+   "source": "Meetup: San Jose Pickup Volleyball",
+   "ok": true,
+   "items": 0,
+   "secs": 0.3
+  },
+  {
+   "source": "Meetup ICS: MP Volleyball",
+   "ok": true,
+   "items": 0,
+   "secs": 0.2
+  },
+  {
+   "source": "Meetup: Oakland Intermediate Outdoor Volleyball",
+   "ok": true,
+   "items": 0,
+   "secs": 0.3
+  },
+  {
+   "source": "Meetup: MP Volleyball",
+   "ok": true,
+   "items": 0,
+   "secs": 0.3
+  },
+  {
+   "source": "Google News: Cal/Stanford volleyball",
+   "ok": true,
+   "items": 22,
+   "secs": 0.4
   },
   {
    "source": "Meetup: Adult Volleyball Program (Sacramento)",
    "ok": true,
    "items": 10,
-   "secs": 0.2
-  },
-  {
-   "source": "Google News: Cal/Stanford volleyball",
-   "ok": true,
-   "items": 27,
    "secs": 0.3
   },
   {
-   "source": "NCVA",
+   "source": "Meetup ICS: Livermore Pickup Beach Volleyball",
    "ok": true,
-   "items": 10,
-   "secs": 0.2
+   "items": 3,
+   "secs": 0.3
   },
   {
    "source": "Volleyball Magazine",
@@ -4044,21 +3947,33 @@
    "secs": 0.2
   },
   {
-   "source": "USA Volleyball news",
-   "ok": true,
-   "items": 0,
-   "secs": 0.3
-  },
-  {
    "source": "Meetup ICS: Adult Volleyball Program (Sacramento)",
    "ok": true,
    "items": 10,
-   "secs": 0.3
+   "secs": 0.4
+  },
+  {
+   "source": "NCVA",
+   "ok": true,
+   "items": 10,
+   "secs": 0.2
+  },
+  {
+   "source": "USA Volleyball news",
+   "ok": true,
+   "items": 0,
+   "secs": 0.4
   },
   {
    "source": "Redwood City calendar",
    "ok": false,
    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "source": "SF Rec & Park news (CivicPlus)",
+   "ok": true,
+   "items": 42,
+   "secs": 0.6
   },
   {
    "source": "SF Rec & Park calendar",
@@ -4069,20 +3984,26 @@
   {
    "source": "San Mateo news flash",
    "ok": true,
-   "items": 9,
+   "items": 8,
    "secs": 0.6
+  },
+  {
+   "source": "Milpitas calendar",
+   "ok": true,
+   "items": 1,
+   "secs": 0.5
+  },
+  {
+   "source": "Milpitas news flash",
+   "ok": true,
+   "items": 3,
+   "secs": 0.5
   },
   {
    "source": "Bay Area Volleyball (WP)",
    "ok": true,
    "items": 0,
-   "secs": 0.8
-  },
-  {
-   "source": "Hayward Rec (HARD) news flash",
-   "ok": true,
-   "items": 0,
-   "secs": 0.6
+   "secs": 0.7
   },
   {
    "source": "Campbell news flash",
@@ -4091,28 +4012,34 @@
    "secs": 0.8
   },
   {
-   "source": "SF Rec & Park news (CivicPlus)",
+   "source": "Google News: Sunnyvale adult/open-gym volleyball",
    "ok": true,
-   "items": 42,
-   "secs": 1.0
+   "items": 10,
+   "secs": 0.3
   },
   {
-   "source": "Milpitas news flash",
+   "source": "Napa news flash",
    "ok": true,
-   "items": 3,
-   "secs": 0.8
+   "items": 0,
+   "secs": 0.6
   },
   {
-   "source": "Milpitas calendar",
+   "source": "Hayward Rec (HARD) news flash",
    "ok": true,
-   "items": 1,
-   "secs": 0.8
+   "items": 0,
+   "secs": 0.5
   },
   {
    "source": "Hayward Rec (HARD) calendar",
    "ok": true,
    "items": 4,
-   "secs": 0.5
+   "secs": 0.4
+  },
+  {
+   "source": "Google News: Mountain View adult/open-gym volleyball",
+   "ok": true,
+   "items": 10,
+   "secs": 0.4
   },
   {
    "source": "Off the Block",
@@ -4121,64 +4048,34 @@
    "secs": 1.2
   },
   {
-   "source": "Google News: Sunnyvale adult/open-gym volleyball",
+   "source": "El Cerrito news",
    "ok": true,
-   "items": 10,
-   "secs": 0.3
+   "items": 0,
+   "secs": 0.5
   },
   {
-   "source": "Campbell calendar",
+   "source": "Cosumnes CSD news",
    "ok": true,
-   "items": 12,
+   "items": 2,
    "secs": 0.6
-  },
-  {
-   "source": "Google News: Redwood City adult/open-gym volleyball",
-   "ok": true,
-   "items": 9,
-   "secs": 0.3
-  },
-  {
-   "source": "Google News: Mountain View adult/open-gym volleyball",
-   "ok": true,
-   "items": 11,
-   "secs": 0.4
-  },
-  {
-   "source": "Google News: Walnut Creek adult/open-gym volleyball",
-   "ok": true,
-   "items": 10,
-   "secs": 0.3
-  },
-  {
-   "source": "Meetup: Sunnyvale Grass Volleyball",
-   "ok": true,
-   "items": 10,
-   "secs": 0.2
-  },
-  {
-   "source": "Google News: Folsom adult/open-gym volleyball",
-   "ok": true,
-   "items": 9,
-   "secs": 0.3
   },
   {
    "source": "Google News: Menlo Park adult/open-gym volleyball",
    "ok": true,
-   "items": 9,
-   "secs": 0.5
+   "items": 10,
+   "secs": 0.3
+  },
+  {
+   "source": "Google News: Redwood City adult/open-gym volleyball",
+   "ok": true,
+   "items": 10,
+   "secs": 0.3
   },
   {
    "source": "Google News: Emeryville adult/open-gym volleyball",
    "ok": true,
    "items": 1,
-   "secs": 0.2
-  },
-  {
-   "source": "El Cerrito news",
-   "ok": true,
-   "items": 0,
-   "secs": 0.6
+   "secs": 0.3
   },
   {
    "source": "Google News: Napa adult/open-gym volleyball",
@@ -4187,7 +4084,25 @@
    "secs": 0.3
   },
   {
-   "source": "Meetup ICS: Sunnyvale Grass Volleyball",
+   "source": "Google News: Folsom adult/open-gym volleyball",
+   "ok": true,
+   "items": 10,
+   "secs": 0.3
+  },
+  {
+   "source": "Campbell calendar",
+   "ok": true,
+   "items": 12,
+   "secs": 0.8
+  },
+  {
+   "source": "Google News: Walnut Creek adult/open-gym volleyball",
+   "ok": true,
+   "items": 9,
+   "secs": 0.4
+  },
+  {
+   "source": "Meetup: Sunnyvale Grass Volleyball",
    "ok": true,
    "items": 10,
    "secs": 0.2
@@ -4199,16 +4114,16 @@
    "secs": 0.1
   },
   {
-   "source": "Meetup: Sunnyvale Rec Volleyball",
-   "ok": true,
-   "items": 10,
-   "secs": 0.2
-  },
-  {
    "source": "The Almanac (Menlo Park / RWC)",
    "ok": true,
    "items": 10,
    "secs": 0.1
+  },
+  {
+   "source": "Meetup: Sunnyvale Rec Volleyball",
+   "ok": true,
+   "items": 10,
+   "secs": 0.3
   },
   {
    "source": "Palo Alto Online",
@@ -4217,22 +4132,16 @@
    "secs": 0.2
   },
   {
+   "source": "Meetup ICS: Sunnyvale Grass Volleyball",
+   "ok": true,
+   "items": 10,
+   "secs": 0.4
+  },
+  {
    "source": "Meetup ICS: Sunnyvale Rec Volleyball",
    "ok": true,
    "items": 10,
-   "secs": 0.2
-  },
-  {
-   "source": "Cosumnes CSD news",
-   "ok": true,
-   "items": 2,
-   "secs": 1.0
-  },
-  {
-   "source": "Heylo: San Francisco Beach Volleyball - SFBV",
-   "ok": true,
-   "items": 4,
-   "secs": 0.2
+   "secs": 0.3
   },
   {
    "source": "Heylo: SF Pickup Volleyball",
@@ -4241,124 +4150,100 @@
    "secs": 0.3
   },
   {
+   "source": "Heylo: San Francisco Beach Volleyball - SFBV",
+   "ok": true,
+   "items": 4,
+   "secs": 0.4
+  },
+  {
    "source": "InMenlo",
    "ok": true,
    "items": 10,
    "secs": 0.5
   },
   {
-   "source": "Napa news flash",
-   "ok": true,
-   "items": 0,
-   "secs": 2.9
-  },
-  {
-   "source": "Meetup search: oakland/volleyball/",
-   "ok": true,
-   "items": 17,
-   "secs": 1.7
-  },
-  {
-   "source": "Meetup search: palo-alto/volleyball/",
-   "ok": true,
-   "items": 20,
-   "secs": 1.5
-  },
-  {
    "source": "Meetup search: san-jose/volleyball/",
    "ok": true,
    "items": 19,
-   "secs": 2.1
-  },
-  {
-   "source": "Meetup search: san-francisco/beach-volleyball/",
-   "ok": true,
-   "items": 19,
-   "secs": 2.5
-  },
-  {
-   "source": "Meetup search: sacramento/beach-volleyball/",
-   "ok": true,
-   "items": 17,
-   "secs": 2.5
+   "secs": 1.5
   },
   {
    "source": "Meetup search: walnut-creek/volleyball/",
    "ok": true,
    "items": 13,
-   "secs": 1.5
+   "secs": 1.4
   },
   {
-   "source": "The E'ville Eye (Emeryville)",
+   "source": "Meetup search: oakland/volleyball/",
    "ok": true,
-   "items": 9,
-   "secs": 3.2
+   "items": 17,
+   "secs": 1.8
   },
   {
-   "source": "Meetup search: san-francisco/volleyball/",
-   "ok": true,
-   "items": 16,
-   "secs": 3.3
-  },
-  {
-   "source": "Meetup search: sunnyvale/volleyball/",
+   "source": "Meetup search: palo-alto/volleyball/",
    "ok": true,
    "items": 20,
-   "secs": 1.7
+   "secs": 1.6
   },
   {
-   "source": "Meetup search: walnut-creek/beach-volleyball/",
+   "source": "Meetup search: san-francisco/beach-volleyball/",
    "ok": true,
-   "items": 14,
-   "secs": 1.9
-  },
-  {
-   "source": "Meetup search: mountain-view/volleyball/",
-   "ok": true,
-   "items": 20,
-   "secs": 1.5
-  },
-  {
-   "source": "Meetup search: sacramento/volleyball/",
-   "ok": true,
-   "items": 18,
-   "secs": 3.7
-  },
-  {
-   "source": "Meetup search: emeryville/volleyball/",
-   "ok": true,
-   "items": 15,
-   "secs": 1.5
+   "items": 19,
+   "secs": 2.0
   },
   {
    "source": "Meetup search: oakland/beach-volleyball/",
    "ok": true,
    "items": 21,
-   "secs": 3.9
+   "secs": 2.0
+  },
+  {
+   "source": "The E'ville Eye (Emeryville)",
+   "ok": true,
+   "items": 9,
+   "secs": 2.4
+  },
+  {
+   "source": "Meetup search: san-francisco/volleyball/",
+   "ok": true,
+   "items": 16,
+   "secs": 2.6
+  },
+  {
+   "source": "Meetup search: walnut-creek/beach-volleyball/",
+   "ok": true,
+   "items": 14,
+   "secs": 1.7
   },
   {
    "source": "Meetup search: menlo-park",
    "ok": true,
    "items": 20,
-   "secs": 1.3
+   "secs": 1.4
   },
   {
-   "source": "Meetup search: napa",
+   "source": "Meetup search: sunnyvale/volleyball/",
    "ok": true,
-   "items": 12,
-   "secs": 1.5
+   "items": 20,
+   "secs": 1.8
+  },
+  {
+   "source": "Meetup search: sacramento/beach-volleyball/",
+   "ok": true,
+   "items": 17,
+   "secs": 3.4
+  },
+  {
+   "source": "Meetup search: sacramento/volleyball/",
+   "ok": true,
+   "items": 18,
+   "secs": 3.8
   },
   {
    "source": "Meetup search: folsom",
    "ok": true,
    "items": 19,
-   "secs": 1.7
-  },
-  {
-   "source": "Meetup search: santa-cruz",
-   "ok": true,
-   "items": 13,
-   "secs": 1.9
+   "secs": 1.8
   },
   {
    "source": "Meetup search: redwood-city",
@@ -4367,7 +4252,31 @@
    "secs": 2.5
   },
   {
-   "source": "Reclub: 209/925 Volleyball Club",
+   "source": "Meetup search: mountain-view/volleyball/",
+   "ok": true,
+   "items": 20,
+   "secs": 2.8
+  },
+  {
+   "source": "Meetup search: emeryville/volleyball/",
+   "ok": true,
+   "items": 15,
+   "secs": 2.8
+  },
+  {
+   "source": "Meetup search: napa",
+   "ok": true,
+   "items": 12,
+   "secs": 2.2
+  },
+  {
+   "source": "Meetup search: santa-cruz",
+   "ok": true,
+   "items": 13,
+   "secs": 2.6
+  },
+  {
+   "source": "Reclub: Alviso in Action volleyball",
    "ok": true,
    "items": 0,
    "secs": 1.8
@@ -4376,7 +4285,7 @@
    "source": "Reclub: Aces & Kings",
    "ok": true,
    "items": 0,
-   "secs": 1.9
+   "secs": 1.8
   },
   {
    "source": "Reclub: 510vb",
@@ -4385,10 +4294,10 @@
    "secs": 1.9
   },
   {
-   "source": "Reclub: Alviso in Action volleyball",
+   "source": "Reclub: 209/925 Volleyball Club",
    "ok": true,
    "items": 0,
-   "secs": 2.1
+   "secs": 2.0
   },
   {
    "source": "Reclub: Bay Area Grass Meetups",
@@ -4400,7 +4309,7 @@
    "source": "Reclub: Barbz Open Gym",
    "ok": true,
    "items": 2,
-   "secs": 5.6
+   "secs": 4.4
   },
   {
    "source": "Reclub: East Bay Volleyball",
@@ -4412,7 +4321,7 @@
    "source": "Reclub: ~BB+ Volleyball Doubles",
    "ok": true,
    "items": 1,
-   "secs": 4.0
+   "secs": 2.8
   },
   {
    "source": "Reclub: Fremont Volleyball Open Gym",
@@ -4424,7 +4333,7 @@
    "source": "Reclub: BSH East Bay Volleyball 🏐",
    "ok": true,
    "items": 5,
-   "secs": 10.4
+   "secs": 9.9
   },
   {
    "source": "Reclub: Good Vibes Volleyball",
@@ -4436,31 +4345,31 @@
    "source": "Reclub: Hayward Area Recreation Division Volleyball",
    "ok": true,
    "items": 0,
-   "secs": 1.9
+   "secs": 1.6
   },
   {
    "source": "Reclub: GYA Volleyball",
    "ok": true,
    "items": 1,
-   "secs": 4.7
+   "secs": 3.2
   },
   {
    "source": "Reclub: G1 sports - volleyball",
    "ok": true,
    "items": 7,
-   "secs": 8.5
-  },
-  {
-   "source": "Reclub: HH Volleyball",
-   "ok": true,
-   "items": 1,
-   "secs": 3.3
+   "secs": 7.7
   },
   {
    "source": "Reclub: High Tide Adult Volleyball Drop In",
    "ok": true,
    "items": 1,
-   "secs": 3.5
+   "secs": 3.2
+  },
+  {
+   "source": "Reclub: HH Volleyball",
+   "ok": true,
+   "items": 1,
+   "secs": 3.6
   },
   {
    "source": "Reclub: Live oak volleyball",
@@ -4469,46 +4378,52 @@
    "secs": 1.7
   },
   {
+   "source": "Reclub: Pleasant Hill Grass Volleyball, Sun 2:00",
+   "ok": true,
+   "items": 2,
+   "secs": 4.3
+  },
+  {
    "source": "Reclub: Alameda beach & Marina Park Volleyball",
    "ok": true,
    "items": 0,
    "secs": 1.5
   },
   {
-   "source": "Reclub: Pleasant Hill Grass Volleyball, Sun 2:00",
-   "ok": true,
-   "items": 2,
-   "secs": 4.5
-  },
-  {
-   "source": "Reclub: Bay Area Open Gyms",
-   "ok": true,
-   "items": 12,
-   "secs": 22.3
-  },
-  {
    "source": "Reclub: Monterey Volleyball",
    "ok": true,
    "items": 1,
-   "secs": 2.3
+   "secs": 2.0
   },
   {
    "source": "Reclub: Matcha",
    "ok": true,
    "items": 1,
-   "secs": 3.6
+   "secs": 3.0
+  },
+  {
+   "source": "Reclub: Bay Area Open Gyms",
+   "ok": true,
+   "items": 12,
+   "secs": 21.1
   },
   {
    "source": "Reclub: Pacifica Ignite Volleyball Club",
    "ok": true,
    "items": 1,
-   "secs": 3.2
+   "secs": 3.1
   },
   {
    "source": "Reclub: Oakland/Berkeley outdoor pick up game! (W Meri)",
    "ok": true,
    "items": 2,
-   "secs": 5.6
+   "secs": 4.6
+  },
+  {
+   "source": "Reclub: Red Rock Alameda Open Gyms",
+   "ok": true,
+   "items": 0,
+   "secs": 1.5
   },
   {
    "source": "Reclub: Volleyball Training and Playing. San Francisco",
@@ -4517,40 +4432,34 @@
    "secs": 5.3
   },
   {
-   "source": "Reclub: Sac Attack Volleyball",
-   "ok": true,
-   "items": 0,
-   "secs": 1.6
-  },
-  {
-   "source": "Reclub: Red Rock Alameda Open Gyms",
-   "ok": true,
-   "items": 0,
-   "secs": 1.8
-  },
-  {
    "source": "Reclub: Rancho Cordova OVB",
    "ok": true,
    "items": 1,
-   "secs": 3.5
+   "secs": 3.1
+  },
+  {
+   "source": "Reclub: Sac Attack Volleyball",
+   "ok": true,
+   "items": 0,
+   "secs": 1.5
   },
   {
    "source": "Reclub: Dynasty Volleyball",
    "ok": true,
    "items": 4,
-   "secs": 3.3
-  },
-  {
-   "source": "Reclub: Mountain View Volleyball Club",
-   "ok": true,
-   "items": 12,
-   "secs": 13.7
+   "secs": 3.4
   },
   {
    "source": "Reclub: San Francisco Women's Volleyball",
    "ok": true,
    "items": 12,
-   "secs": 4.8
+   "secs": 5.0
+  },
+  {
+   "source": "Reclub: Mountain View Volleyball Club",
+   "ok": true,
+   "items": 12,
+   "secs": 13.1
   },
   {
    "source": "Reclub: San Joaquin County Open Volleyball Gyms",
@@ -4565,22 +4474,28 @@
    "secs": 1.6
   },
   {
-   "source": "Reclub: SkillSet 🏐 Sacramento",
-   "ok": true,
-   "items": 8,
-   "secs": 1.6
-  },
-  {
    "source": "Reclub: Hayward - SMASH Bay Athletics",
    "ok": true,
    "items": 0,
-   "secs": 1.8
+   "secs": 1.5
+  },
+  {
+   "source": "Reclub: SkillSet 🏐 Sacramento",
+   "ok": true,
+   "items": 8,
+   "secs": 1.9
   },
   {
    "source": "Reclub: SpikeRight Volleyball Open Gyms",
    "ok": true,
    "items": 0,
    "secs": 1.6
+  },
+  {
+   "source": "Reclub: TheBlock",
+   "ok": true,
+   "items": 2,
+   "secs": 1.3
   },
   {
    "source": "Reclub: SVVC: Bay Area Volleyball Classes and Clinics",
@@ -4592,25 +4507,19 @@
    "source": "Reclub: The Golden State Volleyball Club",
    "ok": true,
    "items": 0,
-   "secs": 1.5
-  },
-  {
-   "source": "Reclub: TheBlock",
-   "ok": true,
-   "items": 2,
-   "secs": 1.3
+   "secs": 1.7
   },
   {
    "source": "Reclub: Tri-City Volleyball",
    "ok": true,
    "items": 0,
-   "secs": 1.5
+   "secs": 2.1
   },
   {
    "source": "Reclub: Tyrants Volleyball Club",
    "ok": true,
    "items": 0,
-   "secs": 1.6
+   "secs": 1.5
   },
   {
    "source": "Reclub: VWPG Women's 🏐✨",
@@ -4628,10 +4537,16 @@
    "source": "Watch: Berkeley – Adult Volleyball, James Kenney Communit",
    "ok": true,
    "items": 0,
-   "secs": 0.6
+   "secs": 0.4
   },
   {
    "source": "Watch: SF Rec & Park Adult Sports Leagues (incl. Advanced",
+   "ok": true,
+   "items": 0,
+   "secs": 0.6
+  },
+  {
+   "source": "Watch: SF Rec & Park – Fall 2026 adult drop-in volleyball",
    "ok": true,
    "items": 0,
    "secs": 0.7
@@ -4640,16 +4555,46 @@
    "source": "Watch: SF Rec & Park – Drop-in Adult Volleyball (Advanced",
    "ok": true,
    "items": 0,
-   "secs": 0.9
+   "secs": 0.7
   },
   {
    "source": "Watch: SF Rec & Park – Drop-in Volleyball (Advanced), Eur",
    "ok": true,
    "items": 0,
-   "secs": 0.9
+   "secs": 0.8
   },
   {
-   "source": "Watch: SF Rec & Park – Fall 2026 adult drop-in volleyball",
+   "source": "Watch: UC Berkeley RecWell – Volleyball open rec (RSF)",
+   "ok": true,
+   "items": 0,
+   "secs": 1.0
+  },
+  {
+   "source": "Watch: Milpitas Sports Center – Adult Drop-in Volleyball",
+   "ok": true,
+   "items": 0,
+   "secs": 0.6
+  },
+  {
+   "source": "Watch: Campbell – Adult Open Gym Volleyball, Campbell Com",
+   "ok": true,
+   "items": 0,
+   "secs": 0.8
+  },
+  {
+   "source": "Watch: Crown Memorial State Beach volleyball courts (info",
+   "ok": true,
+   "items": 0,
+   "secs": 1.5
+  },
+  {
+   "source": "Watch: Daly City – Open Gym (Drop-in) Volleyball, Westlak",
+   "ok": true,
+   "items": 0,
+   "secs": 0.4
+  },
+  {
+   "source": "Watch: San Mateo – Adult Drop-in Volleyball, MLK Communit",
    "ok": true,
    "items": 0,
    "secs": 1.0
@@ -4657,50 +4602,14 @@
   {
    "source": "Watch: Emeryville – Open Gym Volleyball, Emeryville Cente",
    "ok": true,
-   "items": 1,
-   "secs": 1.1
-  },
-  {
-   "source": "Watch: UC Berkeley RecWell – Volleyball open rec (RSF)",
-   "ok": true,
    "items": 0,
-   "secs": 1.2
-  },
-  {
-   "source": "Watch: Milpitas Sports Center – Adult Drop-in Volleyball",
-   "ok": true,
-   "items": 0,
-   "secs": 0.7
-  },
-  {
-   "source": "Watch: Campbell – Adult Open Gym Volleyball, Campbell Com",
-   "ok": true,
-   "items": 0,
-   "secs": 0.7
-  },
-  {
-   "source": "Watch: Daly City – Open Gym (Drop-in) Volleyball, Westlak",
-   "ok": true,
-   "items": 0,
-   "secs": 0.5
-  },
-  {
-   "source": "Watch: San Mateo – Adult Drop-in Volleyball, MLK Communit",
-   "ok": true,
-   "items": 0,
-   "secs": 1.2
+   "secs": 2.6
   },
   {
    "source": "Watch: Pleasanton – Open Gym Volleyball, Pleasanton Middl",
    "ok": true,
    "items": 0,
-   "secs": 0.5
-  },
-  {
-   "source": "Watch: Redwood City – Drop-in Volleyball, Armory",
-   "ok": true,
-   "items": 1,
-   "secs": 2.0
+   "secs": 0.4
   },
   {
    "source": "Watch: Concord – Adult Volleyball (league play)",
@@ -4709,100 +4618,100 @@
    "secs": 0.4
   },
   {
-   "source": "Watch: Napa – Adult Drop-in Volleyball, Harvest Recreatio",
-   "ok": true,
-   "items": 0,
-   "secs": 0.6
-  },
-  {
-   "source": "Watch: Mountain View – Adult Drop-in Volleyball, Sports P",
-   "ok": true,
-   "items": 0,
-   "secs": 3.2
-  },
-  {
    "source": "Watch: Benicia – Adult Open Gym Volleyball, City Gym",
    "ok": true,
    "items": 0,
-   "secs": 0.9
+   "secs": 0.5
   },
   {
-   "source": "Watch: Crown Memorial State Beach volleyball courts (info",
+   "source": "Watch: Napa – Adult Drop-in Volleyball, Harvest Recreatio",
    "ok": true,
    "items": 0,
-   "secs": 3.6
+   "secs": 0.5
   },
   {
    "source": "Watch: Davis – Open Gym Volleyball, Davis Senior High Sch",
    "ok": true,
    "items": 0,
-   "secs": 0.3
-  },
-  {
-   "source": "Watch: San Jose – Drop-in Volleyball, Camden Community Ce",
-   "ok": true,
-   "items": 0,
-   "secs": 0.1
+   "secs": 0.2
   },
   {
    "source": "Watch: Roseville – Drop-in Volleyball, Mahany Fitness Cen",
    "ok": true,
    "items": 0,
-   "secs": 0.6
-  },
-  {
-   "source": "Watch: Cosumnes CSD – Drop-in Volleyball, Wackford Comple",
-   "ok": true,
-   "items": 0,
-   "secs": 0.9
-  },
-  {
-   "source": "Watch: Menlo Park – Adult Drop-in Volleyball, Arrillaga F",
-   "ok": true,
-   "items": 0,
-   "secs": 4.2
+   "secs": 0.5
   },
   {
    "source": "Watch: Sunnyvale – Drop-in Gym Volleyball, Sunnyvale Indo",
    "ok": true,
    "items": 0,
-   "secs": 4.5
+   "secs": 3.6
+  },
+  {
+   "source": "Watch: San Jose – Drop-in Volleyball, Camden Community Ce",
+   "ok": true,
+   "items": 0,
+   "secs": 0.2
+  },
+  {
+   "source": "Watch: Cosumnes CSD – Drop-in Volleyball, Wackford Comple",
+   "ok": true,
+   "items": 0,
+   "secs": 0.5
+  },
+  {
+   "source": "Watch: Redwood City – Drop-in Volleyball, Armory",
+   "ok": true,
+   "items": 1,
+   "secs": 3.5
+  },
+  {
+   "source": "Watch: Menlo Park – Adult Drop-in Volleyball, Arrillaga F",
+   "ok": true,
+   "items": 0,
+   "secs": 3.9
   },
   {
    "source": "Watch: Active Sports Club Oakland – volleyball open gym",
    "ok": true,
    "items": 0,
-   "secs": 0.5
+   "secs": 0.4
   },
   {
    "source": "Watch: SportsHouse Redwood City – Adult Volleyball drop-i",
    "ok": true,
    "items": 0,
-   "secs": 0.5
+   "secs": 0.2
+  },
+  {
+   "source": "Watch: Basketball Nation – Adult Volleyball Open Gym (Dre",
+   "ok": true,
+   "items": 0,
+   "secs": 0.1
   },
   {
    "source": "Watch: IVL Open Gym – Wilcox High School (adult only)",
    "ok": true,
    "items": 0,
-   "secs": 0.3
-  },
-  {
-   "source": "Watch: Walnut Creek – Drop-in Volleyball, Tice Valley Gym",
-   "ok": true,
-   "items": 0,
-   "secs": 3.8
+   "secs": 0.2
   },
   {
    "source": "Watch: YMCA of Silicon Valley – court sports (volleyball)",
    "ok": true,
    "items": 0,
-   "secs": 0.3
+   "secs": 0.2
+  },
+  {
+   "source": "Watch: Mountain View – Adult Drop-in Volleyball, Sports P",
+   "ok": true,
+   "items": 0,
+   "secs": 4.7
   },
   {
    "source": "Watch: ZogSports SF & East Bay – adult volleyball",
    "ok": true,
    "items": 0,
-   "secs": 0.3
+   "secs": 0.2
   },
   {
    "source": "Watch: Stonewall Sports SF – indoor volleyball (LGBTQ+)",
@@ -4811,16 +4720,16 @@
    "secs": 0.2
   },
   {
-   "source": "Watch: Play in the Bay / SF Spikers",
-   "ok": true,
-   "items": 0,
-   "secs": 0.3
-  },
-  {
    "source": "Watch: OutLoud Sports SF – volleyball (queer+)",
    "ok": true,
    "items": 0,
-   "secs": 0.5
+   "secs": 0.2
+  },
+  {
+   "source": "Watch: Play in the Bay / SF Spikers",
+   "ok": true,
+   "items": 0,
+   "secs": 0.1
   },
   {
    "source": "Watch: The League Sports (TLS)",
@@ -4829,28 +4738,34 @@
    "secs": 0.3
   },
   {
-   "source": "Watch: Volo Sports SF – volleyball leagues, drop-ins & pi",
-   "ok": true,
-   "items": 0,
-   "secs": 1.1
-  },
-  {
-   "source": "Watch: CBVA – California Beach Volleyball Association (No",
-   "ok": true,
-   "items": 0,
-   "secs": 0.3
-  },
-  {
    "source": "Watch: VolleyNation (grass tournaments)",
    "ok": true,
    "items": 0,
-   "secs": 0.4
+   "secs": 0.3
   },
   {
    "source": "Watch: NCVA – Adult league/tournaments",
    "ok": true,
    "items": 0,
-   "secs": 0.3
+   "secs": 0.2
+  },
+  {
+   "source": "Watch: CBVA – California Beach Volleyball Association (No",
+   "ok": true,
+   "items": 0,
+   "secs": 0.4
+  },
+  {
+   "source": "Watch: Volo Sports SF – volleyball leagues, drop-ins & pi",
+   "ok": true,
+   "items": 0,
+   "secs": 1.3
+  },
+  {
+   "source": "Watch: VBmatch.com – coed & reverse-coed leagues, grass t",
+   "ok": true,
+   "items": 0,
+   "secs": 0.5
   },
   {
    "source": "Watch: GoodRec – open play volleyball (Bay Area)",
@@ -4859,28 +4774,10 @@
    "secs": 0.3
   },
   {
-   "source": "Watch: Folsom – Adult Drop-in Volleyball, Folsom Middle S",
-   "ok": true,
-   "items": 0,
-   "secs": 3.6
-  },
-  {
-   "source": "Watch: Santa Cruz Main Beach volleyball courts (pickup)",
-   "ok": true,
-   "items": 1,
-   "secs": 3.3
-  },
-  {
    "source": "Watch: All Out Sports League – adult volleyball",
    "ok": true,
    "items": 0,
    "secs": 0.2
-  },
-  {
-   "source": "Watch: VBmatch.com – coed & reverse-coed leagues, grass t",
-   "ok": true,
-   "items": 0,
-   "secs": 0.6
   },
   {
    "source": "Watch: Xoso Sport & Social – volleyball (Sacramento & Roc",
@@ -4889,16 +4786,28 @@
    "secs": 0.6
   },
   {
+   "source": "Watch: Walnut Creek – Drop-in Volleyball, Tice Valley Gym",
+   "ok": true,
+   "items": 0,
+   "secs": 4.9
+  },
+  {
    "source": "Watch: Menlo Park – PerfectMind drop-in volleyball bookin",
    "ok": true,
    "items": 0,
-   "secs": 0.6
+   "secs": 0.5
   },
   {
-   "source": "Watch: Redwood City – Open Gym (Armory & Red Morton)",
+   "source": "Watch: Folsom – Adult Drop-in Volleyball, Folsom Middle S",
    "ok": true,
    "items": 0,
-   "secs": 1.5
+   "secs": 4.1
+  },
+  {
+   "source": "Watch: Santa Cruz Main Beach volleyball courts (pickup)",
+   "ok": true,
+   "items": 0,
+   "secs": 3.2
   },
   {
    "source": "Watch: Alameda Rec & Parks – Adult Open Gym (volleyball),",
@@ -4906,16 +4815,16 @@
    "error": "HTTPError: HTTP Error 422: Unprocessable Entity"
   },
   {
-   "source": "Watch: Basketball Nation – Adult Volleyball Open Gym (Dre",
+   "source": "Watch: Redwood City – Open Gym (Armory & Red Morton)",
    "ok": true,
    "items": 0,
-   "secs": 8.6
+   "secs": 3.9
   },
   {
    "source": "Watch: Stanford sand volleyball courts – postdoc pickup",
    "ok": true,
-   "items": 1,
-   "secs": 37.0
+   "items": 0,
+   "secs": 33.6
   }
  ],
  "blocked_cities": {
@@ -5141,21 +5050,15 @@
   },
   "Emeryville": {
    "events": 0,
-   "news_and_updates": 1,
+   "news_and_updates": 0,
    "sample_events": [],
-   "sample_news": [
-    {
-     "title": "Updated: Emeryville – Open Gym Volleyball, Emeryville Center of Community Life",
-     "source": "Page watch",
-     "link": "https://www.emeryville.org/Recreation/Fitness/Fitness-Center-Open-Gym-Sports/Open-Gym-Volleyball"
-    }
-   ],
+   "sample_news": [],
    "sources_ok": 4,
    "sources_failed": 0
   },
   "Santa Cruz": {
    "events": 1,
-   "news_and_updates": 1,
+   "news_and_updates": 0,
    "sample_events": [
     {
      "date_local": "Sun Nov 15 2026, 12:00 PM PT",
@@ -5165,13 +5068,7 @@
      "verification_state": "DISCOVERED"
     }
    ],
-   "sample_news": [
-    {
-     "title": "Updated: Santa Cruz Main Beach volleyball courts (pickup)",
-     "source": "Page watch",
-     "link": "https://www.santacruzca.gov/Government/City-Departments/Parks-Recreation/Parks-Beaches-Open-Spaces/City-Beaches"
-    }
-   ],
+   "sample_news": [],
    "sources_ok": 2,
    "sources_failed": 0
   },

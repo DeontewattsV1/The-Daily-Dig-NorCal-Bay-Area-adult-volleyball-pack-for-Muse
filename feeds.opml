@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head><title>The Daily Dig – NorCal adult volleyball feeds (verified 2026-11-10)</title><dateCreated>Tue, 10 Nov 2026 23:30:00 -0800</dateCreated></head>
+<body>
+<outline text="Google News searches" title="Google News searches">
+  <outline type="rss" text="Google News: Bay Area adult volleyball" title="Google News: Bay Area adult volleyball" xmlUrl="https://news.google.com/rss/search?q=%22Bay+Area%22+volleyball+(adult+OR+league+OR+%22open+gym%22+OR+tournament)&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: San Francisco volleyball" title="Google News: San Francisco volleyball" xmlUrl="https://news.google.com/rss/search?q=%22San+Francisco%22+volleyball+-high+-school+when:30d&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: Oakland/East Bay volleyball" title="Google News: Oakland/East Bay volleyball" xmlUrl="https://news.google.com/rss/search?q=(%22East+Bay%22+OR+Oakland+OR+Berkeley)+volleyball+-%22Oakland+University%22+-Grizzlies+when:30d&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: San Jose/South Bay volleyball" title="Google News: San Jose/South Bay volleyball" xmlUrl="https://news.google.com/rss/search?q=(%22San+Jose%22+OR+%22South+Bay%22+OR+%22Silicon+Valley%22)+volleyball+when:30d&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: Sacramento volleyball" title="Google News: Sacramento volleyball" xmlUrl="https://news.google.com/rss/search?q=Sacramento+volleyball+when:30d&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: Santa Cruz beach volleyball" title="Google News: Santa Cruz beach volleyball" xmlUrl="https://news.google.com/rss/search?q=%22Santa+Cruz%22+%22beach+volleyball%22&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: grass volleyball California" title="Google News: grass volleyball California" xmlUrl="https://news.google.com/rss/search?q=%22grass+volleyball%22+California&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: NCVA" title="Google News: NCVA" xmlUrl="https://news.google.com/rss/search?q=NCVA+volleyball&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: Bay Area pro volleyball (LOVB/AU/PVF/AVP)" title="Google News: Bay Area pro volleyball (LOVB/AU/PVF/AVP)" xmlUrl="https://news.google.com/rss/search?q=(LOVB+OR+%22Athletes+Unlimited%22+OR+AVP+OR+%22Pro+Volleyball+Federation%22)+(%22Bay+Area%22+OR+%22San+Francisco%22+OR+%22San+Jose%22+OR+Sacramento)&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: volleyball open gym California" title="Google News: volleyball open gym California" xmlUrl="https://news.google.com/rss/search?q=volleyball+%22open+gym%22+California+adult&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: Cal/Stanford volleyball" title="Google News: Cal/Stanford volleyball" xmlUrl="https://news.google.com/rss/search?q=(Stanford+OR+%22Cal+Bears%22+OR+%22San+Jose+State%22)+volleyball+when:14d&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: Sunnyvale adult/open-gym volleyball" title="Google News: Sunnyvale adult/open-gym volleyball" xmlUrl="https://news.google.com/rss/search?q=%22Sunnyvale%22+volleyball+(adult+OR+%22open+gym%22+OR+drop-in+OR+league+OR+pickup)+-MaxPreps+-varsity&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: Mountain View adult/open-gym volleyball" title="Google News: Mountain View adult/open-gym volleyball" xmlUrl="https://news.google.com/rss/search?q=%22Mountain+View%22+volleyball+(adult+OR+%22open+gym%22+OR+drop-in+OR+league)+-MaxPreps+-varsity+-Wyoming+-WHSAA&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: Menlo Park adult/open-gym volleyball" title="Google News: Menlo Park adult/open-gym volleyball" xmlUrl="https://news.google.com/rss/search?q=%22Menlo+Park%22+volleyball+(adult+OR+%22open+gym%22+OR+drop-in+OR+league)+-MaxPreps+-varsity&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: Redwood City adult/open-gym volleyball" title="Google News: Redwood City adult/open-gym volleyball" xmlUrl="https://news.google.com/rss/search?q=%22Redwood+City%22+volleyball+(adult+OR+%22open+gym%22+OR+drop-in+OR+league)+-MaxPreps+-varsity&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: Walnut Creek adult/open-gym volleyball" title="Google News: Walnut Creek adult/open-gym volleyball" xmlUrl="https://news.google.com/rss/search?q=%22Walnut+Creek%22+volleyball+(adult+OR+%22open+gym%22+OR+drop-in+OR+league)+-MaxPreps+-varsity&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: Folsom adult/open-gym volleyball" title="Google News: Folsom adult/open-gym volleyball" xmlUrl="https://news.google.com/rss/search?q=Folsom+volleyball+(adult+OR+%22open+gym%22+OR+drop-in+OR+sand+OR+league)+-MaxPreps+-varsity&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: Emeryville adult/open-gym volleyball" title="Google News: Emeryville adult/open-gym volleyball" xmlUrl="https://news.google.com/rss/search?q=Emeryville+volleyball+(adult+OR+%22open+gym%22+OR+drop-in+OR+league)+-MaxPreps+-varsity&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+  <outline type="rss" text="Google News: Napa adult/open-gym volleyball" title="Google News: Napa adult/open-gym volleyball" xmlUrl="https://news.google.com/rss/search?q=Napa+volleyball+(adult+OR+%22open+gym%22+OR+drop-in+OR+league)+-MaxPreps+-varsity+-high+-school&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+</outline>
+<outline text="Meetup groups (RSS/ICS)" title="Meetup groups (RSS/ICS)">
+  <outline type="rss" text="Meetup: San Jose Pickup Volleyball" title="Meetup: San Jose Pickup Volleyball" xmlUrl="https://www.meetup.com/san-jose-volleyball-pickup/events/rss/" />
+  <outline type="rss" text="Meetup: MP Volleyball" title="Meetup: MP Volleyball" xmlUrl="https://www.meetup.com/mpvolleyball/events/rss/" />
+  <outline type="rss" text="Meetup: Oakland Intermediate Outdoor Volleyball" title="Meetup: Oakland Intermediate Outdoor Volleyball" xmlUrl="https://www.meetup.com/oakland-intermediate-outdoor-volleyball/events/rss/" />
+  <outline type="rss" text="Meetup: Adult Volleyball Program (Sacramento)" title="Meetup: Adult Volleyball Program (Sacramento)" xmlUrl="https://www.meetup.com/adult-volleyball-program/events/rss/" />
+  <outline type="rss" text="Meetup: Livermore Pickup Beach Volleyball" title="Meetup: Livermore Pickup Beach Volleyball" xmlUrl="https://www.meetup.com/livermore-pickup-beach-volleyball/events/rss/" />
+  <outline type="rss" text="Meetup ICS: San Jose Pickup Volleyball" title="Meetup ICS: San Jose Pickup Volleyball" xmlUrl="https://www.meetup.com/san-jose-volleyball-pickup/events/ical/" />
+  <outline type="rss" text="Meetup ICS: MP Volleyball" title="Meetup ICS: MP Volleyball" xmlUrl="https://www.meetup.com/mpvolleyball/events/ical/" />
+  <outline type="rss" text="Meetup ICS: Livermore Pickup Beach Volleyball" title="Meetup ICS: Livermore Pickup Beach Volleyball" xmlUrl="https://www.meetup.com/livermore-pickup-beach-volleyball/events/ical/" />
+  <outline type="rss" text="Meetup ICS: Adult Volleyball Program (Sacramento)" title="Meetup ICS: Adult Volleyball Program (Sacramento)" xmlUrl="https://www.meetup.com/adult-volleyball-program/events/ical/" />
+  <outline type="rss" text="Meetup: Sunnyvale Grass Volleyball" title="Meetup: Sunnyvale Grass Volleyball" xmlUrl="https://www.meetup.com/sunnyvale-volleyball/events/rss/" />
+  <outline type="rss" text="Meetup ICS: Sunnyvale Grass Volleyball" title="Meetup ICS: Sunnyvale Grass Volleyball" xmlUrl="https://www.meetup.com/sunnyvale-volleyball/events/ical/" />
+  <outline type="rss" text="Meetup: Sunnyvale Rec Volleyball" title="Meetup: Sunnyvale Rec Volleyball" xmlUrl="https://www.meetup.com/sunnyvale-rec-volleyball-group/events/rss/" />
+  <outline type="rss" text="Meetup ICS: Sunnyvale Rec Volleyball" title="Meetup ICS: Sunnyvale Rec Volleyball" xmlUrl="https://www.meetup.com/sunnyvale-rec-volleyball-group/events/ical/" />
+</outline>
+<outline text="Volleyball and local news" title="Volleyball and local news">
+  <outline type="rss" text="Volleyball Magazine" title="Volleyball Magazine" xmlUrl="https://volleyballmag.com/feed/" />
+  <outline type="rss" text="USA Volleyball news" title="USA Volleyball news" xmlUrl="https://usavolleyball.org/feed/" />
+  <outline type="rss" text="NCVA" title="NCVA" xmlUrl="https://ncva.com/feed/" />
+  <outline type="rss" text="Bay Area Volleyball (WP)" title="Bay Area Volleyball (WP)" xmlUrl="https://www.bayareavolleyball.com/feed/" />
+  <outline type="rss" text="Off the Block" title="Off the Block" xmlUrl="https://offtheblockblog.com/feed/" />
+  <outline type="rss" text="SF Rec &amp; Park news (CivicPlus)" title="SF Rec &amp; Park news (CivicPlus)" xmlUrl="https://sfrecpark.org/RSSFeed.aspx?ModID=1&amp;CID=All-newsflash.xml" />
+  <outline type="rss" text="SF Rec &amp; Park calendar" title="SF Rec &amp; Park calendar" xmlUrl="https://sfrecpark.org/RSSFeed.aspx?ModID=58&amp;CID=All-calendar.xml" />
+  <outline type="rss" text="Mountain View Voice" title="Mountain View Voice" xmlUrl="https://www.mv-voice.com/feed/" />
+  <outline type="rss" text="Palo Alto Online" title="Palo Alto Online" xmlUrl="https://www.paloaltoonline.com/feed/" />
+  <outline type="rss" text="The Almanac (Menlo Park / RWC)" title="The Almanac (Menlo Park / RWC)" xmlUrl="https://www.almanacnews.com/feed/" />
+  <outline type="rss" text="InMenlo" title="InMenlo" xmlUrl="https://inmenlo.com/feed/" />
+  <outline type="rss" text="The E'ville Eye (Emeryville)" title="The E'ville Eye (Emeryville)" xmlUrl="https://www.evilleeye.com/feed/" />
+</outline>
+<outline text="City news/calendar feeds" title="City news/calendar feeds">
+  <outline type="rss" text="Redwood City calendar" title="Redwood City calendar" xmlUrl="https://www.redwoodcity.org/Home/Components/RssFeeds/RssFeed/View?ctID=5&amp;cateIDs=1" />
+  <outline type="rss" text="San Mateo news flash" title="San Mateo news flash" xmlUrl="https://www.cityofsanmateo.org/RSSFeed.aspx?ModID=1&amp;CID=All-newsflash.xml" />
+  <outline type="rss" text="Campbell news flash" title="Campbell news flash" xmlUrl="https://www.campbellca.gov/RSSFeed.aspx?ModID=1&amp;CID=All-newsflash.xml" />
+  <outline type="rss" text="Milpitas news flash" title="Milpitas news flash" xmlUrl="https://www.milpitas.gov/RSSFeed.aspx?ModID=1&amp;CID=All-newsflash.xml" />
+  <outline type="rss" text="Milpitas calendar" title="Milpitas calendar" xmlUrl="https://www.milpitas.gov/RSSFeed.aspx?ModID=58&amp;CID=All-calendar.xml" />
+  <outline type="rss" text="Napa news flash" title="Napa news flash" xmlUrl="https://www.cityofnapa.org/RSSFeed.aspx?ModID=1&amp;CID=All-newsflash.xml" />
+  <outline type="rss" text="Hayward Rec (HARD) news flash" title="Hayward Rec (HARD) news flash" xmlUrl="https://www.haywardrec.org/RSSFeed.aspx?ModID=1&amp;CID=All-newsflash.xml" />
+  <outline type="rss" text="Hayward Rec (HARD) calendar" title="Hayward Rec (HARD) calendar" xmlUrl="https://www.haywardrec.org/RSSFeed.aspx?ModID=58&amp;CID=All-calendar.xml" />
+  <outline type="rss" text="Campbell calendar" title="Campbell calendar" xmlUrl="https://www.campbellca.gov/RSSFeed.aspx?ModID=58&amp;CID=All-calendar.xml" />
+  <outline type="rss" text="Cosumnes CSD news" title="Cosumnes CSD news" xmlUrl="https://ca-cosumnescsd.civicplus.com/RSSFeed.aspx?ModID=1&amp;CID=All-newsflash.xml" />
+  <outline type="rss" text="El Cerrito news" title="El Cerrito news" xmlUrl="https://www.elcerrito.gov/RSSFeed.aspx?ModID=1&amp;CID=All-newsflash.xml" />
+</outline>
+</body>
+</opml>

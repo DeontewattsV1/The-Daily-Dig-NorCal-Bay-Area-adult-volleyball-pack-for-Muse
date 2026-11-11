@@ -1,0 +1,57 @@
+# The Daily Dig — GitHub Actions workflow (DEPLOYED 2026-11-11)
+#
+# Deployed in DeontewattsV1/The-Daily-Dig-NorCal-Bay-Area-adult-volleyball-pack-for-Muse.
+# Runs daily at 7:00 AM PT (15:00 UTC) and on manual dispatch, and commits out/.
+# Files in this folder are public-web data only.
+# Do not add secrets. This script only reads public pages.
+# Feed URL below is the GitHub Pages URL for out/daily_dig.rss (Pages serves
+# the repo root, so out/ is a subpath).
+#
+# Why this exists: several city rec sites (Sunnyvale, Mountain View, Menlo Park,
+# Redwood City, Walnut Creek, Folsom, Emeryville, Santa Cruz) return 403 to the
+# cloud network this pack was built on. GitHub-hosted runners use a different
+# IP range, so official pages may load directly from here. daily_dig.py also
+# retries blocked official pages through the public r.jina.ai reader, so a run
+# from this box already has a fallback; a runner is the better path for a
+# first-party copy of the official HTML.
+#
+# Schedule is 7:00 AM Pacific in standard time (15:00 UTC). During Pacific
+# Daylight Time (UTC-7) this fires at 8:00 AM PT — change to "0 14 * * *" if
+# you want 7:00 AM PT in summer, or run both and accept a short overlap.
+
+name: Daily Dig
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 15 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  dig:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run aggregator
+        run: python3 daily_dig.py --feed-url "https://deontewattsv1.github.io/The-Daily-Dig-NorCal-Bay-Area-adult-volleyball-pack-for-Muse/out/daily_dig.rss"
+
+      - name: Commit output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add out/
+          if git diff --staged --quiet; then
+            echo "No output changes."
+          else
+            git commit -m "chore: daily dig refresh"
+            git push
+          fi

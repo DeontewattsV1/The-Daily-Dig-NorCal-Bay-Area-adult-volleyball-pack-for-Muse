@@ -1,41 +1,20 @@
 {
  "meta": {
-  "generated_at": "2026-11-11T21:37:27.163282+00:00",
-  "generated_at_local": "2026-11-11 01:37 PM PT",
+  "generated_at": "2026-11-12T15:17:42.851046+00:00",
+  "generated_at_local": "2026-11-12 07:17 AM PT",
   "counts": {
-   "raw_items": 1015,
-   "kept": 148,
+   "raw_items": 1016,
+   "kept": 151,
    "events": 129,
-   "news_and_updates": 19
+   "news_and_updates": 22
   },
   "sources_ok": 166,
   "sources_failed": 1,
   "blocked_cities": {
    "Sunnyvale": {
-    "events": 34,
+    "events": 33,
     "news_and_updates": 4,
     "sample_events": [
-     {
-      "date_local": "Wed Nov 11 2026, 03:00 PM PT",
-      "title": "Co-Ed Doubles Volleyball Wednesday 3PM",
-      "source": "Meetup: Sunnyvale / San Jose Volleyball",
-      "link": "https://www.meetup.com/volleyball-group/events/317186463/",
-      "verification_state": "DISCOVERED"
-     },
-     {
-      "date_local": "Wed Nov 11 2026, 09:30 PM PT",
-      "title": "MVVV - Men’s Open Gym",
-      "source": "Bay Area Open Gyms",
-      "link": "https://reclub.co/m/FCDKIY",
-      "verification_state": "DISCOVERED"
-     },
-     {
-      "date_local": "Wed Nov 11 2026, 09:45 PM PT",
-      "title": "MVVC Wednesday Men/Coed Open Gym",
-      "source": "Mountain View Volleyball Club",
-      "link": "https://reclub.co/m/Y7FIUT",
-      "verification_state": "DISCOVERED"
-     },
      {
       "date_local": "Thu Nov 12 2026, 12:00 PM PT",
       "title": "Co-Ed Doubles Volleyball Thursday 12PM",
@@ -70,6 +49,27 @@
       "source": "Bay Area Open Gyms",
       "link": "https://reclub.co/m/EN56TF",
       "verification_state": "DISCOVERED"
+     },
+     {
+      "date_local": "Thu Nov 12 2026, 09:45 PM PT",
+      "title": "MVVC Thursday Late Night Reversed Coed",
+      "source": "Mountain View Volleyball Club",
+      "link": "https://reclub.co/m/MR2XLG",
+      "verification_state": "DISCOVERED"
+     },
+     {
+      "date_local": "Fri Nov 13 2026, 12:30 PM PT",
+      "title": "Lunch Time Volleyball",
+      "source": "Meetup: SunnyVale Lunch Time VolleyBall (SV LTVB)",
+      "link": "https://www.meetup.com/sunnyvalelunchtimevolleyball/events/317123290/",
+      "verification_state": "DISCOVERED"
+     },
+     {
+      "date_local": "Fri Nov 13 2026, 02:00 PM PT",
+      "title": "Co-Ed Doubles Volleyball Friday Early Bird",
+      "source": "Meetup: Sunnyvale / San Jose Volleyball",
+      "link": "https://www.meetup.com/volleyball-group/events/317315854/",
+      "verification_state": "DISCOVERED"
      }
     ],
     "sample_news": [
@@ -98,23 +98,9 @@
     "sources_failed": 0
    },
    "Mountain View": {
-    "events": 18,
+    "events": 17,
     "news_and_updates": 0,
     "sample_events": [
-     {
-      "date_local": "Wed Nov 11 2026, 09:30 PM PT",
-      "title": "MVVV - Men’s Open Gym",
-      "source": "Bay Area Open Gyms",
-      "link": "https://reclub.co/m/FCDKIY",
-      "verification_state": "DISCOVERED"
-     },
-     {
-      "date_local": "Wed Nov 11 2026, 09:45 PM PT",
-      "title": "MVVC Wednesday Men/Coed Open Gym",
-      "source": "Mountain View Volleyball Club",
-      "link": "https://reclub.co/m/Y7FIUT",
-      "verification_state": "DISCOVERED"
-     },
      {
       "date_local": "Thu Nov 12 2026, 09:30 PM PT",
       "title": "MVVC Late Night Thursday Reversed Coed",
@@ -155,6 +141,20 @@
       "title": "MVVC Friday Men/Coed Open Gym",
       "source": "Mountain View Volleyball Club",
       "link": "https://reclub.co/m/LHFRW9",
+      "verification_state": "DISCOVERED"
+     },
+     {
+      "date_local": "Fri Nov 13 2026, 09:45 PM PT",
+      "title": "MVVC Friday Court Rental B",
+      "source": "Mountain View Volleyball Club",
+      "link": "https://reclub.co/m/AWWNND",
+      "verification_state": "DISCOVERED"
+     },
+     {
+      "date_local": "Fri Nov 13 2026, 09:45 PM PT",
+      "title": "MVVC Friday Court Rental A",
+      "source": "Mountain View Volleyball Club",
+      "link": "https://reclub.co/m/NYL0A2",
       "verification_state": "DISCOVERED"
      }
     ],
@@ -227,9 +227,15 @@
    },
    "Emeryville": {
     "events": 0,
-    "news_and_updates": 0,
+    "news_and_updates": 1,
     "sample_events": [],
-    "sample_news": [],
+    "sample_news": [
+     {
+      "title": "Updated: Volo Sports SF – volleyball leagues, drop-ins & pickups",
+      "source": "Page watch",
+      "link": "https://www.volosports.com/san-francisco/volleyball"
+     }
+    ],
     "sources_ok": 4,
     "sources_failed": 0
    },
@@ -262,262 +268,6 @@
  },
  "events": [
   {
-   "source": "SF Pickup Volleyball",
-   "kind": "heylo",
-   "title": "Wednesdays in the Park",
-   "link": "https://www.heylo.com/event/ec0ca038-0935-4678-817d-5615e9e76019",
-   "date": "2026-11-11T22:00:00+00:00",
-   "is_event": true,
-   "summary": "SF Pickup Volleyball on Heylo. RSVPs: 21",
-   "platform": "Heylo",
-   "relevance": 6.8,
-   "why": [
-    "volleyball",
-    "adult/format cue",
-    "place:sf ",
-    "actionable",
-    "community source"
-   ],
-   "recency": 2.0,
-   "score": 8.8,
-   "date_local": "Wed Nov 11 2026, 02:00 PM PT",
-   "verification_state": "DISCOVERED"
-  },
-  {
-   "source": "Meetup: Sunnyvale / San Jose Volleyball",
-   "kind": "meetup_search",
-   "title": "Co-Ed Doubles Volleyball Wednesday 3PM",
-   "link": "https://www.meetup.com/volleyball-group/events/317186463/",
-   "date": "2026-11-11T23:00:00+00:00",
-   "is_event": true,
-   "summary": "Sunnyvale / San Jose Volleyball.",
-   "platform": "Meetup",
-   "club": "Sunnyvale / San Jose Volleyball",
-   "relevance": 6.6,
-   "why": [
-    "volleyball",
-    "adult/format cue",
-    "place:san jose,sunnyvale",
-    "community source"
-   ],
-   "recency": 1.99,
-   "score": 8.59,
-   "date_local": "Wed Nov 11 2026, 03:00 PM PT",
-   "verification_state": "DISCOVERED",
-   "cities": [
-    "Sunnyvale"
-   ]
-  },
-  {
-   "source": "Pleasant Hill Grass Volleyball, Sun 2:00",
-   "kind": "reclub",
-   "title": "Wednesday evening grass volleyball in Pleasant Hill",
-   "link": "https://reclub.co/m/SSP59B",
-   "date": "2026-11-12T01:00:00+00:00",
-   "is_event": true,
-   "summary": "Pleasant Hill Grass Volleyball, Sun 2:00 on Reclub. Wed, Nov 11 @ 5:00 PM. Pleasant Hill Park · 147 Gregory Lane, Pleasant Hill, Ca, United States · Every Wednesday · 5:00 PM",
-   "club": "Pleasant Hill Grass Volleyball, Sun 2:00",
-   "platform": "Reclub",
-   "venue": "Pleasant Hill Park",
-   "address": "147 Gregory Lane, Pleasant Hill, Ca, United States",
-   "recurrence": "Every Wednesday · 5:00 PM",
-   "labels": [],
-   "relevance": 5.8,
-   "why": [
-    "volleyball",
-    "adult/format cue",
-    "place:pleasant hill",
-    "community source"
-   ],
-   "recency": 1.98,
-   "score": 7.78,
-   "date_local": "Wed Nov 11 2026, 05:00 PM PT",
-   "verification_state": "DISCOVERED"
-  },
-  {
-   "source": "San Joaquin County Open Volleyball Gyms",
-   "kind": "reclub",
-   "title": "Stockton Stribley Community Center",
-   "link": "https://reclub.co/m/6KG4MM",
-   "date": "2026-11-12T01:30:00+00:00",
-   "is_event": true,
-   "summary": "San Joaquin County Open Volleyball Gyms on Reclub. Wed, Nov 11 @ 5:30 PM. Stribley Center · 1760 East Sonora St, Stockton, CA, United States · Per Player $11.50 · Every Wednesday · 5:30 PM",
-   "club": "San Joaquin County Open Volleyball Gyms",
-   "platform": "Reclub",
-   "venue": "Stribley Center",
-   "address": "1760 East Sonora St, Stockton, CA, United States",
-   "price": "Per Player $11.50",
-   "recurrence": "Every Wednesday · 5:30 PM",
-   "labels": [
-    "Coed"
-   ],
-   "relevance": 4.3,
-   "why": [
-    "volleyball",
-    "place:stockton",
-    "community source"
-   ],
-   "recency": 1.98,
-   "score": 6.28,
-   "date_local": "Wed Nov 11 2026, 05:30 PM PT",
-   "verification_state": "DISCOVERED"
-  },
-  {
-   "source": "San Francisco Women's Volleyball",
-   "kind": "reclub",
-   "title": "Drop In: Women's Indoor VB #49298",
-   "link": "https://reclub.co/m/8LKIWJ",
-   "date": "2026-11-12T02:00:00+00:00",
-   "is_event": true,
-   "summary": "San Francisco Women's Volleyball on Reclub. Wed, Nov 11 @ 6:00 PM. Potrero Hill Recreation Center · 801 Arkansas St, San Francisco, Ca, United States · Every Wednesday · 6:00 PM",
-   "club": "San Francisco Women's Volleyball",
-   "platform": "Reclub",
-   "venue": "Potrero Hill Recreation Center",
-   "address": "801 Arkansas St, San Francisco, Ca, United States",
-   "recurrence": "Every Wednesday · 6:00 PM",
-   "labels": [
-    "Female"
-   ],
-   "relevance": 6.8,
-   "why": [
-    "volleyball",
-    "adult/format cue",
-    "place:san francisco",
-    "actionable",
-    "community source"
-   ],
-   "recency": 1.97,
-   "score": 8.77,
-   "date_local": "Wed Nov 11 2026, 06:00 PM PT",
-   "verification_state": "DISCOVERED"
-  },
-  {
-   "source": "BSH East Bay Volleyball 🏐",
-   "kind": "reclub",
-   "title": "COED (B/BB) open gym @ICS/TCN",
-   "link": "https://reclub.co/m/BXJRTD",
-   "date": "2026-11-12T02:45:00+00:00",
-   "is_event": true,
-   "summary": "BSH East Bay Volleyball 🏐 on Reclub. Wed, Nov 11 @ 6:45 PM. International Community School · 2825 International Boulevard, Oakland, CA, United States · Per Player $15.00 · Every Wednesday · 6:45 PM",
-   "club": "BSH East Bay Volleyball 🏐",
-   "platform": "Reclub",
-   "venue": "International Community School",
-   "address": "2825 International Boulevard, Oakland, CA, United States",
-   "price": "Per Player $15.00",
-   "recurrence": "Every Wednesday · 6:45 PM",
-   "labels": [
-    "Adult",
-    "Coed"
-   ],
-   "relevance": 7.6,
-   "why": [
-    "volleyball",
-    "adult/format cue",
-    "place:oakland,east bay",
-    "actionable",
-    "community source"
-   ],
-   "recency": 1.97,
-   "score": 9.57,
-   "date_local": "Wed Nov 11 2026, 06:45 PM PT",
-   "verification_state": "DISCOVERED"
-  },
-  {
-   "source": "High Tide Adult Volleyball Drop In",
-   "kind": "reclub",
-   "title": "High Tide Adult Drop In 7-9",
-   "link": "https://reclub.co/m/B88EHS",
-   "date": "2026-11-12T03:00:00+00:00",
-   "is_event": true,
-   "summary": "High Tide Adult Volleyball Drop In on Reclub. Wed, Nov 11 @ 7:00 PM. Sea Crest School Gymnasium · 901 South Arnold Way, Half Moon Bay, CA 94019, USA · Per Player $20.00 · Every Wednesday · 7:00 PM",
-   "club": "High Tide Adult Volleyball Drop In",
-   "platform": "Reclub",
-   "venue": "Sea Crest School Gymnasium",
-   "address": "901 South Arnold Way, Half Moon Bay, CA 94019, USA",
-   "price": "Per Player $20.00",
-   "recurrence": "Every Wednesday · 7:00 PM",
-   "labels": [],
-   "relevance": 6.8,
-   "why": [
-    "volleyball",
-    "adult/format cue",
-    "place:half moon bay",
-    "actionable",
-    "community source"
-   ],
-   "recency": 1.97,
-   "score": 8.77,
-   "date_local": "Wed Nov 11 2026, 07:00 PM PT",
-   "verification_state": "DISCOVERED"
-  },
-  {
-   "source": "Bay Area Open Gyms",
-   "kind": "reclub",
-   "title": "MVVV - Men’s Open Gym",
-   "link": "https://reclub.co/m/FCDKIY",
-   "date": "2026-11-12T05:30:00+00:00",
-   "is_event": true,
-   "summary": "Bay Area Open Gyms on Reclub. Wed, Nov 11 @ 9:30 PM. Mountain View Volleyball Club · 477 North Mathilda Avenue, Sunnyvale, Ca, United States · Every Wednesday · 9:30 PM",
-   "club": "Bay Area Open Gyms",
-   "platform": "Reclub",
-   "venue": "Mountain View Volleyball Club",
-   "address": "477 North Mathilda Avenue, Sunnyvale, Ca, United States",
-   "recurrence": "Every Wednesday · 9:30 PM",
-   "labels": [
-    "Coed"
-   ],
-   "relevance": 8.0,
-   "why": [
-    "volleyball",
-    "adult/format cue",
-    "place:bay area,sunnyvale,mountain view",
-    "actionable",
-    "community source"
-   ],
-   "recency": 1.95,
-   "score": 9.95,
-   "date_local": "Wed Nov 11 2026, 09:30 PM PT",
-   "verification_state": "DISCOVERED",
-   "cities": [
-    "Mountain View",
-    "Sunnyvale"
-   ]
-  },
-  {
-   "source": "Mountain View Volleyball Club",
-   "kind": "reclub",
-   "title": "MVVC Wednesday Men/Coed Open Gym",
-   "link": "https://reclub.co/m/Y7FIUT",
-   "date": "2026-11-12T05:45:00+00:00",
-   "is_event": true,
-   "summary": "Mountain View Volleyball Club on Reclub. Wed, Nov 11 @ 9:45 PM. Mountain View Volleyball Club · 477 North Mathilda Avenue, Sunnyvale, Ca, United States · Per Player $90.00 · Every Wednesday · 9:45 PM",
-   "club": "Mountain View Volleyball Club",
-   "platform": "Reclub",
-   "venue": "Mountain View Volleyball Club",
-   "address": "477 North Mathilda Avenue, Sunnyvale, Ca, United States",
-   "price": "Per Player $90.00",
-   "recurrence": "Every Wednesday · 9:45 PM",
-   "labels": [
-    "Coed"
-   ],
-   "relevance": 7.6,
-   "why": [
-    "volleyball",
-    "adult/format cue",
-    "place:sunnyvale,mountain view",
-    "actionable",
-    "community source"
-   ],
-   "recency": 1.95,
-   "score": 9.55,
-   "date_local": "Wed Nov 11 2026, 09:45 PM PT",
-   "verification_state": "DISCOVERED",
-   "cities": [
-    "Mountain View",
-    "Sunnyvale"
-   ]
-  },
-  {
    "source": "Meetup: Fremont VolleyBall",
    "kind": "meetup_search",
    "title": "Sand Game",
@@ -534,8 +284,8 @@
     "place:fremont",
     "community source"
    ],
-   "recency": 1.89,
-   "score": 7.69,
+   "recency": 1.99,
+   "score": 7.79,
    "date_local": "Thu Nov 12 2026, 08:45 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -556,8 +306,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.87,
-   "score": 8.47,
+   "recency": 1.97,
+   "score": 8.57,
    "date_local": "Thu Nov 12 2026, 12:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -580,8 +330,8 @@
     "place:santa clara",
     "community source"
    ],
-   "recency": 1.87,
-   "score": 6.17,
+   "recency": 1.97,
+   "score": 6.27,
    "date_local": "Thu Nov 12 2026, 12:15 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -601,8 +351,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.85,
-   "score": 6.95,
+   "recency": 1.96,
+   "score": 7.06,
    "date_local": "Thu Nov 12 2026, 02:30 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -626,8 +376,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.85,
-   "score": 8.45,
+   "recency": 1.95,
+   "score": 8.55,
    "date_local": "Thu Nov 12 2026, 03:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -650,8 +400,8 @@
     "adult/format cue",
     "community source"
    ],
-   "recency": 1.85,
-   "score": 6.85,
+   "recency": 1.95,
+   "score": 6.95,
    "date_local": "Thu Nov 12 2026, 03:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -675,8 +425,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.84,
-   "score": 8.44,
+   "recency": 1.94,
+   "score": 8.54,
    "date_local": "Thu Nov 12 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -700,8 +450,8 @@
     "place:folsom",
     "community source"
    ],
-   "recency": 1.84,
-   "score": 7.64,
+   "recency": 1.94,
+   "score": 7.74,
    "date_local": "Thu Nov 12 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -711,7 +461,7 @@
   {
    "source": "BSH East Bay Volleyball 🏐",
    "kind": "reclub",
-   "title": "MEN (B/BB) open gym",
+   "title": "MEN’S NET COED (B/BB) open gym",
    "link": "https://reclub.co/m/S7YBUR",
    "date": "2026-11-13T03:00:00+00:00",
    "is_event": true,
@@ -731,8 +481,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.83,
-   "score": 9.43,
+   "recency": 1.93,
+   "score": 9.53,
    "date_local": "Thu Nov 12 2026, 07:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -753,8 +503,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.82,
-   "score": 8.62,
+   "recency": 1.92,
+   "score": 8.72,
    "date_local": "Thu Nov 12 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -765,17 +515,21 @@
    "link": "https://reclub.co/m/KU0GQ7",
    "date": "2026-11-13T04:00:00+00:00",
    "is_event": true,
-   "summary": "San Joaquin County Open Volleyball Gyms on Reclub. Thu, Nov 12 @ 8:00 PM.",
+   "summary": "San Joaquin County Open Volleyball Gyms on Reclub. Thu, Nov 12 @ 8:00 PM. 101 S Tracy Blvd · 101 South Tracy Boulevard, Tracy, CA, United States · Every Thursday · 8:00 PM",
    "club": "San Joaquin County Open Volleyball Gyms",
    "platform": "Reclub",
+   "venue": "101 S Tracy Blvd",
+   "address": "101 South Tracy Boulevard, Tracy, CA, United States",
+   "recurrence": "Every Thursday · 8:00 PM",
+   "labels": [],
    "relevance": 4.3,
    "why": [
     "volleyball",
     "place:tracy",
     "community source"
    ],
-   "recency": 1.82,
-   "score": 6.12,
+   "recency": 1.92,
+   "score": 6.22,
    "date_local": "Thu Nov 12 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -802,8 +556,8 @@
     "place:manteca",
     "community source"
    ],
-   "recency": 1.82,
-   "score": 6.12,
+   "recency": 1.92,
+   "score": 6.22,
    "date_local": "Thu Nov 12 2026, 08:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -829,8 +583,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.81,
-   "score": 9.81,
+   "recency": 1.92,
+   "score": 9.92,
    "date_local": "Thu Nov 12 2026, 09:30 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -862,8 +616,8 @@
     "place:sunnyvale,mountain view",
     "community source"
    ],
-   "recency": 1.81,
-   "score": 8.41,
+   "recency": 1.91,
+   "score": 8.51,
    "date_local": "Thu Nov 12 2026, 09:45 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -887,8 +641,8 @@
     "place:mountain view",
     "community source"
    ],
-   "recency": 1.81,
-   "score": 6.11,
+   "recency": 1.91,
+   "score": 6.21,
    "date_local": "Thu Nov 12 2026, 09:45 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -911,8 +665,8 @@
     "place:sunnyvale",
     "community source"
    ],
-   "recency": 1.72,
-   "score": 6.02,
+   "recency": 1.83,
+   "score": 6.13,
    "date_local": "Fri Nov 13 2026, 12:30 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -936,8 +690,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.71,
-   "score": 8.31,
+   "recency": 1.82,
+   "score": 8.42,
    "date_local": "Fri Nov 13 2026, 02:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -968,8 +722,8 @@
     "youth?",
     "community source"
    ],
-   "recency": 1.7,
-   "score": 5.8,
+   "recency": 1.81,
+   "score": 5.91,
    "date_local": "Fri Nov 13 2026, 03:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -990,8 +744,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.7,
-   "score": 8.3,
+   "recency": 1.81,
+   "score": 8.41,
    "date_local": "Fri Nov 13 2026, 04:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1018,8 +772,8 @@
     "place:mountain view",
     "community source"
    ],
-   "recency": 1.69,
-   "score": 7.49,
+   "recency": 1.8,
+   "score": 7.6,
    "date_local": "Fri Nov 13 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1033,9 +787,15 @@
    "link": "https://reclub.co/m/LL0UPM",
    "date": "2026-11-14T01:30:00+00:00",
    "is_event": true,
-   "summary": "San Francisco Women's Volleyball on Reclub. Fri, Nov 13 @ 5:30 PM.",
+   "summary": "San Francisco Women's Volleyball on Reclub. Fri, Nov 13 @ 5:30 PM. George R. Moscone Recreation Center · 1800 Chestnut St, San Francisco, CA 94123, USA · Every Friday · 5:30 PM",
    "club": "San Francisco Women's Volleyball",
    "platform": "Reclub",
+   "venue": "George R. Moscone Recreation Center",
+   "address": "1800 Chestnut St, San Francisco, CA 94123, USA",
+   "recurrence": "Every Friday · 5:30 PM",
+   "labels": [
+    "Female"
+   ],
    "relevance": 6.8,
    "why": [
     "volleyball",
@@ -1044,9 +804,36 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.69,
-   "score": 8.49,
+   "recency": 1.8,
+   "score": 8.6,
    "date_local": "Fri Nov 13 2026, 05:30 PM PT",
+   "verification_state": "DISCOVERED"
+  },
+  {
+   "source": "Rancho Cordova OVB",
+   "kind": "reclub",
+   "title": "Volleyball Pickup with Gabriel",
+   "link": "https://reclub.co/m/PH5QA1",
+   "date": "2026-11-14T01:45:00+00:00",
+   "is_event": true,
+   "summary": "Rancho Cordova OVB on Reclub. Fri, Nov 13 @ 5:45 PM. Hagan Community Park · 2197 Chase Drive, Rancho Cordova, Ca, United States · Every Friday · 5:45 PM",
+   "club": "Rancho Cordova OVB",
+   "platform": "Reclub",
+   "venue": "Hagan Community Park",
+   "address": "2197 Chase Drive, Rancho Cordova, Ca, United States",
+   "recurrence": "Every Friday · 5:45 PM",
+   "labels": [],
+   "relevance": 6.8,
+   "why": [
+    "volleyball",
+    "adult/format cue",
+    "place:rancho cordova",
+    "actionable",
+    "community source"
+   ],
+   "recency": 1.79,
+   "score": 8.59,
+   "date_local": "Fri Nov 13 2026, 05:45 PM PT",
    "verification_state": "DISCOVERED"
   },
   {
@@ -1065,8 +852,8 @@
     "place:monterey",
     "community source"
    ],
-   "recency": 1.69,
-   "score": 5.99,
+   "recency": 1.79,
+   "score": 6.09,
    "date_local": "Fri Nov 13 2026, 05:45 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1089,8 +876,8 @@
     "youth?",
     "community source"
    ],
-   "recency": 1.69,
-   "score": 5.99,
+   "recency": 1.79,
+   "score": 6.09,
    "date_local": "Fri Nov 13 2026, 06:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1116,8 +903,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.68,
-   "score": 9.68,
+   "recency": 1.79,
+   "score": 9.79,
    "date_local": "Fri Nov 13 2026, 06:55 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1137,8 +924,8 @@
     "place:manteca",
     "community source"
    ],
-   "recency": 1.68,
-   "score": 5.98,
+   "recency": 1.78,
+   "score": 6.08,
    "date_local": "Fri Nov 13 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1158,8 +945,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.67,
-   "score": 9.67,
+   "recency": 1.78,
+   "score": 9.78,
    "date_local": "Fri Nov 13 2026, 09:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1178,8 +965,8 @@
     "volleyball",
     "community source"
    ],
-   "recency": 1.67,
-   "score": 5.17,
+   "recency": 1.78,
+   "score": 5.28,
    "date_local": "Fri Nov 13 2026, 09:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1207,8 +994,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.67,
-   "score": 9.67,
+   "recency": 1.77,
+   "score": 9.77,
    "date_local": "Fri Nov 13 2026, 09:30 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1242,8 +1029,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.67,
-   "score": 9.67,
+   "recency": 1.77,
+   "score": 9.77,
    "date_local": "Fri Nov 13 2026, 09:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1272,8 +1059,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.67,
-   "score": 9.27,
+   "recency": 1.77,
+   "score": 9.37,
    "date_local": "Fri Nov 13 2026, 09:45 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1304,8 +1091,8 @@
     "place:sunnyvale,mountain view",
     "community source"
    ],
-   "recency": 1.67,
-   "score": 6.77,
+   "recency": 1.77,
+   "score": 6.87,
    "date_local": "Fri Nov 13 2026, 09:45 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1329,8 +1116,8 @@
     "place:mountain view",
     "community source"
    ],
-   "recency": 1.67,
-   "score": 5.97,
+   "recency": 1.77,
+   "score": 6.07,
    "date_local": "Fri Nov 13 2026, 09:45 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1353,8 +1140,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.66,
-   "score": 9.66,
+   "recency": 1.77,
+   "score": 9.77,
    "date_local": "Fri Nov 13 2026, 10:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1376,8 +1163,8 @@
     "youth?",
     "community source"
    ],
-   "recency": 1.61,
-   "score": 4.91,
+   "recency": 1.71,
+   "score": 5.01,
    "date_local": "Sat Nov 14 2026, 07:30 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1399,8 +1186,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.6,
-   "score": 9.2,
+   "recency": 1.7,
+   "score": 9.3,
    "date_local": "Sat Nov 14 2026, 09:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1429,8 +1216,8 @@
     "youth?",
     "community source"
    ],
-   "recency": 1.6,
-   "score": 5.9,
+   "recency": 1.7,
+   "score": 6.0,
    "date_local": "Sat Nov 14 2026, 09:30 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1456,8 +1243,8 @@
     "place:bay area,san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.59,
-   "score": 8.59,
+   "recency": 1.7,
+   "score": 8.7,
    "date_local": "Sat Nov 14 2026, 10:00 AM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1481,32 +1268,9 @@
     "place:san francisco",
     "community source"
    ],
-   "recency": 1.59,
-   "score": 7.39,
+   "recency": 1.7,
+   "score": 7.5,
    "date_local": "Sat Nov 14 2026, 10:30 AM PT",
-   "verification_state": "DISCOVERED"
-  },
-  {
-   "source": "SVVC: Bay Area Volleyball Classes and Clinics",
-   "kind": "reclub",
-   "title": "SVVC: Weekly Volleyball Clinic (Beg/Int)",
-   "link": "https://reclub.co/m/XZV9SV",
-   "date": "2026-11-14T19:00:00+00:00",
-   "is_event": true,
-   "summary": "SVVC: Bay Area Volleyball Classes and Clinics on Reclub. Sat, Nov 14 @ 11:00 AM.",
-   "club": "SVVC: Bay Area Volleyball Classes and Clinics",
-   "platform": "Reclub",
-   "relevance": 6.8,
-   "why": [
-    "volleyball",
-    "adult/format cue",
-    "place:bay area",
-    "actionable",
-    "community source"
-   ],
-   "recency": 1.59,
-   "score": 8.39,
-   "date_local": "Sat Nov 14 2026, 11:00 AM PT",
    "verification_state": "DISCOVERED"
   },
   {
@@ -1529,8 +1293,8 @@
     "place:hayward",
     "community source"
    ],
-   "recency": 1.58,
-   "score": 5.88,
+   "recency": 1.68,
+   "score": 5.98,
    "date_local": "Sat Nov 14 2026, 12:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1551,8 +1315,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.57,
-   "score": 8.17,
+   "recency": 1.67,
+   "score": 8.27,
    "date_local": "Sat Nov 14 2026, 02:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1583,8 +1347,8 @@
     "place:oakland,east bay",
     "community source"
    ],
-   "recency": 1.55,
-   "score": 8.15,
+   "recency": 1.65,
+   "score": 8.25,
    "date_local": "Sat Nov 14 2026, 05:45 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1605,8 +1369,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.55,
-   "score": 7.55,
+   "recency": 1.65,
+   "score": 7.65,
    "date_local": "Sat Nov 14 2026, 06:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1625,8 +1389,8 @@
     "volleyball",
     "community source"
    ],
-   "recency": 1.55,
-   "score": 5.05,
+   "recency": 1.65,
+   "score": 5.15,
    "date_local": "Sat Nov 14 2026, 06:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1645,10 +1409,43 @@
     "volleyball",
     "community source"
    ],
-   "recency": 1.53,
-   "score": 5.03,
+   "recency": 1.64,
+   "score": 5.14,
    "date_local": "Sat Nov 14 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
+  },
+  {
+   "source": "Mountain View Volleyball Club",
+   "kind": "reclub",
+   "title": "MVVC Saturday Reversed Coed",
+   "link": "https://reclub.co/m/RQVTXH",
+   "date": "2026-11-15T05:45:00+00:00",
+   "is_event": true,
+   "summary": "Mountain View Volleyball Club on Reclub. Sat, Nov 14 @ 9:45 PM. Mountain View Volleyball Club · 477 North Mathilda Avenue, Sunnyvale, Ca, United States · Per Player $15.00 · Every Saturday · 9:45 PM",
+   "club": "Mountain View Volleyball Club",
+   "platform": "Reclub",
+   "venue": "Mountain View Volleyball Club",
+   "address": "477 North Mathilda Avenue, Sunnyvale, Ca, United States",
+   "price": "Per Player $15.00",
+   "recurrence": "Every Saturday · 9:45 PM",
+   "labels": [
+    "Coed"
+   ],
+   "relevance": 6.6,
+   "why": [
+    "volleyball",
+    "adult/format cue",
+    "place:sunnyvale,mountain view",
+    "community source"
+   ],
+   "recency": 1.63,
+   "score": 8.23,
+   "date_local": "Sat Nov 14 2026, 09:45 PM PT",
+   "verification_state": "DISCOVERED",
+   "cities": [
+    "Mountain View",
+    "Sunnyvale"
+   ]
   },
   {
    "source": "Mountain View Volleyball Club",
@@ -1674,38 +1471,13 @@
     "place:sunnyvale,mountain view",
     "community source"
    ],
-   "recency": 1.52,
-   "score": 8.12,
+   "recency": 1.63,
+   "score": 8.23,
    "date_local": "Sat Nov 14 2026, 09:45 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
     "Mountain View",
     "Sunnyvale"
-   ]
-  },
-  {
-   "source": "Mountain View Volleyball Club",
-   "kind": "reclub",
-   "title": "MVVC Saturday Reversed Coed",
-   "link": "https://reclub.co/m/RQVTXH",
-   "date": "2026-11-15T05:45:00+00:00",
-   "is_event": true,
-   "summary": "Mountain View Volleyball Club on Reclub. Sat, Nov 14 @ 9:45 PM.",
-   "club": "Mountain View Volleyball Club",
-   "platform": "Reclub",
-   "relevance": 5.8,
-   "why": [
-    "volleyball",
-    "adult/format cue",
-    "place:mountain view",
-    "community source"
-   ],
-   "recency": 1.52,
-   "score": 7.32,
-   "date_local": "Sat Nov 14 2026, 09:45 PM PT",
-   "verification_state": "DISCOVERED",
-   "cities": [
-    "Mountain View"
    ]
   },
   {
@@ -1724,8 +1496,8 @@
     "place:mountain view",
     "community source"
    ],
-   "recency": 1.52,
-   "score": 5.82,
+   "recency": 1.63,
+   "score": 5.93,
    "date_local": "Sat Nov 14 2026, 09:45 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1757,8 +1529,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.52,
-   "score": 9.12,
+   "recency": 1.63,
+   "score": 9.23,
    "date_local": "Sat Nov 14 2026, 10:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1783,8 +1555,8 @@
     "place:roseville",
     "community source"
    ],
-   "recency": 1.46,
-   "score": 7.26,
+   "recency": 1.56,
+   "score": 7.36,
    "date_local": "Sun Nov 15 2026, 09:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1804,8 +1576,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.45,
-   "score": 9.05,
+   "recency": 1.56,
+   "score": 9.16,
    "date_local": "Sun Nov 15 2026, 10:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1826,8 +1598,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.45,
-   "score": 8.25,
+   "recency": 1.56,
+   "score": 8.36,
    "date_local": "Sun Nov 15 2026, 10:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1838,7 +1610,7 @@
    "link": "https://www.heylo.com/event/-P4TlWGG9TluGtKUXx3o",
    "date": "2026-11-15T18:00:00+00:00",
    "is_event": true,
-   "summary": "San Francisco Beach Volleyball - SFBV on Heylo. RSVPs: 167",
+   "summary": "San Francisco Beach Volleyball - SFBV on Heylo. RSVPs: 172",
    "platform": "Heylo",
    "relevance": 5.8,
    "why": [
@@ -1847,8 +1619,8 @@
     "place:san francisco",
     "community source"
    ],
-   "recency": 1.45,
-   "score": 7.25,
+   "recency": 1.56,
+   "score": 7.36,
    "date_local": "Sun Nov 15 2026, 10:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1870,8 +1642,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.44,
-   "score": 9.04,
+   "recency": 1.55,
+   "score": 9.15,
    "date_local": "Sun Nov 15 2026, 11:00 AM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1894,8 +1666,8 @@
     "place:sacramento",
     "community source"
    ],
-   "recency": 1.44,
-   "score": 5.74,
+   "recency": 1.55,
+   "score": 5.85,
    "date_local": "Sun Nov 15 2026, 11:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1916,8 +1688,8 @@
     "place:san jose,sunnyvale,santa cruz",
     "community source"
    ],
-   "recency": 1.44,
-   "score": 8.44,
+   "recency": 1.54,
+   "score": 8.54,
    "date_local": "Sun Nov 15 2026, 12:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1940,8 +1712,8 @@
     "place:sunnyvale",
     "community source"
    ],
-   "recency": 1.44,
-   "score": 7.24,
+   "recency": 1.54,
+   "score": 7.34,
    "date_local": "Sun Nov 15 2026, 12:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -1970,8 +1742,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.43,
-   "score": 8.23,
+   "recency": 1.54,
+   "score": 8.34,
    "date_local": "Sun Nov 15 2026, 01:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -1980,7 +1752,7 @@
    "kind": "meetup_search",
    "title": "Beach Co-Ed Doubles Volleyball",
    "link": "https://www.meetup.com/volleyball-group/events/317315895/",
-   "date": "2026-11-15T22:00:00+00:00",
+   "date": "2026-11-15T21:00:00+00:00",
    "is_event": true,
    "summary": "Sunnyvale / San Jose Volleyball.",
    "platform": "Meetup",
@@ -1992,9 +1764,9 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.43,
-   "score": 8.03,
-   "date_local": "Sun Nov 15 2026, 02:00 PM PT",
+   "recency": 1.54,
+   "score": 8.14,
+   "date_local": "Sun Nov 15 2026, 01:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
     "Sunnyvale"
@@ -2015,8 +1787,8 @@
     "place:sunnyvale",
     "community source"
    ],
-   "recency": 1.43,
-   "score": 7.23,
+   "recency": 1.53,
+   "score": 7.33,
    "date_local": "Sun Nov 15 2026, 02:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2039,9 +1811,37 @@
     "place:pleasant hill",
     "community source"
    ],
-   "recency": 1.43,
-   "score": 5.73,
+   "recency": 1.53,
+   "score": 5.83,
    "date_local": "Sun Nov 15 2026, 02:00 PM PT",
+   "verification_state": "DISCOVERED"
+  },
+  {
+   "source": "Bay Area Open Gyms",
+   "kind": "reclub",
+   "title": "Open Gym - Bay Club Fremont: Power RevCo",
+   "link": "https://reclub.co/m/5QHZQY",
+   "date": "2026-11-15T23:00:00+00:00",
+   "is_event": true,
+   "summary": "Bay Area Open Gyms on Reclub. Sun, Nov 15 @ 3:00 PM. Bay Club Fremont · 46650 Landing Parkway, Fremont, Ca, United States · Per Player $50.00 · Every Sunday · 3:00 PM",
+   "club": "Bay Area Open Gyms",
+   "platform": "Reclub",
+   "venue": "Bay Club Fremont",
+   "address": "46650 Landing Parkway, Fremont, Ca, United States",
+   "price": "Per Player $50.00",
+   "recurrence": "Every Sunday · 3:00 PM",
+   "labels": [],
+   "relevance": 7.6,
+   "why": [
+    "volleyball",
+    "adult/format cue",
+    "place:bay area,fremont",
+    "actionable",
+    "community source"
+   ],
+   "recency": 1.53,
+   "score": 9.13,
+   "date_local": "Sun Nov 15 2026, 03:00 PM PT",
    "verification_state": "DISCOVERED"
   },
   {
@@ -2061,8 +1861,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.41,
-   "score": 7.41,
+   "recency": 1.52,
+   "score": 7.52,
    "date_local": "Sun Nov 15 2026, 04:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2083,8 +1883,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.41,
-   "score": 7.41,
+   "recency": 1.51,
+   "score": 7.51,
    "date_local": "Sun Nov 15 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2105,8 +1905,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.41,
-   "score": 7.41,
+   "recency": 1.51,
+   "score": 7.51,
    "date_local": "Sun Nov 15 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2126,8 +1926,8 @@
     "place:tracy",
     "community source"
    ],
-   "recency": 1.41,
-   "score": 5.71,
+   "recency": 1.51,
+   "score": 5.81,
    "date_local": "Sun Nov 15 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2149,8 +1949,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.41,
-   "score": 8.21,
+   "recency": 1.51,
+   "score": 8.31,
    "date_local": "Sun Nov 15 2026, 05:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2178,8 +1978,8 @@
     "place:antioch",
     "community source"
    ],
-   "recency": 1.4,
-   "score": 5.7,
+   "recency": 1.5,
+   "score": 5.8,
    "date_local": "Sun Nov 15 2026, 07:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2190,22 +1990,30 @@
    "link": "https://reclub.co/m/1R176M",
    "date": "2026-11-16T04:30:00+00:00",
    "is_event": true,
-   "summary": "Mountain View Volleyball Club on Reclub. Sun, Nov 15 @ 8:30 PM.",
+   "summary": "Mountain View Volleyball Club on Reclub. Sun, Nov 15 @ 8:30 PM. Mountain View Volleyball Club · 477 North Mathilda Avenue, Sunnyvale, Ca, United States · Per Player $90.00 · Every Sunday · 8:30 PM",
    "club": "Mountain View Volleyball Club",
    "platform": "Reclub",
-   "relevance": 5.8,
+   "venue": "Mountain View Volleyball Club",
+   "address": "477 North Mathilda Avenue, Sunnyvale, Ca, United States",
+   "price": "Per Player $90.00",
+   "recurrence": "Every Sunday · 8:30 PM",
+   "labels": [
+    "Coed"
+   ],
+   "relevance": 6.6,
    "why": [
     "volleyball",
     "adult/format cue",
-    "place:mountain view",
+    "place:sunnyvale,mountain view",
     "community source"
    ],
-   "recency": 1.39,
-   "score": 7.19,
+   "recency": 1.49,
+   "score": 8.09,
    "date_local": "Sun Nov 15 2026, 08:30 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
-    "Mountain View"
+    "Mountain View",
+    "Sunnyvale"
    ]
   },
   {
@@ -2226,8 +2034,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.38,
-   "score": 8.18,
+   "recency": 1.48,
+   "score": 8.28,
    "date_local": "Sun Nov 15 2026, 10:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2251,8 +2059,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.3,
-   "score": 7.9,
+   "recency": 1.4,
+   "score": 8.0,
    "date_local": "Mon Nov 16 2026, 12:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2275,8 +2083,8 @@
     "place:santa clara",
     "community source"
    ],
-   "recency": 1.29,
-   "score": 5.59,
+   "recency": 1.4,
+   "score": 5.7,
    "date_local": "Mon Nov 16 2026, 12:15 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2297,8 +2105,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.28,
-   "score": 7.88,
+   "recency": 1.38,
+   "score": 7.98,
    "date_local": "Mon Nov 16 2026, 03:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2322,8 +2130,8 @@
     "place:folsom",
     "community source"
    ],
-   "recency": 1.27,
-   "score": 7.07,
+   "recency": 1.37,
+   "score": 7.17,
    "date_local": "Mon Nov 16 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2333,7 +2141,7 @@
   {
    "source": "BSH East Bay Volleyball 🏐",
    "kind": "reclub",
-   "title": "MEN’S NET COED (BB+) ⬆️ open gym",
+   "title": "MEN’S NET (BB+) ⬆️ open gym",
    "link": "https://reclub.co/m/1VV0NX",
    "date": "2026-11-17T02:45:00+00:00",
    "is_event": true,
@@ -2355,8 +2163,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.26,
-   "score": 8.86,
+   "recency": 1.36,
+   "score": 8.96,
    "date_local": "Mon Nov 16 2026, 06:45 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2378,8 +2186,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.25,
-   "score": 8.05,
+   "recency": 1.36,
+   "score": 8.16,
    "date_local": "Mon Nov 16 2026, 07:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2400,8 +2208,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.25,
-   "score": 8.05,
+   "recency": 1.35,
+   "score": 8.15,
    "date_local": "Mon Nov 16 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2423,10 +2231,36 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.25,
-   "score": 8.05,
+   "recency": 1.35,
+   "score": 8.15,
    "date_local": "Mon Nov 16 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
+  },
+  {
+   "source": "Mountain View Volleyball Club",
+   "kind": "reclub",
+   "title": "MVVC Monday Men/Coed Open Gym",
+   "link": "https://reclub.co/m/GSC84C",
+   "date": "2026-11-17T05:45:00+00:00",
+   "is_event": true,
+   "summary": "Mountain View Volleyball Club on Reclub. Mon, Nov 16 @ 9:45 PM.",
+   "club": "Mountain View Volleyball Club",
+   "platform": "Reclub",
+   "relevance": 6.8,
+   "why": [
+    "volleyball",
+    "adult/format cue",
+    "place:mountain view",
+    "actionable",
+    "community source"
+   ],
+   "recency": 1.34,
+   "score": 8.14,
+   "date_local": "Mon Nov 16 2026, 09:45 PM PT",
+   "verification_state": "DISCOVERED",
+   "cities": [
+    "Mountain View"
+   ]
   },
   {
    "source": "Meetup: Sunnyvale / San Jose Volleyball",
@@ -2445,8 +2279,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.15,
-   "score": 7.75,
+   "recency": 1.26,
+   "score": 7.86,
    "date_local": "Tue Nov 17 2026, 12:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2469,8 +2303,8 @@
     "place:santa clara",
     "community source"
    ],
-   "recency": 1.15,
-   "score": 5.45,
+   "recency": 1.26,
+   "score": 5.56,
    "date_local": "Tue Nov 17 2026, 12:15 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2491,8 +2325,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.14,
-   "score": 7.94,
+   "recency": 1.25,
+   "score": 8.05,
    "date_local": "Tue Nov 17 2026, 02:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2513,8 +2347,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.13,
-   "score": 7.73,
+   "recency": 1.24,
+   "score": 7.84,
    "date_local": "Tue Nov 17 2026, 03:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2538,8 +2372,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.12,
-   "score": 7.72,
+   "recency": 1.23,
+   "score": 7.83,
    "date_local": "Tue Nov 17 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2564,9 +2398,31 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.12,
-   "score": 7.92,
+   "recency": 1.22,
+   "score": 8.02,
    "date_local": "Tue Nov 17 2026, 06:00 PM PT",
+   "verification_state": "DISCOVERED"
+  },
+  {
+   "source": "Dynasty Volleyball",
+   "kind": "reclub",
+   "title": "BEG./INT. VOLLEYBALL CLINIC",
+   "link": "https://reclub.co/m/5XJQ0Y",
+   "date": "2026-11-18T02:30:00+00:00",
+   "is_event": true,
+   "summary": "Dynasty Volleyball on Reclub. Tue, Nov 17 @ 6:30 PM.",
+   "club": "Dynasty Volleyball",
+   "platform": "Reclub",
+   "relevance": 6.0,
+   "why": [
+    "volleyball",
+    "adult/format cue",
+    "actionable",
+    "community source"
+   ],
+   "recency": 1.22,
+   "score": 7.22,
+   "date_local": "Tue Nov 17 2026, 06:30 PM PT",
    "verification_state": "DISCOVERED"
   },
   {
@@ -2594,8 +2450,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.11,
-   "score": 8.71,
+   "recency": 1.22,
+   "score": 8.82,
    "date_local": "Tue Nov 17 2026, 07:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2617,8 +2473,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.11,
-   "score": 7.91,
+   "recency": 1.21,
+   "score": 8.01,
    "date_local": "Tue Nov 17 2026, 07:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2639,8 +2495,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.11,
-   "score": 8.71,
+   "recency": 1.21,
+   "score": 8.81,
    "date_local": "Tue Nov 17 2026, 07:50 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2663,8 +2519,8 @@
     "place:tracy",
     "community source"
    ],
-   "recency": 1.1,
-   "score": 5.4,
+   "recency": 1.21,
+   "score": 5.51,
    "date_local": "Tue Nov 17 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2685,8 +2541,8 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 1.01,
-   "score": 7.61,
+   "recency": 1.11,
+   "score": 7.71,
    "date_local": "Wed Nov 18 2026, 12:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -2710,8 +2566,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.0,
-   "score": 7.8,
+   "recency": 1.1,
+   "score": 7.9,
    "date_local": "Wed Nov 18 2026, 02:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2732,13 +2588,34 @@
     "place:san jose,sunnyvale",
     "community source"
    ],
-   "recency": 0.99,
-   "score": 7.59,
+   "recency": 1.1,
+   "score": 7.7,
    "date_local": "Wed Nov 18 2026, 03:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
     "Sunnyvale"
    ]
+  },
+  {
+   "source": "San Joaquin County Open Volleyball Gyms",
+   "kind": "reclub",
+   "title": "Stockton Stribley Community Center",
+   "link": "https://reclub.co/m/2MR7T1",
+   "date": "2026-11-19T01:30:00+00:00",
+   "is_event": true,
+   "summary": "San Joaquin County Open Volleyball Gyms on Reclub. Wed, Nov 18 @ 5:30 PM.",
+   "club": "San Joaquin County Open Volleyball Gyms",
+   "platform": "Reclub",
+   "relevance": 4.3,
+   "why": [
+    "volleyball",
+    "place:stockton",
+    "community source"
+   ],
+   "recency": 1.08,
+   "score": 5.38,
+   "date_local": "Wed Nov 18 2026, 05:30 PM PT",
+   "verification_state": "DISCOVERED"
   },
   {
    "source": "San Francisco Women's Volleyball",
@@ -2758,9 +2635,68 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.97,
-   "score": 7.77,
+   "recency": 1.08,
+   "score": 7.88,
    "date_local": "Wed Nov 18 2026, 06:00 PM PT",
+   "verification_state": "DISCOVERED"
+  },
+  {
+   "source": "BSH East Bay Volleyball 🏐",
+   "kind": "reclub",
+   "title": "COED (B/BB) open gym @ICS/TCN",
+   "link": "https://reclub.co/m/AA7KVG",
+   "date": "2026-11-19T02:45:00+00:00",
+   "is_event": true,
+   "summary": "BSH East Bay Volleyball 🏐 on Reclub. Wed, Nov 18 @ 6:45 PM. International Community School · 2825 International Boulevard, Oakland, CA, United States · Per Player $15.00 · Every Wednesday · 6:45 PM",
+   "club": "BSH East Bay Volleyball 🏐",
+   "platform": "Reclub",
+   "venue": "International Community School",
+   "address": "2825 International Boulevard, Oakland, CA, United States",
+   "price": "Per Player $15.00",
+   "recurrence": "Every Wednesday · 6:45 PM",
+   "labels": [
+    "Adult",
+    "Coed"
+   ],
+   "relevance": 7.6,
+   "why": [
+    "volleyball",
+    "adult/format cue",
+    "place:oakland,east bay",
+    "actionable",
+    "community source"
+   ],
+   "recency": 1.07,
+   "score": 8.67,
+   "date_local": "Wed Nov 18 2026, 06:45 PM PT",
+   "verification_state": "DISCOVERED"
+  },
+  {
+   "source": "High Tide Adult Volleyball Drop In",
+   "kind": "reclub",
+   "title": "High Tide Adult Drop In 7-9",
+   "link": "https://reclub.co/m/UMQ1P0",
+   "date": "2026-11-19T03:00:00+00:00",
+   "is_event": true,
+   "summary": "High Tide Adult Volleyball Drop In on Reclub. Wed, Nov 18 @ 7:00 PM. Sea Crest School Gymnasium · 901 South Arnold Way, Half Moon Bay, CA 94019, USA · Per Player $20.00 · Every Wednesday · 7:00 PM",
+   "club": "High Tide Adult Volleyball Drop In",
+   "platform": "Reclub",
+   "venue": "Sea Crest School Gymnasium",
+   "address": "901 South Arnold Way, Half Moon Bay, CA 94019, USA",
+   "price": "Per Player $20.00",
+   "recurrence": "Every Wednesday · 7:00 PM",
+   "labels": [],
+   "relevance": 6.8,
+   "why": [
+    "volleyball",
+    "adult/format cue",
+    "place:half moon bay",
+    "actionable",
+    "community source"
+   ],
+   "recency": 1.07,
+   "score": 7.87,
+   "date_local": "Wed Nov 18 2026, 07:00 PM PT",
    "verification_state": "DISCOVERED"
   },
   {
@@ -2780,8 +2716,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.82,
-   "score": 7.62,
+   "recency": 0.92,
+   "score": 7.72,
    "date_local": "Thu Nov 19 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2803,8 +2739,8 @@
     "youth?",
     "community source"
    ],
-   "recency": 0.7,
-   "score": 4.8,
+   "recency": 0.81,
+   "score": 4.91,
    "date_local": "Fri Nov 20 2026, 03:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2826,8 +2762,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.69,
-   "score": 7.49,
+   "recency": 0.8,
+   "score": 7.6,
    "date_local": "Fri Nov 20 2026, 05:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2847,8 +2783,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.69,
-   "score": 7.49,
+   "recency": 0.79,
+   "score": 7.59,
    "date_local": "Fri Nov 20 2026, 06:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2871,8 +2807,8 @@
     "youth?",
     "community source"
    ],
-   "recency": 0.69,
-   "score": 4.99,
+   "recency": 0.79,
+   "score": 5.09,
    "date_local": "Fri Nov 20 2026, 06:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2891,8 +2827,8 @@
     "volleyball",
     "community source"
    ],
-   "recency": 0.68,
-   "score": 4.18,
+   "recency": 0.78,
+   "score": 4.28,
    "date_local": "Fri Nov 20 2026, 08:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2912,8 +2848,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.67,
-   "score": 8.67,
+   "recency": 0.78,
+   "score": 8.78,
    "date_local": "Fri Nov 20 2026, 09:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2935,8 +2871,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.67,
-   "score": 7.47,
+   "recency": 0.77,
+   "score": 7.57,
    "date_local": "Fri Nov 20 2026, 09:30 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2956,8 +2892,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.66,
-   "score": 8.66,
+   "recency": 0.77,
+   "score": 8.77,
    "date_local": "Fri Nov 20 2026, 10:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -2981,8 +2917,8 @@
     "place:san francisco",
     "community source"
    ],
-   "recency": 0.6,
-   "score": 4.9,
+   "recency": 0.7,
+   "score": 5.0,
    "date_local": "Sat Nov 21 2026, 09:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3004,8 +2940,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.59,
-   "score": 7.39,
+   "recency": 0.69,
+   "score": 7.49,
    "date_local": "Sat Nov 21 2026, 11:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3026,8 +2962,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.45,
-   "score": 7.25,
+   "recency": 0.56,
+   "score": 7.36,
    "date_local": "Sun Nov 22 2026, 10:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3047,8 +2983,8 @@
     "place:san francisco",
     "community source"
    ],
-   "recency": 0.45,
-   "score": 6.25,
+   "recency": 0.56,
+   "score": 6.36,
    "date_local": "Sun Nov 22 2026, 10:00 AM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3070,8 +3006,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.44,
-   "score": 8.04,
+   "recency": 0.55,
+   "score": 8.15,
    "date_local": "Sun Nov 22 2026, 11:00 AM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -3093,8 +3029,8 @@
     "place:sunnyvale",
     "community source"
    ],
-   "recency": 0.44,
-   "score": 6.24,
+   "recency": 0.54,
+   "score": 6.34,
    "date_local": "Sun Nov 22 2026, 12:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -3116,8 +3052,8 @@
     "volleyball",
     "community source"
    ],
-   "recency": 0.44,
-   "score": 3.94,
+   "recency": 0.54,
+   "score": 4.04,
    "date_local": "Sun Nov 22 2026, 12:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3139,8 +3075,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.43,
-   "score": 7.23,
+   "recency": 0.54,
+   "score": 7.34,
    "date_local": "Sun Nov 22 2026, 01:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3159,8 +3095,8 @@
     "place:sunnyvale",
     "community source"
    ],
-   "recency": 0.43,
-   "score": 6.23,
+   "recency": 0.53,
+   "score": 6.33,
    "date_local": "Sun Nov 22 2026, 02:00 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -3184,8 +3120,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.41,
-   "score": 6.41,
+   "recency": 0.51,
+   "score": 6.51,
    "date_local": "Sun Nov 22 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3206,8 +3142,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.41,
-   "score": 6.41,
+   "recency": 0.51,
+   "score": 6.51,
    "date_local": "Sun Nov 22 2026, 05:00 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3228,9 +3164,31 @@
     "actionable",
     "community source"
    ],
+   "recency": 0.35,
+   "score": 7.15,
+   "date_local": "Mon Nov 23 2026, 08:00 PM PT",
+   "verification_state": "DISCOVERED"
+  },
+  {
+   "source": "SF Pickup Volleyball",
+   "kind": "heylo",
+   "title": "Ten Foot Tuesdays - Reverse Coed Volleyball",
+   "link": "https://www.heylo.com/event/4e0cbd05-6f6f-49b8-a95a-6b4e546c49c2",
+   "date": "2026-11-24T22:00:00+00:00",
+   "is_event": true,
+   "summary": "SF Pickup Volleyball on Heylo. RSVPs: 0",
+   "platform": "Heylo",
+   "relevance": 6.8,
+   "why": [
+    "volleyball",
+    "adult/format cue",
+    "place:sf ",
+    "actionable",
+    "community source"
+   ],
    "recency": 0.3,
    "score": 7.1,
-   "date_local": "Mon Nov 23 2026, 08:00 PM PT",
+   "date_local": "Tue Nov 24 2026, 02:00 PM PT",
    "verification_state": "DISCOVERED"
   },
   {
@@ -3277,6 +3235,34 @@
    "recency": 0.3,
    "score": 7.1,
    "date_local": "Wed Nov 25 2026, 06:00 PM PT",
+   "verification_state": "DISCOVERED"
+  },
+  {
+   "source": "High Tide Adult Volleyball Drop In",
+   "kind": "reclub",
+   "title": "High Tide Adult Drop In 7-9",
+   "link": "https://reclub.co/m/WBWJY1",
+   "date": "2026-11-26T03:00:00+00:00",
+   "is_event": true,
+   "summary": "High Tide Adult Volleyball Drop In on Reclub. Wed, Nov 25 @ 7:00 PM. Sea Crest School Gymnasium · 901 South Arnold Way, Half Moon Bay, CA 94019, USA · Per Player $20.00 · Every Wednesday · 7:00 PM",
+   "club": "High Tide Adult Volleyball Drop In",
+   "platform": "Reclub",
+   "venue": "Sea Crest School Gymnasium",
+   "address": "901 South Arnold Way, Half Moon Bay, CA 94019, USA",
+   "price": "Per Player $20.00",
+   "recurrence": "Every Wednesday · 7:00 PM",
+   "labels": [],
+   "relevance": 6.8,
+   "why": [
+    "volleyball",
+    "adult/format cue",
+    "place:half moon bay",
+    "actionable",
+    "community source"
+   ],
+   "recency": 0.3,
+   "score": 7.1,
+   "date_local": "Wed Nov 25 2026, 07:00 PM PT",
    "verification_state": "DISCOVERED"
   },
   {
@@ -3410,30 +3396,32 @@
    "score": 7.1,
    "date_local": "Tue Dec 01 2026, 06:00 PM PT",
    "verification_state": "DISCOVERED"
-  }
- ],
- "news_and_updates": [
+  },
   {
-   "source": "Meetup: Adult Volleyball Program (Sacramento)",
-   "kind": "rss",
-   "title": "Open Gym Adult Volleyball 2 times a week FRI & SUN",
-   "link": "https://www.meetup.com/adult-volleyball-program/events/317336511/",
-   "date": "2026-11-08T05:28:43+00:00",
-   "is_event": false,
-   "summary": "SG Volleyball hosts open gym play 2 times a week. Visit schedule at [https://forms.office.com/r/ERv1K6Wyuc](https://forms.office.com/r/ERv1K6Wyuc) for more details. **JOIN the FUN** as an individual, in a small group, or as a full team of 6 or more. **Indoor** at Core VBC 11415 Folsom Blvd, Rancho Cordova, CA 95670 Cash or [removed] transfer $15 / player, Friday 9 PM to 12 AM, Sunday 6 to 9 PM",
-   "relevance": 8.0,
+   "source": "San Francisco Women's Volleyball",
+   "kind": "reclub",
+   "title": "Drop In: Women's Indoor VB #49298",
+   "link": "https://reclub.co/m/ECOLWZ",
+   "date": "2026-12-03T02:00:00+00:00",
+   "is_event": true,
+   "summary": "San Francisco Women's Volleyball on Reclub. Wed, Dec 2 @ 6:00 PM.",
+   "club": "San Francisco Women's Volleyball",
+   "platform": "Reclub",
+   "relevance": 6.8,
    "why": [
     "volleyball",
     "adult/format cue",
-    "place:sacramento,rancho cordova,folsom",
+    "place:san francisco",
     "actionable",
     "community source"
    ],
-   "recency": 1.48,
-   "score": 9.48,
-   "date_local": "Sat Nov 07 2026, 09:28 PM PT",
+   "recency": 0.3,
+   "score": 7.1,
+   "date_local": "Wed Dec 02 2026, 06:00 PM PT",
    "verification_state": "DISCOVERED"
-  },
+  }
+ ],
+ "news_and_updates": [
   {
    "source": "Meetup: Adult Volleyball Program (Sacramento)",
    "kind": "rss",
@@ -3450,9 +3438,30 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.48,
-   "score": 9.48,
+   "recency": 1.38,
+   "score": 9.38,
    "date_local": "Sat Nov 07 2026, 10:19 PM PT",
+   "verification_state": "DISCOVERED"
+  },
+  {
+   "source": "Meetup: Adult Volleyball Program (Sacramento)",
+   "kind": "rss",
+   "title": "Open Gym Adult Volleyball 2 times a week FRI & SUN",
+   "link": "https://www.meetup.com/adult-volleyball-program/events/317336511/",
+   "date": "2026-11-08T05:28:43+00:00",
+   "is_event": false,
+   "summary": "SG Volleyball hosts open gym play 2 times a week. Visit schedule at [https://forms.office.com/r/ERv1K6Wyuc](https://forms.office.com/r/ERv1K6Wyuc) for more details. **JOIN the FUN** as an individual, in a small group, or as a full team of 6 or more. **Indoor** at Core VBC 11415 Folsom Blvd, Rancho Cordova, CA 95670 Cash or [removed] transfer $15 / player, Friday 9 PM to 12 AM, Sunday 6 to 9 PM",
+   "relevance": 8.0,
+   "why": [
+    "volleyball",
+    "adult/format cue",
+    "place:sacramento,rancho cordova,folsom",
+    "actionable",
+    "community source"
+   ],
+   "recency": 1.37,
+   "score": 9.37,
+   "date_local": "Sat Nov 07 2026, 09:28 PM PT",
    "verification_state": "DISCOVERED"
   },
   {
@@ -3471,8 +3480,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.48,
-   "score": 8.48,
+   "recency": 0.37,
+   "score": 8.37,
    "date_local": "Sat Oct 31 2026, 11:09 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3492,8 +3501,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.47,
-   "score": 8.47,
+   "recency": 0.36,
+   "score": 8.36,
    "date_local": "Sat Oct 31 2026, 09:15 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3513,8 +3522,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 1.42,
-   "score": 8.22,
+   "recency": 1.32,
+   "score": 8.12,
    "date_local": "Sat Nov 07 2026, 12:33 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3565,11 +3574,11 @@
    "kind": "watch",
    "title": "Updated: Stanford sand volleyball courts – postdoc pickup",
    "link": "https://surpas.stanford.edu/postdoc-committees/sports/",
-   "date": "2026-11-11T21:37:27.163282+00:00",
+   "date": "2026-11-12T15:17:42.851046+00:00",
    "is_event": false,
-   "summary": "Volleyball-related text on this official page changed since the last run. Re-verify days/times/prices before posting. New text: erience needed, all are welcome to learn more, try out the skills, and just have fun pucking the ball around. Here’s more info and a no-commitment signup . First meetup Thursday the 23rd 5:30pm on fields west of Serra & El Camino. New! Postdoc beach Volleyball ! Come join your fellow Stanford postdocs for some friendly pick-up beach Volleyball. Players of all experience levels and their family, fr",
+   "summary": "Volleyball-related text on this official page changed since the last run. Re-verify days/times/prices before posting. (via r.jina.ai mirror) New text: more, try out the skills, and just have fun pucking the ball around. Here’s [more info and a no-commitment signup](https://forms.gle/s7afVkkvWW88q1w86). First meetup Thursday the 23rd 5:30pm on fields west of Serra & El Camino. * New! Postdoc beach Volleyball ! Come join your fellow Stanford postdocs for some friendly pick-up beach Volleyball. Players of all experience levels and their family, fr",
    "record_id": "DD-036",
-   "fetch_via": "direct",
+   "fetch_via": "jina",
    "http_status": 200,
    "relevance": 5.8,
    "why": [
@@ -3582,7 +3591,30 @@
    ],
    "recency": 2.0,
    "score": 7.8,
-   "date_local": "Wed Nov 11 2026, 01:37 PM PT",
+   "date_local": "Thu Nov 12 2026, 07:17 AM PT",
+   "verification_state": "DISCOVERED"
+  },
+  {
+   "source": "Page watch",
+   "kind": "watch",
+   "title": "Updated: GoodRec – open play volleyball (Bay Area)",
+   "link": "https://www.goodrec.com/open-play-volleyball",
+   "date": "2026-11-12T15:17:42.851046+00:00",
+   "is_event": false,
+   "summary": "Volleyball-related text on this official page changed since the last run. Re-verify days/times/prices before posting. New text: Open Play Volleyball Near You: Join a Game | GoodRec Skip to content home Choose city Join now Choose city Home Sports Soccer Volleyball Basketball How it works FAQs Partner with us (opens in a new tab) Join now Find games running in your city Search cities Atlanta Austin Baltimore Bay Area Boston Buffalo Calgary Charlotte Chicago Cincinnati Cleveland Colorado Springs Columbus Connecticut Dallas D",
+   "record_id": "DD-110",
+   "fetch_via": "direct",
+   "http_status": 200,
+   "relevance": 5.8,
+   "why": [
+    "volleyball",
+    "adult/format cue",
+    "place:bay area",
+    "community source"
+   ],
+   "recency": 2.0,
+   "score": 7.8,
+   "date_local": "Thu Nov 12 2026, 07:17 AM PT",
    "verification_state": "DISCOVERED"
   },
   {
@@ -3622,8 +3654,8 @@
     "actionable",
     "community source"
    ],
-   "recency": 0.6,
-   "score": 7.4,
+   "recency": 0.49,
+   "score": 7.29,
    "date_local": "Sun Nov 01 2026, 05:36 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3642,13 +3674,41 @@
     "place:sunnyvale",
     "community source"
    ],
-   "recency": 1.54,
-   "score": 7.34,
+   "recency": 1.44,
+   "score": 7.24,
    "date_local": "Sun Nov 08 2026, 08:50 AM PT",
    "verification_state": "DISCOVERED",
    "cities": [
     "Sunnyvale"
    ]
+  },
+  {
+   "source": "Page watch",
+   "kind": "watch",
+   "title": "Updated: Volo Sports SF – volleyball leagues, drop-ins & pickups",
+   "link": "https://www.volosports.com/san-francisco/volleyball",
+   "date": "2026-11-12T15:17:42.851046+00:00",
+   "is_event": false,
+   "summary": "Volleyball-related text on this official page changed since the last run. Re-verify days/times/prices before posting. New text: Volleyball in San Francisco | Volo Sports SF Volo Kids Volo Pass Club Volo Corporate Find a sport About Sign up San Francisco Adult Volleyball Leagues Play in a league close to you! Volleyball leagues across San Francisco. Join a Volleyball League Jump in by program type Leagues Daily Sports Private Rentals Volo San Francisco / 🏐 Volleyball Where we play Volleyball in San Francisco Play volleyball",
+   "record_id": "DD-098",
+   "fetch_via": "direct",
+   "http_status": 200,
+   "cities": [
+    "Emeryville"
+   ],
+   "relevance": 5.1,
+   "why": [
+    "volleyball",
+    "adult/format cue",
+    "place:san francisco,sf ",
+    "actionable",
+    "youth?",
+    "community source"
+   ],
+   "recency": 2.0,
+   "score": 7.1,
+   "date_local": "Thu Nov 12 2026, 07:17 AM PT",
+   "verification_state": "DISCOVERED"
   },
   {
    "source": "Meetup: Sunnyvale Rec Volleyball",
@@ -3665,8 +3725,8 @@
     "place:sunnyvale",
     "community source"
    ],
-   "recency": 0.72,
-   "score": 6.52,
+   "recency": 0.61,
+   "score": 6.41,
    "date_local": "Mon Nov 02 2026, 02:18 PM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -3688,8 +3748,8 @@
     "place:sunnyvale",
     "community source"
    ],
-   "recency": 0.41,
-   "score": 6.21,
+   "recency": 0.3,
+   "score": 6.1,
    "date_local": "Sat Oct 31 2026, 10:40 AM PT",
    "verification_state": "DISCOVERED",
    "cities": [
@@ -3720,27 +3780,23 @@
    ]
   },
   {
-   "source": "Page watch",
-   "kind": "watch",
-   "title": "Updated: IVL Open Gym – Wilcox High School (adult only)",
-   "link": "https://www.ivlvolleyball.com/indoor/open-gyms",
-   "date": "2026-11-11T21:37:27.163282+00:00",
+   "source": "Google News: San Francisco volleyball",
+   "kind": "rss",
+   "title": "2026 Cal State LA vs San Francisco State - Women's - Videos - FloVolleyball",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1ljMlllMUVSd1pld3hQTlJoQ28wQjJNWk9xTGE4X3VLWGtzdGt0S0hMU3ZPUmpDZlFGLV83YmhianVvc2N4bUx0cVRlRGpuTXA1b0tPVmY0aWt6ckd4OWcwS1lSTFI0aDdmSjV1RGExaG1xU2FoTXdiS2JFbkkxa3hLNUV4LXRmSVo2YVhlTm1fZGI3dVVNQl93VFo0N2dRb1BCTHNUeTdIRmxJdU5PbjA4RWNTUVU?oc=5",
+   "date": "2026-11-12T05:55:14+00:00",
    "is_event": false,
-   "summary": "Volleyball-related text on this official page changed since the last run. Re-verify days/times/prices before posting. New text: Open Gyms — IVL Volleyball 0 Skip to Content HOME INDOOR Indoor Overview Register Schedules Waiver Free Agents Open Gyms Where We Play BEACH Beach Overview Register Schedules Results Waiver SITTING Sitting Overview Fall Tournament FORMATS Coed Reverse Coed Men Women SEASONS Winter Spring Summer Fall RULES ABOUT Open Menu Close Menu HOME INDOOR Indoor Overview Register Schedules Waiver Free Agents",
-   "record_id": "DD-047",
-   "fetch_via": "direct",
-   "http_status": 200,
-   "relevance": 3.5,
+   "summary": "2026 Cal State LA vs San Francisco State - Women's - Videos FloVolleyball",
+   "relevance": 3.3,
    "why": [
     "volleyball",
     "adult/format cue",
-    "actionable",
-    "youth?",
-    "community source"
+    "place:san francisco",
+    "college"
    ],
-   "recency": 2.0,
-   "score": 5.5,
-   "date_local": "Wed Nov 11 2026, 01:37 PM PT",
+   "recency": 1.94,
+   "score": 5.24,
+   "date_local": "Wed Nov 11 2026, 09:55 PM PT",
    "verification_state": "DISCOVERED"
   },
   {
@@ -3758,8 +3814,8 @@
     "place:stanford",
     "college"
    ],
-   "recency": 1.63,
-   "score": 4.93,
+   "recency": 1.53,
+   "score": 4.83,
    "date_local": "Sun Nov 08 2026, 11:45 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3776,8 +3832,8 @@
     "volleyball",
     "place:bay area,san francisco"
    ],
-   "recency": 1.28,
-   "score": 4.88,
+   "recency": 1.17,
+   "score": 4.77,
    "date_local": "Fri Nov 06 2026, 12:25 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3796,8 +3852,8 @@
     "place:san jose",
     "college"
    ],
-   "recency": 1.3,
-   "score": 4.6,
+   "recency": 1.2,
+   "score": 4.5,
    "date_local": "Fri Nov 06 2026, 04:11 PM PT",
    "verification_state": "DISCOVERED"
   },
@@ -3816,29 +3872,37 @@
     "place:stanford",
     "college"
    ],
-   "recency": 0.34,
-   "score": 3.64,
+   "recency": 0.24,
+   "score": 3.54,
    "date_local": "Sat Oct 31 2026, 12:00 AM PT",
+   "verification_state": "DISCOVERED"
+  },
+  {
+   "source": "Google News: Cal/Stanford volleyball",
+   "kind": "rss",
+   "title": "California vs. Stanford Live Stream: How to Watch Women's College Volleyball (Oct. 30, 2026) - Fubo",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT2JFcFcyTXk3M3dmQk5sV3N1NGpsbXhGQXZDR2lkQ0FaVk9WajRfdFV1R2tIWmFGbUU3MFEtbURTT2xYejdabWhRaUlEcnVqeFlZTWxlZXZoY0JZSGVnMjgzTHlJOUJ5N2FST0VlRVA3ZTZZY2plS2VmRWpzY01NTmdXdGkydEpiR0lnRklHRWl1YVYzbUVLZGY1V2hyeEl0TVFqb0taMmNDWXhRQkNRN3VBZDFiQW9Fd0xhOWNrUTJKMTdIN045Sk5qSG9PaTl2WUJj?oc=5",
+   "date": "2026-10-30T07:00:00+00:00",
+   "is_event": false,
+   "summary": "California vs. Stanford Live Stream: How to Watch Women's College Volleyball (Oct. 30, 2026) Fubo",
+   "relevance": 3.3,
+   "why": [
+    "volleyball",
+    "adult/format cue",
+    "place:stanford",
+    "college"
+   ],
+   "recency": 0.09,
+   "score": 3.39,
+   "date_local": "Fri Oct 30 2026, 12:00 AM PT",
    "verification_state": "DISCOVERED"
   }
  ],
  "source_log": [
   {
-   "source": "Google News: NCVA",
+   "source": "Google News: Oakland/East Bay volleyball",
    "ok": true,
-   "items": 12,
-   "secs": 0.4
-  },
-  {
-   "source": "Google News: San Francisco volleyball",
-   "ok": true,
-   "items": 9,
-   "secs": 0.4
-  },
-  {
-   "source": "Google News: volleyball open gym California",
-   "ok": true,
-   "items": 10,
+   "items": 31,
    "secs": 0.4
   },
   {
@@ -3848,9 +3912,21 @@
    "secs": 0.4
   },
   {
-   "source": "Google News: Oakland/East Bay volleyball",
+   "source": "Google News: NCVA",
    "ok": true,
-   "items": 32,
+   "items": 13,
+   "secs": 0.4
+  },
+  {
+   "source": "Google News: volleyball open gym California",
+   "ok": true,
+   "items": 10,
+   "secs": 0.4
+  },
+  {
+   "source": "Google News: San Jose/South Bay volleyball",
+   "ok": true,
+   "items": 27,
    "secs": 0.5
   },
   {
@@ -3866,28 +3942,28 @@
    "secs": 0.5
   },
   {
-   "source": "Google News: San Jose/South Bay volleyball",
+   "source": "Google News: San Francisco volleyball",
    "ok": true,
-   "items": 28,
+   "items": 9,
    "secs": 0.5
   },
   {
    "source": "Google News: Bay Area adult volleyball",
    "ok": true,
-   "items": 35,
-   "secs": 0.5
+   "items": 37,
+   "secs": 0.6
   },
   {
    "source": "Google News: Bay Area pro volleyball (LOVB/AU/PVF/AVP)",
    "ok": true,
-   "items": 48,
-   "secs": 0.5
+   "items": 47,
+   "secs": 0.6
   },
   {
-   "source": "Meetup: Oakland Intermediate Outdoor Volleyball",
+   "source": "Google News: Cal/Stanford volleyball",
    "ok": true,
-   "items": 0,
-   "secs": 0.2
+   "items": 23,
+   "secs": 0.3
   },
   {
    "source": "Meetup ICS: San Jose Pickup Volleyball",
@@ -3896,9 +3972,21 @@
    "secs": 0.2
   },
   {
-   "source": "Meetup: San Jose Pickup Volleyball",
+   "source": "Meetup: Oakland Intermediate Outdoor Volleyball",
    "ok": true,
    "items": 0,
+   "secs": 0.3
+  },
+  {
+   "source": "Meetup: MP Volleyball",
+   "ok": true,
+   "items": 0,
+   "secs": 0.3
+  },
+  {
+   "source": "Meetup: Livermore Pickup Beach Volleyball",
+   "ok": true,
+   "items": 3,
    "secs": 0.2
   },
   {
@@ -3908,28 +3996,16 @@
    "secs": 0.2
   },
   {
-   "source": "Meetup: MP Volleyball",
+   "source": "Meetup: San Jose Pickup Volleyball",
    "ok": true,
    "items": 0,
-   "secs": 0.2
-  },
-  {
-   "source": "Meetup: Livermore Pickup Beach Volleyball",
-   "ok": true,
-   "items": 3,
-   "secs": 0.2
+   "secs": 0.4
   },
   {
    "source": "Meetup: Adult Volleyball Program (Sacramento)",
    "ok": true,
    "items": 10,
-   "secs": 0.2
-  },
-  {
-   "source": "Google News: Cal/Stanford volleyball",
-   "ok": true,
-   "items": 23,
-   "secs": 0.3
+   "secs": 0.4
   },
   {
    "source": "Meetup ICS: Livermore Pickup Beach Volleyball",
@@ -3938,19 +4014,19 @@
    "secs": 0.3
   },
   {
+   "source": "Volleyball Magazine",
+   "ok": true,
+   "items": 10,
+   "secs": 0.3
+  },
+  {
    "source": "NCVA",
    "ok": true,
    "items": 10,
-   "secs": 0.2
+   "secs": 0.3
   },
   {
    "source": "Meetup ICS: Adult Volleyball Program (Sacramento)",
-   "ok": true,
-   "items": 10,
-   "secs": 0.4
-  },
-  {
-   "source": "Volleyball Magazine",
    "ok": true,
    "items": 10,
    "secs": 0.4
@@ -3964,7 +4040,7 @@
   {
    "source": "SF Rec & Park calendar",
    "ok": true,
-   "items": 13,
+   "items": 12,
    "secs": 0.5
   },
   {
@@ -3977,64 +4053,34 @@
    "source": "Bay Area Volleyball (WP)",
    "ok": true,
    "items": 0,
+   "secs": 0.8
+  },
+  {
+   "source": "Milpitas calendar",
+   "ok": true,
+   "items": 0,
+   "secs": 0.7
+  },
+  {
+   "source": "Napa news flash",
+   "ok": true,
+   "items": 0,
    "secs": 0.7
   },
   {
    "source": "Milpitas news flash",
    "ok": true,
    "items": 3,
-   "secs": 0.6
-  },
-  {
-   "source": "Milpitas calendar",
-   "ok": true,
-   "items": 1,
-   "secs": 0.4
+   "secs": 0.8
   },
   {
    "source": "San Mateo news flash",
    "ok": true,
    "items": 8,
-   "secs": 0.9
-  },
-  {
-   "source": "Off the Block",
-   "ok": true,
-   "items": 10,
    "secs": 1.1
   },
   {
-   "source": "Hayward Rec (HARD) calendar",
-   "ok": true,
-   "items": 4,
-   "secs": 0.5
-  },
-  {
-   "source": "Hayward Rec (HARD) news flash",
-   "ok": true,
-   "items": 0,
-   "secs": 0.6
-  },
-  {
-   "source": "Napa news flash",
-   "ok": true,
-   "items": 0,
-   "secs": 0.9
-  },
-  {
    "source": "Google News: Sunnyvale adult/open-gym volleyball",
-   "ok": true,
-   "items": 10,
-   "secs": 0.4
-  },
-  {
-   "source": "Cosumnes CSD news",
-   "ok": true,
-   "items": 2,
-   "secs": 0.6
-  },
-  {
-   "source": "Google News: Menlo Park adult/open-gym volleyball",
    "ok": true,
    "items": 10,
    "secs": 0.3
@@ -4043,10 +4089,10 @@
    "source": "Google News: Mountain View adult/open-gym volleyball",
    "ok": true,
    "items": 9,
-   "secs": 0.3
+   "secs": 0.4
   },
   {
-   "source": "Google News: Redwood City adult/open-gym volleyball",
+   "source": "Google News: Menlo Park adult/open-gym volleyball",
    "ok": true,
    "items": 10,
    "secs": 0.3
@@ -4058,9 +4104,39 @@
    "secs": 0.7
   },
   {
-   "source": "Google News: Walnut Creek adult/open-gym volleyball",
+   "source": "Hayward Rec (HARD) news flash",
+   "ok": true,
+   "items": 0,
+   "secs": 1.2
+  },
+  {
+   "source": "Google News: Redwood City adult/open-gym volleyball",
    "ok": true,
    "items": 9,
+   "secs": 0.3
+  },
+  {
+   "source": "Hayward Rec (HARD) calendar",
+   "ok": true,
+   "items": 4,
+   "secs": 1.2
+  },
+  {
+   "source": "Google News: Walnut Creek adult/open-gym volleyball",
+   "ok": true,
+   "items": 10,
+   "secs": 0.3
+  },
+  {
+   "source": "Redwood City calendar",
+   "ok": true,
+   "items": 29,
+   "secs": 1.9
+  },
+  {
+   "source": "Google News: Emeryville adult/open-gym volleyball",
+   "ok": true,
+   "items": 1,
    "secs": 0.3
   },
   {
@@ -4070,15 +4146,9 @@
    "secs": 0.3
   },
   {
-   "source": "Google News: Emeryville adult/open-gym volleyball",
-   "ok": true,
-   "items": 1,
-   "secs": 0.3
-  },
-  {
    "source": "Google News: Napa adult/open-gym volleyball",
    "ok": true,
-   "items": 4,
+   "items": 5,
    "secs": 0.2
   },
   {
@@ -4094,13 +4164,37 @@
    "secs": 0.2
   },
   {
+   "source": "Off the Block",
+   "ok": true,
+   "items": 10,
+   "secs": 2.3
+  },
+  {
    "source": "Palo Alto Online",
    "ok": true,
    "items": 10,
-   "secs": 0.1
+   "secs": 0.2
+  },
+  {
+   "source": "Cosumnes CSD news",
+   "ok": true,
+   "items": 2,
+   "secs": 1.3
   },
   {
    "source": "Meetup ICS: Sunnyvale Grass Volleyball",
+   "ok": true,
+   "items": 10,
+   "secs": 0.4
+  },
+  {
+   "source": "The Almanac (Menlo Park / RWC)",
+   "ok": true,
+   "items": 10,
+   "secs": 0.2
+  },
+  {
+   "source": "Mountain View Voice",
    "ok": true,
    "items": 10,
    "secs": 0.3
@@ -4109,25 +4203,13 @@
    "source": "Meetup ICS: Sunnyvale Rec Volleyball",
    "ok": true,
    "items": 10,
-   "secs": 0.2
-  },
-  {
-   "source": "The Almanac (Menlo Park / RWC)",
-   "ok": true,
-   "items": 10,
    "secs": 0.3
   },
   {
-   "source": "Campbell news flash",
+   "source": "InMenlo",
    "ok": true,
-   "items": 3,
-   "secs": 1.8
-  },
-  {
-   "source": "Redwood City calendar",
-   "ok": true,
-   "items": 29,
-   "secs": 2.0
+   "items": 10,
+   "secs": 0.2
   },
   {
    "source": "Heylo: San Francisco Beach Volleyball - SFBV",
@@ -4136,52 +4218,52 @@
    "secs": 0.2
   },
   {
-   "source": "Mountain View Voice",
-   "ok": true,
-   "items": 10,
-   "secs": 0.4
-  },
-  {
-   "source": "InMenlo",
-   "ok": true,
-   "items": 10,
-   "secs": 0.4
-  },
-  {
    "source": "Heylo: SF Pickup Volleyball",
    "ok": true,
    "items": 10,
    "secs": 0.3
   },
   {
+   "source": "Campbell news flash",
+   "ok": true,
+   "items": 3,
+   "secs": 3.0
+  },
+  {
    "source": "Campbell calendar",
    "ok": true,
    "items": 12,
-   "secs": 2.9
-  },
-  {
-   "source": "Meetup search: san-jose/volleyball/",
-   "ok": true,
-   "items": 19,
-   "secs": 1.6
-  },
-  {
-   "source": "Meetup search: palo-alto/volleyball/",
-   "ok": true,
-   "items": 20,
-   "secs": 1.8
-  },
-  {
-   "source": "Meetup search: san-francisco/volleyball/",
-   "ok": true,
-   "items": 15,
-   "secs": 2.1
+   "secs": 3.0
   },
   {
    "source": "Meetup search: oakland/volleyball/",
    "ok": true,
    "items": 16,
-   "secs": 2.2
+   "secs": 1.8
+  },
+  {
+   "source": "Meetup search: san-jose/volleyball/",
+   "ok": true,
+   "items": 19,
+   "secs": 1.8
+  },
+  {
+   "source": "Meetup search: sacramento/beach-volleyball/",
+   "ok": true,
+   "items": 18,
+   "secs": 1.8
+  },
+  {
+   "source": "The E'ville Eye (Emeryville)",
+   "ok": true,
+   "items": 9,
+   "secs": 2.3
+  },
+  {
+   "source": "Meetup search: san-francisco/volleyball/",
+   "ok": true,
+   "items": 15,
+   "secs": 2.4
   },
   {
    "source": "Meetup search: san-francisco/beach-volleyball/",
@@ -4190,91 +4272,85 @@
    "secs": 2.4
   },
   {
-   "source": "Meetup search: sacramento/beach-volleyball/",
-   "ok": true,
-   "items": 17,
-   "secs": 2.6
-  },
-  {
-   "source": "Meetup search: walnut-creek/volleyball/",
-   "ok": true,
-   "items": 13,
-   "secs": 1.4
-  },
-  {
-   "source": "The E'ville Eye (Emeryville)",
-   "ok": true,
-   "items": 9,
-   "secs": 3.6
-  },
-  {
    "source": "Meetup search: sacramento/volleyball/",
    "ok": true,
-   "items": 18,
-   "secs": 3.4
+   "items": 19,
+   "secs": 2.2
   },
   {
    "source": "Meetup search: oakland/beach-volleyball/",
    "ok": true,
    "items": 20,
-   "secs": 3.4
+   "secs": 2.4
+  },
+  {
+   "source": "Meetup search: palo-alto/volleyball/",
+   "ok": true,
+   "items": 20,
+   "secs": 2.0
+  },
+  {
+   "source": "Meetup search: walnut-creek/volleyball/",
+   "ok": true,
+   "items": 13,
+   "secs": 1.6
   },
   {
    "source": "Meetup search: mountain-view/volleyball/",
    "ok": true,
    "items": 20,
-   "secs": 1.3
-  },
-  {
-   "source": "Meetup search: sunnyvale/volleyball/",
-   "ok": true,
-   "items": 20,
-   "secs": 1.6
-  },
-  {
-   "source": "Meetup search: walnut-creek/beach-volleyball/",
-   "ok": true,
-   "items": 14,
-   "secs": 2.0
-  },
-  {
-   "source": "Meetup search: menlo-park",
-   "ok": true,
-   "items": 20,
-   "secs": 1.7
-  },
-  {
-   "source": "Meetup search: folsom",
-   "ok": true,
-   "items": 19,
-   "secs": 1.6
+   "secs": 1.4
   },
   {
    "source": "Meetup search: emeryville/volleyball/",
    "ok": true,
    "items": 14,
-   "secs": 2.6
+   "secs": 1.4
   },
   {
    "source": "Meetup search: napa",
    "ok": true,
    "items": 12,
-   "secs": 1.5
+   "secs": 1.6
   },
   {
-   "source": "Meetup search: redwood-city",
+   "source": "Meetup search: menlo-park",
    "ok": true,
    "items": 20,
-   "secs": 2.3
+   "secs": 1.8
+  },
+  {
+   "source": "Meetup search: sunnyvale/volleyball/",
+   "ok": true,
+   "items": 20,
+   "secs": 2.4
+  },
+  {
+   "source": "Meetup search: folsom",
+   "ok": true,
+   "items": 20,
+   "secs": 2.0
   },
   {
    "source": "Meetup search: santa-cruz",
    "ok": true,
    "items": 13,
-   "secs": 2.1
+   "secs": 1.8
   },
   {
-   "source": "Reclub: 510vb",
+   "source": "Meetup search: walnut-creek/beach-volleyball/",
+   "ok": true,
+   "items": 14,
+   "secs": 3.4
+  },
+  {
+   "source": "Meetup search: redwood-city",
+   "ok": true,
+   "items": 20,
+   "secs": 3.6
+  },
+  {
+   "source": "Reclub: Alviso in Action volleyball",
    "ok": true,
    "items": 0,
    "secs": 1.7
@@ -4286,46 +4362,46 @@
    "secs": 1.7
   },
   {
-   "source": "Reclub: Aces & Kings",
+   "source": "Reclub: 510vb",
    "ok": true,
    "items": 0,
    "secs": 1.7
   },
   {
-   "source": "Reclub: Alviso in Action volleyball",
+   "source": "Reclub: Aces & Kings",
    "ok": true,
    "items": 0,
-   "secs": 1.7
+   "secs": 2.1
+  },
+  {
+   "source": "Reclub: Barbz Open Gym",
+   "ok": true,
+   "items": 1,
+   "secs": 3.0
   },
   {
    "source": "Reclub: Bay Area Grass Meetups",
    "ok": true,
    "items": 1,
-   "secs": 3.1
-  },
-  {
-   "source": "Reclub: Barbz Open Gym",
-   "ok": true,
-   "items": 2,
-   "secs": 4.2
+   "secs": 3.7
   },
   {
    "source": "Reclub: East Bay Volleyball",
    "ok": true,
    "items": 0,
-   "secs": 1.5
+   "secs": 1.6
   },
   {
    "source": "Reclub: ~BB+ Volleyball Doubles",
    "ok": true,
    "items": 1,
-   "secs": 2.7
+   "secs": 3.0
   },
   {
    "source": "Reclub: Fremont Volleyball Open Gym",
    "ok": true,
    "items": 0,
-   "secs": 1.5
+   "secs": 1.6
   },
   {
    "source": "Reclub: BSH East Bay Volleyball 🏐",
@@ -4337,13 +4413,7 @@
    "source": "Reclub: Good Vibes Volleyball",
    "ok": true,
    "items": 5,
-   "secs": 4.0
-  },
-  {
-   "source": "Reclub: GYA Volleyball",
-   "ok": true,
-   "items": 1,
-   "secs": 3.0
+   "secs": 3.8
   },
   {
    "source": "Reclub: Hayward Area Recreation Division Volleyball",
@@ -4352,136 +4422,130 @@
    "secs": 1.5
   },
   {
+   "source": "Reclub: GYA Volleyball",
+   "ok": true,
+   "items": 1,
+   "secs": 3.0
+  },
+  {
    "source": "Reclub: G1 sports - volleyball",
    "ok": true,
    "items": 7,
-   "secs": 7.6
+   "secs": 7.5
   },
   {
    "source": "Reclub: HH Volleyball",
    "ok": true,
    "items": 1,
-   "secs": 3.0
+   "secs": 3.1
   },
   {
-   "source": "Reclub: High Tide Adult Volleyball Drop In",
+   "source": "Reclub: Pleasant Hill Grass Volleyball, Sun 2:00",
    "ok": true,
    "items": 1,
-   "secs": 3.0
+   "secs": 3.1
   },
   {
    "source": "Reclub: Live oak volleyball",
    "ok": true,
    "items": 0,
-   "secs": 1.5
+   "secs": 1.9
+  },
+  {
+   "source": "Reclub: High Tide Adult Volleyball Drop In",
+   "ok": true,
+   "items": 2,
+   "secs": 5.3
   },
   {
    "source": "Reclub: Alameda beach & Marina Park Volleyball",
    "ok": true,
    "items": 0,
-   "secs": 1.5
-  },
-  {
-   "source": "Reclub: Pleasant Hill Grass Volleyball, Sun 2:00",
-   "ok": true,
-   "items": 2,
-   "secs": 4.3
-  },
-  {
-   "source": "Reclub: Monterey Volleyball",
-   "ok": true,
-   "items": 1,
-   "secs": 2.1
+   "secs": 1.7
   },
   {
    "source": "Reclub: Matcha",
    "ok": true,
    "items": 1,
-   "secs": 3.0
+   "secs": 2.9
+  },
+  {
+   "source": "Reclub: Monterey Volleyball",
+   "ok": true,
+   "items": 1,
+   "secs": 2.0
   },
   {
    "source": "Reclub: Bay Area Open Gyms",
    "ok": true,
    "items": 12,
-   "secs": 20.2
-  },
-  {
-   "source": "Reclub: Pacifica Ignite Volleyball Club",
-   "ok": true,
-   "items": 1,
-   "secs": 2.9
+   "secs": 22.1
   },
   {
    "source": "Reclub: Oakland/Berkeley outdoor pick up game! (W Meri)",
    "ok": true,
    "items": 2,
-   "secs": 4.5
+   "secs": 5.2
+  },
+  {
+   "source": "Reclub: Pacifica Ignite Volleyball Club",
+   "ok": true,
+   "items": 1,
+   "secs": 3.8
   },
   {
    "source": "Reclub: Volleyball Training and Playing. San Francisco",
    "ok": true,
    "items": 2,
-   "secs": 5.0
-  },
-  {
-   "source": "Reclub: Red Rock Alameda Open Gyms",
-   "ok": true,
-   "items": 0,
-   "secs": 1.5
-  },
-  {
-   "source": "Reclub: Rancho Cordova OVB",
-   "ok": true,
-   "items": 1,
-   "secs": 3.0
+   "secs": 6.0
   },
   {
    "source": "Reclub: Sac Attack Volleyball",
    "ok": true,
    "items": 0,
-   "secs": 1.5
+   "secs": 1.8
+  },
+  {
+   "source": "Reclub: Red Rock Alameda Open Gyms",
+   "ok": true,
+   "items": 0,
+   "secs": 2.1
+  },
+  {
+   "source": "Reclub: Rancho Cordova OVB",
+   "ok": true,
+   "items": 1,
+   "secs": 3.6
   },
   {
    "source": "Reclub: Dynasty Volleyball",
    "ok": true,
-   "items": 4,
-   "secs": 3.4
+   "items": 5,
+   "secs": 3.5
   },
   {
    "source": "Reclub: San Francisco Women's Volleyball",
    "ok": true,
    "items": 12,
-   "secs": 4.9
-  },
-  {
-   "source": "Reclub: Mountain View Volleyball Club",
-   "ok": true,
-   "items": 12,
-   "secs": 13.0
+   "secs": 5.0
   },
   {
    "source": "Reclub: San Joaquin County Open Volleyball Gyms",
    "ok": true,
    "items": 10,
-   "secs": 4.8
+   "secs": 5.0
+  },
+  {
+   "source": "Reclub: Mountain View Volleyball Club",
+   "ok": true,
+   "items": 12,
+   "secs": 14.7
   },
   {
    "source": "Reclub: SkillSet 🏐 Bay Area",
    "ok": true,
    "items": 0,
-   "secs": 1.5
-  },
-  {
-   "source": "Reclub: SkillSet 🏐 Sacramento",
-   "ok": true,
-   "items": 8,
    "secs": 1.6
-  },
-  {
-   "source": "Reclub: Hayward - SMASH Bay Athletics",
-   "ok": true,
-   "items": 0,
-   "secs": 1.5
   },
   {
    "source": "Reclub: SpikeRight Volleyball Open Gyms",
@@ -4490,28 +4554,40 @@
    "secs": 1.5
   },
   {
+   "source": "Reclub: SkillSet 🏐 Sacramento",
+   "ok": true,
+   "items": 7,
+   "secs": 1.9
+  },
+  {
+   "source": "Reclub: Hayward - SMASH Bay Athletics",
+   "ok": true,
+   "items": 0,
+   "secs": 1.9
+  },
+  {
    "source": "Reclub: SVVC: Bay Area Volleyball Classes and Clinics",
    "ok": true,
-   "items": 4,
+   "items": 3,
+   "secs": 1.7
+  },
+  {
+   "source": "Reclub: The Golden State Volleyball Club",
+   "ok": true,
+   "items": 0,
+   "secs": 1.6
+  },
+  {
+   "source": "Reclub: Tri-City Volleyball",
+   "ok": true,
+   "items": 0,
    "secs": 1.6
   },
   {
    "source": "Reclub: TheBlock",
    "ok": true,
    "items": 2,
-   "secs": 1.2
-  },
-  {
-   "source": "Reclub: The Golden State Volleyball Club",
-   "ok": true,
-   "items": 0,
-   "secs": 1.5
-  },
-  {
-   "source": "Reclub: Tri-City Volleyball",
-   "ok": true,
-   "items": 0,
-   "secs": 1.5
+   "secs": 2.1
   },
   {
    "source": "Reclub: Tyrants Volleyball Club",
@@ -4535,70 +4611,64 @@
    "source": "Watch: Berkeley – Adult Volleyball, James Kenney Communit",
    "ok": true,
    "items": 0,
-   "secs": 0.4
-  },
-  {
-   "source": "Watch: SF Rec & Park – Fall 2026 adult drop-in volleyball",
-   "ok": true,
-   "items": 0,
-   "secs": 0.6
+   "secs": 0.3
   },
   {
    "source": "Watch: SF Rec & Park Adult Sports Leagues (incl. Advanced",
    "ok": true,
    "items": 0,
-   "secs": 0.6
+   "secs": 0.7
   },
   {
-   "source": "Watch: Crown Memorial State Beach volleyball courts (info",
+   "source": "Watch: SF Rec & Park – Fall 2026 adult drop-in volleyball",
    "ok": true,
    "items": 0,
-   "secs": 0.2
+   "secs": 0.8
   },
   {
    "source": "Watch: SF Rec & Park – Drop-in Volleyball (Advanced), Eur",
    "ok": true,
    "items": 0,
-   "secs": 0.7
+   "secs": 0.8
   },
   {
    "source": "Watch: SF Rec & Park – Drop-in Adult Volleyball (Advanced",
    "ok": true,
    "items": 0,
-   "secs": 0.7
-  },
-  {
-   "source": "Watch: Milpitas Sports Center – Adult Drop-in Volleyball",
-   "ok": true,
-   "items": 0,
-   "secs": 0.5
+   "secs": 0.8
   },
   {
    "source": "Watch: UC Berkeley RecWell – Volleyball open rec (RSF)",
    "ok": true,
    "items": 0,
-   "secs": 1.4
+   "secs": 1.3
+  },
+  {
+   "source": "Watch: Milpitas Sports Center – Adult Drop-in Volleyball",
+   "ok": true,
+   "items": 0,
+   "secs": 0.6
   },
   {
    "source": "Watch: Emeryville – Open Gym Volleyball, Emeryville Cente",
    "ok": true,
    "items": 0,
-   "secs": 1.8
+   "secs": 2.4
+  },
+  {
+   "source": "Watch: Crown Memorial State Beach volleyball courts (info",
+   "ok": true,
+   "items": 0,
+   "secs": 2.4
   },
   {
    "source": "Watch: Campbell – Adult Open Gym Volleyball, Campbell Com",
    "ok": true,
    "items": 0,
-   "secs": 1.1
+   "secs": 2.1
   },
   {
    "source": "Watch: Daly City – Open Gym (Drop-in) Volleyball, Westlak",
-   "ok": true,
-   "items": 0,
-   "secs": 0.2
-  },
-  {
-   "source": "Watch: Pleasanton – Open Gym Volleyball, Pleasanton Middl",
    "ok": true,
    "items": 0,
    "secs": 0.5
@@ -4610,10 +4680,28 @@
    "secs": 1.2
   },
   {
+   "source": "Watch: Pleasanton – Open Gym Volleyball, Pleasanton Middl",
+   "ok": true,
+   "items": 0,
+   "secs": 0.4
+  },
+  {
+   "source": "Watch: Sunnyvale – Drop-in Gym Volleyball, Sunnyvale Indo",
+   "ok": true,
+   "items": 0,
+   "secs": 3.2
+  },
+  {
    "source": "Watch: Concord – Adult Volleyball (league play)",
    "ok": true,
    "items": 0,
-   "secs": 0.5
+   "secs": 0.6
+  },
+  {
+   "source": "Watch: Mountain View – Adult Drop-in Volleyball, Sports P",
+   "ok": true,
+   "items": 0,
+   "secs": 3.5
   },
   {
    "source": "Watch: Benicia – Adult Open Gym Volleyball, City Gym",
@@ -4631,7 +4719,7 @@
    "source": "Watch: Napa – Adult Drop-in Volleyball, Harvest Recreatio",
    "ok": true,
    "items": 0,
-   "secs": 0.6
+   "secs": 0.5
   },
   {
    "source": "Watch: Roseville – Drop-in Volleyball, Mahany Fitness Cen",
@@ -4640,31 +4728,7 @@
    "secs": 0.4
   },
   {
-   "source": "Watch: Mountain View – Adult Drop-in Volleyball, Sports P",
-   "ok": true,
-   "items": 0,
-   "secs": 3.2
-  },
-  {
-   "source": "Watch: Menlo Park – Adult Drop-in Volleyball, Arrillaga F",
-   "ok": true,
-   "items": 0,
-   "secs": 3.4
-  },
-  {
-   "source": "Watch: Sunnyvale – Drop-in Gym Volleyball, Sunnyvale Indo",
-   "ok": true,
-   "items": 0,
-   "secs": 3.5
-  },
-  {
    "source": "Watch: San Jose – Drop-in Volleyball, Camden Community Ce",
-   "ok": true,
-   "items": 0,
-   "secs": 0.2
-  },
-  {
-   "source": "Watch: Active Sports Club Oakland – volleyball open gym",
    "ok": true,
    "items": 0,
    "secs": 0.4
@@ -4673,37 +4737,13 @@
    "source": "Watch: Cosumnes CSD – Drop-in Volleyball, Wackford Comple",
    "ok": true,
    "items": 0,
-   "secs": 0.7
+   "secs": 1.1
   },
   {
-   "source": "Watch: SportsHouse Redwood City – Adult Volleyball drop-i",
+   "source": "Watch: Active Sports Club Oakland – volleyball open gym",
    "ok": true,
    "items": 0,
-   "secs": 0.2
-  },
-  {
-   "source": "Watch: IVL Open Gym – Wilcox High School (adult only)",
-   "ok": true,
-   "items": 1,
-   "secs": 0.5
-  },
-  {
-   "source": "Watch: YMCA of Silicon Valley – court sports (volleyball)",
-   "ok": true,
-   "items": 0,
-   "secs": 0.2
-  },
-  {
-   "source": "Watch: Walnut Creek – Drop-in Volleyball, Tice Valley Gym",
-   "ok": true,
-   "items": 0,
-   "secs": 3.7
-  },
-  {
-   "source": "Watch: ZogSports SF & East Bay – adult volleyball",
-   "ok": true,
-   "items": 0,
-   "secs": 0.2
+   "secs": 0.4
   },
   {
    "source": "Watch: Redwood City – Drop-in Volleyball, Armory",
@@ -4712,22 +4752,46 @@
    "secs": 4.9
   },
   {
+   "source": "Watch: Menlo Park – Adult Drop-in Volleyball, Arrillaga F",
+   "ok": true,
+   "items": 0,
+   "secs": 5.2
+  },
+  {
+   "source": "Watch: SportsHouse Redwood City – Adult Volleyball drop-i",
+   "ok": true,
+   "items": 0,
+   "secs": 0.6
+  },
+  {
+   "source": "Watch: IVL Open Gym – Wilcox High School (adult only)",
+   "ok": true,
+   "items": 0,
+   "secs": 0.2
+  },
+  {
+   "source": "Watch: YMCA of Silicon Valley – court sports (volleyball)",
+   "ok": true,
+   "items": 0,
+   "secs": 0.4
+  },
+  {
+   "source": "Watch: Walnut Creek – Drop-in Volleyball, Tice Valley Gym",
+   "ok": true,
+   "items": 0,
+   "secs": 4.3
+  },
+  {
    "source": "Watch: Stonewall Sports SF – indoor volleyball (LGBTQ+)",
    "ok": true,
    "items": 0,
-   "secs": 0.3
+   "secs": 0.2
   },
   {
    "source": "Watch: Basketball Nation – Adult Volleyball Open Gym (Dre",
    "ok": true,
    "items": 0,
-   "secs": 1.5
-  },
-  {
-   "source": "Watch: Play in the Bay / SF Spikers",
-   "ok": true,
-   "items": 0,
-   "secs": 0.1
+   "secs": 1.4
   },
   {
    "source": "Watch: OutLoud Sports SF – volleyball (queer+)",
@@ -4736,13 +4800,43 @@
    "secs": 0.2
   },
   {
+   "source": "Watch: Play in the Bay / SF Spikers",
+   "ok": true,
+   "items": 0,
+   "secs": 0.1
+  },
+  {
+   "source": "Watch: Folsom – Adult Drop-in Volleyball, Folsom Middle S",
+   "ok": true,
+   "items": 0,
+   "secs": 3.6
+  },
+  {
+   "source": "Watch: Volo Sports SF – volleyball leagues, drop-ins & pi",
+   "ok": true,
+   "items": 1,
+   "secs": 1.3
+  },
+  {
    "source": "Watch: The League Sports (TLS)",
    "ok": true,
    "items": 0,
-   "secs": 0.3
+   "secs": 0.4
+  },
+  {
+   "source": "Watch: ZogSports SF & East Bay – adult volleyball",
+   "ok": true,
+   "items": 0,
+   "secs": 1.1
   },
   {
    "source": "Watch: VolleyNation (grass tournaments)",
+   "ok": true,
+   "items": 0,
+   "secs": 0.4
+  },
+  {
+   "source": "Watch: NCVA – Adult league/tournaments",
    "ok": true,
    "items": 0,
    "secs": 0.3
@@ -4751,19 +4845,7 @@
    "source": "Watch: CBVA – California Beach Volleyball Association (No",
    "ok": true,
    "items": 0,
-   "secs": 0.3
-  },
-  {
-   "source": "Watch: NCVA – Adult league/tournaments",
-   "ok": true,
-   "items": 0,
-   "secs": 0.2
-  },
-  {
-   "source": "Watch: GoodRec – open play volleyball (Bay Area)",
-   "ok": true,
-   "items": 0,
-   "secs": 0.3
+   "secs": 0.4
   },
   {
    "source": "Watch: VBmatch.com – coed & reverse-coed leagues, grass t",
@@ -4775,19 +4857,19 @@
    "source": "Watch: Xoso Sport & Social – volleyball (Sacramento & Roc",
    "ok": true,
    "items": 0,
-   "secs": 0.4
+   "secs": 0.5
+  },
+  {
+   "source": "Watch: GoodRec – open play volleyball (Bay Area)",
+   "ok": true,
+   "items": 1,
+   "secs": 0.5
   },
   {
    "source": "Watch: Santa Cruz Main Beach volleyball courts (pickup)",
    "ok": true,
    "items": 0,
-   "secs": 3.1
-  },
-  {
-   "source": "Watch: Volo Sports SF – volleyball leagues, drop-ins & pi",
-   "ok": true,
-   "items": 0,
-   "secs": 1.8
+   "secs": 3.9
   },
   {
    "source": "Watch: Menlo Park – PerfectMind drop-in volleyball bookin",
@@ -4796,22 +4878,10 @@
    "secs": 0.4
   },
   {
-   "source": "Watch: Folsom – Adult Drop-in Volleyball, Folsom Middle S",
-   "ok": true,
-   "items": 0,
-   "secs": 3.8
-  },
-  {
    "source": "Watch: All Out Sports League – adult volleyball",
    "ok": true,
    "items": 0,
-   "secs": 0.7
-  },
-  {
-   "source": "Watch: Stanford sand volleyball courts – postdoc pickup",
-   "ok": true,
-   "items": 1,
-   "secs": 4.0
+   "secs": 0.6
   },
   {
    "source": "Watch: Alameda Rec & Parks – Adult Open Gym (volleyball),",
@@ -4822,35 +4892,20 @@
    "source": "Watch: Redwood City – Open Gym (Armory & Red Morton)",
    "ok": true,
    "items": 0,
-   "secs": 3.5
+   "secs": 5.8
+  },
+  {
+   "source": "Watch: Stanford sand volleyball courts – postdoc pickup",
+   "ok": true,
+   "items": 1,
+   "secs": 49.4
   }
  ],
  "blocked_cities": {
   "Sunnyvale": {
-   "events": 34,
+   "events": 33,
    "news_and_updates": 4,
    "sample_events": [
-    {
-     "date_local": "Wed Nov 11 2026, 03:00 PM PT",
-     "title": "Co-Ed Doubles Volleyball Wednesday 3PM",
-     "source": "Meetup: Sunnyvale / San Jose Volleyball",
-     "link": "https://www.meetup.com/volleyball-group/events/317186463/",
-     "verification_state": "DISCOVERED"
-    },
-    {
-     "date_local": "Wed Nov 11 2026, 09:30 PM PT",
-     "title": "MVVV - Men’s Open Gym",
-     "source": "Bay Area Open Gyms",
-     "link": "https://reclub.co/m/FCDKIY",
-     "verification_state": "DISCOVERED"
-    },
-    {
-     "date_local": "Wed Nov 11 2026, 09:45 PM PT",
-     "title": "MVVC Wednesday Men/Coed Open Gym",
-     "source": "Mountain View Volleyball Club",
-     "link": "https://reclub.co/m/Y7FIUT",
-     "verification_state": "DISCOVERED"
-    },
     {
      "date_local": "Thu Nov 12 2026, 12:00 PM PT",
      "title": "Co-Ed Doubles Volleyball Thursday 12PM",
@@ -4885,6 +4940,27 @@
      "source": "Bay Area Open Gyms",
      "link": "https://reclub.co/m/EN56TF",
      "verification_state": "DISCOVERED"
+    },
+    {
+     "date_local": "Thu Nov 12 2026, 09:45 PM PT",
+     "title": "MVVC Thursday Late Night Reversed Coed",
+     "source": "Mountain View Volleyball Club",
+     "link": "https://reclub.co/m/MR2XLG",
+     "verification_state": "DISCOVERED"
+    },
+    {
+     "date_local": "Fri Nov 13 2026, 12:30 PM PT",
+     "title": "Lunch Time Volleyball",
+     "source": "Meetup: SunnyVale Lunch Time VolleyBall (SV LTVB)",
+     "link": "https://www.meetup.com/sunnyvalelunchtimevolleyball/events/317123290/",
+     "verification_state": "DISCOVERED"
+    },
+    {
+     "date_local": "Fri Nov 13 2026, 02:00 PM PT",
+     "title": "Co-Ed Doubles Volleyball Friday Early Bird",
+     "source": "Meetup: Sunnyvale / San Jose Volleyball",
+     "link": "https://www.meetup.com/volleyball-group/events/317315854/",
+     "verification_state": "DISCOVERED"
     }
    ],
    "sample_news": [
@@ -4913,23 +4989,9 @@
    "sources_failed": 0
   },
   "Mountain View": {
-   "events": 18,
+   "events": 17,
    "news_and_updates": 0,
    "sample_events": [
-    {
-     "date_local": "Wed Nov 11 2026, 09:30 PM PT",
-     "title": "MVVV - Men’s Open Gym",
-     "source": "Bay Area Open Gyms",
-     "link": "https://reclub.co/m/FCDKIY",
-     "verification_state": "DISCOVERED"
-    },
-    {
-     "date_local": "Wed Nov 11 2026, 09:45 PM PT",
-     "title": "MVVC Wednesday Men/Coed Open Gym",
-     "source": "Mountain View Volleyball Club",
-     "link": "https://reclub.co/m/Y7FIUT",
-     "verification_state": "DISCOVERED"
-    },
     {
      "date_local": "Thu Nov 12 2026, 09:30 PM PT",
      "title": "MVVC Late Night Thursday Reversed Coed",
@@ -4970,6 +5032,20 @@
      "title": "MVVC Friday Men/Coed Open Gym",
      "source": "Mountain View Volleyball Club",
      "link": "https://reclub.co/m/LHFRW9",
+     "verification_state": "DISCOVERED"
+    },
+    {
+     "date_local": "Fri Nov 13 2026, 09:45 PM PT",
+     "title": "MVVC Friday Court Rental B",
+     "source": "Mountain View Volleyball Club",
+     "link": "https://reclub.co/m/AWWNND",
+     "verification_state": "DISCOVERED"
+    },
+    {
+     "date_local": "Fri Nov 13 2026, 09:45 PM PT",
+     "title": "MVVC Friday Court Rental A",
+     "source": "Mountain View Volleyball Club",
+     "link": "https://reclub.co/m/NYL0A2",
      "verification_state": "DISCOVERED"
     }
    ],
@@ -5042,9 +5118,15 @@
   },
   "Emeryville": {
    "events": 0,
-   "news_and_updates": 0,
+   "news_and_updates": 1,
    "sample_events": [],
-   "sample_news": [],
+   "sample_news": [
+    {
+     "title": "Updated: Volo Sports SF – volleyball leagues, drop-ins & pickups",
+     "source": "Page watch",
+     "link": "https://www.volosports.com/san-francisco/volleyball"
+    }
+   ],
    "sources_ok": 4,
    "sources_failed": 0
   },

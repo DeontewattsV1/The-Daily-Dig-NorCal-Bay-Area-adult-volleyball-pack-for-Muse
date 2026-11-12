@@ -1,5 +1,5 @@
 # The Daily Dig: NorCal & Bay Area adult volleyball pack for Muse
-
+[![Daily Dig](https://github.com/DeontewattsV1/The-Daily-Dig-NorCal-Bay-Area-adult-volleyball-pack-for-Muse/actions/workflows/daily-dig.yml/badge.svg)](https://github.com/DeontewattsV1/The-Daily-Dig-NorCal-Bay-Area-adult-volleyball-pack-for-Muse/actions/workflows/daily-dig.yml)
 Built 2026-11-10 (PT) for @ask.diggy. Everything here is public-web data with a source link and a verification date. **Nothing has been posted, and no accounts were signed into.**
 
 ## What's in the folder
